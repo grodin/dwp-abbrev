@@ -4,6 +4,7 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
+import org.jetbrains.compose.web.attributes.autoFocus
 import org.jetbrains.compose.web.css.padding
 import org.jetbrains.compose.web.css.px
 import org.jetbrains.compose.web.dom.*
@@ -17,6 +18,7 @@ fun main() {
 
     Div({ style { padding(25.px) } }) {
       TextInput {
+        autoFocus()
         value(filter)
         onInput {
           filter = it.value
