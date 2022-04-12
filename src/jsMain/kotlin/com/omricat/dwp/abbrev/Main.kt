@@ -39,16 +39,7 @@ fun main() {
   }
 }
 
-data class Abbreviation(val abbreviation: String, val description: String)
-
-fun abbrev(pair: Pair<String, String>): Abbreviation =
-  Abbreviation(abbreviation = pair.first, description = pair.second)
-
-fun abbreviationsFromPairs(
-  pairs: Collection<Pair<String, String>>
-): List<Abbreviation> = pairs.map { abbrev(it) }
-
-val dummyAbbrevs = abbreviationsFromPairs(
+internal val dummyAbbrevs = abbreviationsFromPairs(
   listOf(
     "AB" to "Arse Biscuits",
     "CB" to "Click Biscuits",
