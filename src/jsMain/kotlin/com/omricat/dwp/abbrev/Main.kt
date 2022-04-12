@@ -27,10 +27,11 @@ fun main() {
     }
 
     Table {
-      dummyAbbrevs.filter { abbrev ->
+      abbreviations.filter { abbrev ->
         if (filter.isBlank()) true
         else abbrev.abbreviation.startsWith(filter.trim(), ignoreCase = true)
-      }.forEach {
+      }.take(160)
+      .forEach {
         Tr {
           Td { Text(it.abbreviation) }
           Td { Text(it.description) }
@@ -41,10 +42,4 @@ fun main() {
   }
 }
 
-internal val dummyAbbrevs = abbreviationsFromPairs(
-  listOf(
-    "AB" to "Arse Biscuits",
-    "CB" to "Click Biscuits",
-    "DWP" to "Department for Work and Pensions",
-  )
-)
+
