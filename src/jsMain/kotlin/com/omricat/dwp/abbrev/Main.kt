@@ -14,22 +14,21 @@ fun main() {
 
   renderComposable(rootElementId = "root") {
 
-    var filter: String by remember { mutableStateOf("") }
+    var filterQuery: String by remember { mutableStateOf("") }
 
     Div({ style { padding(25.px) } }) {
       TextInput {
         autoFocus()
-        value(filter)
+        value(filterQuery)
         onInput {
-          filter = it.value
+          filterQuery = it.value
         }
       }
     }
 
     Table {
       abbreviations.filter { abbrev ->
-        if (filter.isBlank()) true
-        else abbrev.abbreviation.startsWith(filter.trim(), ignoreCase = true)
+        filter(filterQuery, abbrev.abbreviation)
       }.take(160)
       .forEach {
         Tr {
