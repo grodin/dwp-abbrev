@@ -30,6 +30,7 @@ fun main() {
       abbreviations.filter { abbrev ->
         filter(filterQuery, abbrev.abbreviation)
       }.take(160)
+      .sortedBy { it.abbreviation }
       .forEach {
         Tr {
           Td { Text(it.abbreviation) }
