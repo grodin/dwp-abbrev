@@ -2315,6 +2315,7 @@ internal val abbreviations = listOf(
 """SSO""" to """Senior Scientific Officer""",
 """SSO""" to """Social Security Office""",
 """SSO""" to """Single Sign On""",
+"""SSOG""" to """Single Source of Guidance""",
 """SSP""" to """Statutory Sick Pay""",
 """SSPB""" to """Shared Services Programme Board""",
 """STAP""" to """Single Terminal Access Project""",
