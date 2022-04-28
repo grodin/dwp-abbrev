@@ -2290,6 +2290,7 @@ internal val abbreviations = listOf(
 """SQL""" to """Structured Query Language""",
 """SR""" to """Service Request""",
 """SR""" to """Special Rules""",
+"""SRB""" to """Supplementary Record of Benefit""",
 """SRG""" to """System Reference Guide""",
 """SRI""" to """Summons Reissue""",
 """SRM""" to """Supplier Relationship Management""",
