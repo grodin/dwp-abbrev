@@ -10,6 +10,8 @@ import org.jetbrains.compose.web.css.px
 import org.jetbrains.compose.web.dom.*
 import org.jetbrains.compose.web.renderComposable
 
+private const val MAX_ENTRIES_SHOWN = 100
+
 fun main() {
 
   renderComposable(rootElementId = "root") {
@@ -29,7 +31,7 @@ fun main() {
     Table {
       abbreviations.filter { abbrev ->
         filter(filterQuery, abbrev.abbreviation)
-      }.take(160)
+      }.take(MAX_ENTRIES_SHOWN)
       .sortedBy { it.abbreviation }
       .forEach {
         Tr {
