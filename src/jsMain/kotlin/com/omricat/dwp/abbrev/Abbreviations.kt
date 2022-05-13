@@ -1807,6 +1807,7 @@ internal val abbreviations = listOf(
 """PCN""" to """Project Critical Network""",
 """PCP""" to """Pensions Contact Point""",
 """PCPG""" to """Pension Credit Procedural Guide""",
+"""PCR""" to """Periodic Case Review""",
 """PCT""" to """Primary Care Trust""",
 """PCU""" to """Parliamentary Correspondence Unit""",
 """PD""" to """Personal Details""",
