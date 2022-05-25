@@ -94,6 +94,7 @@ internal val abbreviations = listOf(
 """ANNI DATE""" to """Anniversary Date - Mortgage""",
 """ANOVA""" to """Analysis of Variance""",
 """ANRP""" to """alleged Non-resident parent""",
+"""ANSoD""" to """Award Notice and Statement of Detail""",
 """AO""" to """Administrative Officer""",
 """AO""" to """Authorised Officer""",
 """AO POWERS""" to """Authorised Officer Powers""",
