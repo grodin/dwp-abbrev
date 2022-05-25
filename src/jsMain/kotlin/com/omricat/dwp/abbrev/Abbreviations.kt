@@ -829,6 +829,7 @@ internal val abbreviations = listOf(
 """EFF""" to """Effective""",
 """EFTA""" to """European Free Trade Agreement""",
 """EG""" to """Employment Group""",
+"""EGT""" to """Evidence Gathering Tool""",
 """EHL""" to """Employer Helpline""",
 """EI""" to """exempt income""",
 """EIA""" to """Equality Impact Analysis""",
