@@ -2103,7 +2103,7 @@ internal val abbreviations = listOf(
 """RR""" to """Rapid Reclaim""",
 """RR""" to """Rapid Review""",
 """RRC""" to """Reducing Regulation Committee""",
-"""RRE""" to """"Reduced Rate Election""",
+"""RRE""" to """Reduced Rate Election""",
 """RSH""" to """Referral for Show Cause""",
 """RTA""" to """Returned for Authorisation""",
 """RTA""" to """Real Time Analyst""",
