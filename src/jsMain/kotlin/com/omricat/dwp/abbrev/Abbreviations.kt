@@ -1270,6 +1270,7 @@ internal val abbreviations = listOf(
 """IUC""" to """Interview Under Caution""",
 """IUC""" to """Invitation to Interview Under Caution""",
 """IVA""" to """Individual Voluntary Arrangement""",
+"""IVA""" to """Invalidty Addition""",
 """IVB""" to """Invalidity Benefit""",
 """IVR""" to """Interactive Voice Recognition""",
 """IVR""" to """Interactive Voice Response""",
