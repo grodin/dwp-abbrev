@@ -1991,6 +1991,7 @@ internal val abbreviations = listOf(
 """QBD""" to """Queen’s Bench Division""",
 """QC""" to """qualifying child""",
 """QC""" to """Queen’s Counsel""",
+"""QEF""" to """Qualifying Earnings Factor""",
 """QNINO""" to """Qualified National Insurance Number""",
 """QP""" to """Qualifying Period""",
 """QR""" to """Quality Review""",
