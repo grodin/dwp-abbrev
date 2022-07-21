@@ -2282,6 +2282,7 @@ internal val abbreviations = listOf(
 """SPC""" to """State Pension Credit""",
 """SPD""" to """State Pension Deferral""",
 """SPD/LSCC""" to """State Pension Deferral Lump sum Contingency Calculator""",
+"""SPLE""" to """State Pension LEAP Exercise""",
 """SPM""" to """Senior Performance Manager""",
 """SPO""" to """Secure Print Operator""",
 """SPO""" to """SharePoint Online""",
