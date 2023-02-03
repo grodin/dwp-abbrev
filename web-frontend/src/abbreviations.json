@@ -1,0 +1,8354 @@
+[
+  {
+    "abbr": "A and GT",
+    "desc": "Advice and Guidance Team"
+  },
+  {
+    "abbr": "A Day",
+    "desc": "Operational ‘Go Live’ day"
+  },
+  {
+    "abbr": "A&A",
+    "desc": "Abbreviations and Acronyms"
+  },
+  {
+    "abbr": "A&G",
+    "desc": "Advice and Guidance"
+  },
+  {
+    "abbr": "A/C",
+    "desc": "Account"
+  },
+  {
+    "abbr": "A2B",
+    "desc": "Approval to Buy"
+  },
+  {
+    "abbr": "AA",
+    "desc": "Attendance Allowance"
+  },
+  {
+    "abbr": "AAADG",
+    "desc": "Agents Appointees Attorneys and Deputies Guide"
+  },
+  {
+    "abbr": "AAC",
+    "desc": "Area Advice Centre"
+  },
+  {
+    "abbr": "AACS",
+    "desc": "Attendance Allowance Computer System"
+  },
+  {
+    "abbr": "AACT",
+    "desc": "Actual Average Clearance Time"
+  },
+  {
+    "abbr": "AAOT",
+    "desc": "Actual Average Outstanding Time"
+  },
+  {
+    "abbr": "AAP",
+    "desc": "Authorised Adjustment Payment Made"
+  },
+  {
+    "abbr": "AAU",
+    "desc": "Attendance Allowance Unit"
+  },
+  {
+    "abbr": "ABL",
+    "desc": "Account Breakdown (Letter)"
+  },
+  {
+    "abbr": "ABM",
+    "desc": "Activity Based Management"
+  },
+  {
+    "abbr": "ABS",
+    "desc": "Appointment Booking System"
+  },
+  {
+    "abbr": "AC",
+    "desc": "Activity Control"
+  },
+  {
+    "abbr": "ACAS",
+    "desc": "Advisory, Conciliation and Abritration Service"
+  },
+  {
+    "abbr": "ACBD",
+    "desc": "Account Breakdown"
+  },
+  {
+    "abbr": "ACC",
+    "desc": "Area Computer Centre"
+  },
+  {
+    "abbr": "Acc Num",
+    "desc": "Account Number"
+  },
+  {
+    "abbr": "ACCBD",
+    "desc": "Account Breakdown"
+  },
+  {
+    "abbr": "ACCR",
+    "desc": "Automated Credit Clearing Report"
+  },
+  {
+    "abbr": "ACCs",
+    "desc": "Accounts"
+  },
+  {
+    "abbr": "ACCT",
+    "desc": "Account"
+  },
+  {
+    "abbr": "ACD",
+    "desc": "Automated Call Distributor"
+  },
+  {
+    "abbr": "ACE",
+    "desc": "Agency Chief Executive"
+  },
+  {
+    "abbr": "ACF",
+    "desc": "Account Flag Indicators"
+  },
+  {
+    "abbr": "ACI",
+    "desc": "Adjudication and Constitutional Issues"
+  },
+  {
+    "abbr": "ACIB",
+    "desc": "Adjudication on Constitutional Issues Branch"
+  },
+  {
+    "abbr": "ACM",
+    "desc": "Active Case Management"
+  },
+  {
+    "abbr": "ACOT",
+    "desc": "Average Clearance Outstanding Times"
+  },
+  {
+    "abbr": "ACPO",
+    "desc": "Association of Chief Police Officers"
+  },
+  {
+    "abbr": "ACT",
+    "desc": "Automated Credit Transfer"
+  },
+  {
+    "abbr": "ACW",
+    "desc": "After Call Work"
+  },
+  {
+    "abbr": "AD",
+    "desc": "Area Director"
+  },
+  {
+    "abbr": "Ad Pen",
+    "desc": "Administrative Penalty"
+  },
+  {
+    "abbr": "ADA",
+    "desc": "Approved Disability Analyst"
+  },
+  {
+    "abbr": "ADC",
+    "desc": "Application Development Centre"
+  },
+  {
+    "abbr": "ADDACS",
+    "desc": "Automated Direct Debit Amendment and Cancellation Service"
+  },
+  {
+    "abbr": "ADI",
+    "desc": "Adult Dependant Increase"
+  },
+  {
+    "abbr": "ADJ",
+    "desc": "Adjustment"
+  },
+  {
+    "abbr": "ADM",
+    "desc": "Area Decision Maker"
+  },
+  {
+    "abbr": "ADT",
+    "desc": "Application Development Team"
+  },
+  {
+    "abbr": "AE",
+    "desc": "Administrative Error"
+  },
+  {
+    "abbr": "AEOR",
+    "desc": "Administrative Error Overpayment Recover"
+  },
+  {
+    "abbr": "AFCS",
+    "desc": "Armed Forces Compensation Scheme"
+  },
+  {
+    "abbr": "AFIP",
+    "desc": "Armed Forces Independent payment"
+  },
+  {
+    "abbr": "AFT",
+    "desc": "Ambassadors for Fair Treatment"
+  },
+  {
+    "abbr": "AGO",
+    "desc": "Attourney General's Office"
+  },
+  {
+    "abbr": "AHA",
+    "desc": "Area Health Authority"
+  },
+  {
+    "abbr": "AI",
+    "desc": "Assessable Income"
+  },
+  {
+    "abbr": "AIDS",
+    "desc": "Acquired Immune Deficiency Syndrome"
+  },
+  {
+    "abbr": "AIP",
+    "desc": "Assessed Income Period"
+  },
+  {
+    "abbr": "AIS",
+    "desc": "Audit Interrogation Screen"
+  },
+  {
+    "abbr": "AJCS",
+    "desc": "Accessing JC Customer Services"
+  },
+  {
+    "abbr": "AJT",
+    "desc": "Adjournments"
+  },
+  {
+    "abbr": "ALB",
+    "desc": "Arms Length Bodies"
+  },
+  {
+    "abbr": "ALO",
+    "desc": "Authorise Liability Order"
+  },
+  {
+    "abbr": "ALP",
+    "desc": "Agent Lead Process"
+  },
+  {
+    "abbr": "ALS",
+    "desc": "Application Live Support"
+  },
+  {
+    "abbr": "AM",
+    "desc": "Attendance Management"
+  },
+  {
+    "abbr": "AME",
+    "desc": "Annual Managed Expenditure"
+  },
+  {
+    "abbr": "ANNI DATE",
+    "desc": "Anniversary Date - Mortgage"
+  },
+  {
+    "abbr": "ANOVA",
+    "desc": "Analysis of Variance"
+  },
+  {
+    "abbr": "ANRP",
+    "desc": "alleged Non-resident parent"
+  },
+  {
+    "abbr": "AO",
+    "desc": "Authorised Officer"
+  },
+  {
+    "abbr": "AO POWERS",
+    "desc": "Authorised Officer Powers"
+  },
+  {
+    "abbr": "AOE",
+    "desc": "Attachment of Earnings"
+  },
+  {
+    "abbr": "AOW",
+    "desc": "Transfer of Ownership Action"
+  },
+  {
+    "abbr": "AP",
+    "desc": "Assessment Provider"
+  },
+  {
+    "abbr": "APA",
+    "desc": "Alternative Payment Arrangement"
+  },
+  {
+    "abbr": "APEX",
+    "desc": "application expert"
+  },
+  {
+    "abbr": "APM",
+    "desc": "Advanced Personnel Management"
+  },
+  {
+    "abbr": "APMT",
+    "desc": "Area Performance Management Team"
+  },
+  {
+    "abbr": "APP",
+    "desc": "Appointee"
+  },
+  {
+    "abbr": "App",
+    "desc": "Appendix"
+  },
+  {
+    "abbr": "APPT",
+    "desc": "Appointment"
+  },
+  {
+    "abbr": "APS",
+    "desc": "Assisant Private Secretary"
+  },
+  {
+    "abbr": "APT",
+    "desc": "Allowance Payments Team"
+  },
+  {
+    "abbr": "AR",
+    "desc": "Award Review"
+  },
+  {
+    "abbr": "AR Code",
+    "desc": "Acts and Regulations code"
+  },
+  {
+    "abbr": "ARC",
+    "desc": "Analyst Resourcing & Capability"
+  },
+  {
+    "abbr": "ARI",
+    "desc": "Automated Recovery Interface"
+  },
+  {
+    "abbr": "ARN",
+    "desc": "Agreement Reference Number"
+  },
+  {
+    "abbr": "ARR AGT",
+    "desc": "arrears agreement"
+  },
+  {
+    "abbr": "ARRS",
+    "desc": "Arrears"
+  },
+  {
+    "abbr": "ART",
+    "desc": "Accounts Reconciliation Team"
+  },
+  {
+    "abbr": "art",
+    "desc": "article"
+  },
+  {
+    "abbr": "ARUDD",
+    "desc": "automated return of unpaid direct debits"
+  },
+  {
+    "abbr": "AS",
+    "desc": "Appeals Service"
+  },
+  {
+    "abbr": "ASAP",
+    "desc": "As soon as possible"
+  },
+  {
+    "abbr": "ASE",
+    "desc": "Actively Seeking Employment"
+  },
+  {
+    "abbr": "ASG",
+    "desc": "Avon, Somerset & Gloucestershire"
+  },
+  {
+    "abbr": "ASH",
+    "desc": "Authorisation for Show Cause"
+  },
+  {
+    "abbr": "ASRM",
+    "desc": "Agency Senior Resolution Manager"
+  },
+  {
+    "abbr": "AST",
+    "desc": "Avon, Severn and Thames"
+  },
+  {
+    "abbr": "AST (D)",
+    "desc": "Accuracy Support Team (Disability)"
+  },
+  {
+    "abbr": "AT",
+    "desc": "Appeals Tribunal"
+  },
+  {
+    "abbr": "ATAS",
+    "desc": "Audit Trails Analysis System"
+  },
+  {
+    "abbr": "ATL",
+    "desc": "Audit Trail Log"
+  },
+  {
+    "abbr": "ATOS",
+    "desc": "Occupational Services"
+  },
+  {
+    "abbr": "ATP",
+    "desc": "Authority to Pay"
+  },
+  {
+    "abbr": "ATS",
+    "desc": "Appeals Tracking System"
+  },
+  {
+    "abbr": "ATW",
+    "desc": "Access To Work"
+  },
+  {
+    "abbr": "AU",
+    "desc": "Combined Payment"
+  },
+  {
+    "abbr": "AUDF",
+    "desc": "Assessment Unit Decision Form"
+  },
+  {
+    "abbr": "AUP",
+    "desc": "Acceptable Use Policy"
+  },
+  {
+    "abbr": "AWACS",
+    "desc": "Advice of Wrong Account for Automated Credit"
+  },
+  {
+    "abbr": "AWD",
+    "desc": "Award"
+  },
+  {
+    "abbr": "AWDL",
+    "desc": "Average Working Days Lost"
+  },
+  {
+    "abbr": "AWRR",
+    "desc": "All work–related requirements"
+  },
+  {
+    "abbr": "AXWAY",
+    "desc": "Internal File Transfer Client"
+  },
+  {
+    "abbr": "B&H",
+    "desc": "Bedfordshire & Hertfordshire"
+  },
+  {
+    "abbr": "B&L",
+    "desc": "board and lodging"
+  },
+  {
+    "abbr": "B/CERT",
+    "desc": "Birth Certificate"
+  },
+  {
+    "abbr": "B/D",
+    "desc": "Breakdown"
+  },
+  {
+    "abbr": "B/W",
+    "desc": "Benefit Week"
+  },
+  {
+    "abbr": "BA",
+    "desc": "Visual Basic Editor"
+  },
+  {
+    "abbr": "BACS",
+    "desc": "Banks Automated Clearing System"
+  },
+  {
+    "abbr": "BAFO",
+    "desc": "Benefits Agency Finance Office"
+  },
+  {
+    "abbr": "BAL ADJ",
+    "desc": "Balance Adjustment"
+  },
+  {
+    "abbr": "BALO",
+    "desc": "Benefits Agency Local Office"
+  },
+  {
+    "abbr": "BAM",
+    "desc": "Business Activity Monitoring"
+  },
+  {
+    "abbr": "BAMS",
+    "desc": "Benefits Agency Medical Service"
+  },
+  {
+    "abbr": "BAU",
+    "desc": "Business as Usual"
+  },
+  {
+    "abbr": "BAUT",
+    "desc": "Business as Usual Team"
+  },
+  {
+    "abbr": "BB",
+    "desc": "Bereavement Benefit"
+  },
+  {
+    "abbr": "BBL",
+    "desc": "Baby Born Letter"
+  },
+  {
+    "abbr": "BBO",
+    "desc": "Bucks, Oxfordshire & Berks"
+  },
+  {
+    "abbr": "BC",
+    "desc": "Business Case"
+  },
+  {
+    "abbr": "BCE",
+    "desc": "Business Continuity Event"
+  },
+  {
+    "abbr": "BCP",
+    "desc": "Business Continuity Plan"
+  },
+  {
+    "abbr": "BCS",
+    "desc": "Business Controls System"
+  },
+  {
+    "abbr": "BCT",
+    "desc": "Business Continuity Team"
+  },
+  {
+    "abbr": "BD",
+    "desc": "Benefit Directorate"
+  },
+  {
+    "abbr": "BDC",
+    "desc": "Business Development and Control"
+  },
+  {
+    "abbr": "BDCM",
+    "desc": "Benefit Delivery Centre Manager"
+  },
+  {
+    "abbr": "BDE",
+    "desc": "Benefit Delivery Expert"
+  },
+  {
+    "abbr": "BDF",
+    "desc": "Benefit Delivery Framework"
+  },
+  {
+    "abbr": "BDM",
+    "desc": "Benefit Delivery Manager"
+  },
+  {
+    "abbr": "BDO",
+    "desc": "Benefit Delivery Officer"
+  },
+  {
+    "abbr": "BDP",
+    "desc": "Benefit Delivery Process"
+  },
+  {
+    "abbr": "BDRG",
+    "desc": "Benefits Document Retention Guide"
+  },
+  {
+    "abbr": "BE",
+    "desc": "Basic Element"
+  },
+  {
+    "abbr": "BEL",
+    "desc": "Benefit Enquiry Line"
+  },
+  {
+    "abbr": "BEN",
+    "desc": "Benefit"
+  },
+  {
+    "abbr": "BET",
+    "desc": "Business Engagement Team"
+  },
+  {
+    "abbr": "BEU",
+    "desc": "Business Expert User"
+  },
+  {
+    "abbr": "BExBI",
+    "desc": "Business Expenditure Business Information"
+  },
+  {
+    "abbr": "BF",
+    "desc": "Brought Forward"
+  },
+  {
+    "abbr": "BFD",
+    "desc": "Benefit Fraud Directorate"
+  },
+  {
+    "abbr": "BFIS",
+    "desc": "Benefit Fraud Investigation Service"
+  },
+  {
+    "abbr": "BFPO",
+    "desc": "British Forces Post Office"
+  },
+  {
+    "abbr": "BH",
+    "desc": "Bedfordshire and Hertfordshire"
+  },
+  {
+    "abbr": "BHOCA",
+    "desc": "Bank Head Office Collections Account"
+  },
+  {
+    "abbr": "BI",
+    "desc": "Business Intelligence"
+  },
+  {
+    "abbr": "BIA",
+    "desc": "Business Impact Analysis"
+  },
+  {
+    "abbr": "BIC",
+    "desc": "Business Information Centre"
+  },
+  {
+    "abbr": "BIC FILE",
+    "desc": "Benefit Involved Case"
+  },
+  {
+    "abbr": "BICT",
+    "desc": "Bereavement Information Capture Tool"
+  },
+  {
+    "abbr": "BINFO",
+    "desc": "Bank Information"
+  },
+  {
+    "abbr": "BIR",
+    "desc": "Business Incident Report"
+  },
+  {
+    "abbr": "BL",
+    "desc": "Budgeting Loan"
+  },
+  {
+    "abbr": "BLACC",
+    "desc": "Bank Liaison Automation and Customer Contact"
+  },
+  {
+    "abbr": "BLS",
+    "desc": "Bank Liaison Service"
+  },
+  {
+    "abbr": "BLUES",
+    "desc": "Benefit Local User Enquiry Service"
+  },
+  {
+    "abbr": "BMML",
+    "desc": "Business Meet Me Line"
+  },
+  {
+    "abbr": "BMO",
+    "desc": "Business Management Office"
+  },
+  {
+    "abbr": "BMS-R",
+    "desc": "Business Management System Relational"
+  },
+  {
+    "abbr": "BMSR",
+    "desc": "Business Management Series Relational"
+  },
+  {
+    "abbr": "BOC",
+    "desc": "Better off Calculation"
+  },
+  {
+    "abbr": "BOM",
+    "desc": "Business Organisational Model"
+  },
+  {
+    "abbr": "BONO",
+    "desc": "Benefit Office Number"
+  },
+  {
+    "abbr": "BOR",
+    "desc": "Bulk Office Re-organisation"
+  },
+  {
+    "abbr": "BOS",
+    "desc": "Business Optimising Sub-system"
+  },
+  {
+    "abbr": "BP",
+    "desc": "Business Partner"
+  },
+  {
+    "abbr": "BPAS",
+    "desc": "Banking and payment assignment services"
+  },
+  {
+    "abbr": "BPDTS",
+    "desc": "Benefits and Pensions Digital; Technology Services"
+  },
+  {
+    "abbr": "BPO",
+    "desc": "Benefit Processing Officer"
+  },
+  {
+    "abbr": "BPT",
+    "desc": "Business Partner Team"
+  },
+  {
+    "abbr": "BRE",
+    "desc": "Business Reply Envelope"
+  },
+  {
+    "abbr": "BRM",
+    "desc": "Business Relationship Management"
+  },
+  {
+    "abbr": "BS",
+    "desc": "Birmingham & Solihull"
+  },
+  {
+    "abbr": "BS (II)",
+    "desc": "Benefits Support (Industrial Injuries)"
+  },
+  {
+    "abbr": "BSL",
+    "desc": "British Sign Language"
+  },
+  {
+    "abbr": "BSO",
+    "desc": "Bankers Standing Order"
+  },
+  {
+    "abbr": "BSP",
+    "desc": "Bereavement Support Payment"
+  },
+  {
+    "abbr": "BSS",
+    "desc": "Berkshire, Surrey and Sussex"
+  },
+  {
+    "abbr": "BT",
+    "desc": "British Telecom"
+  },
+  {
+    "abbr": "BTWB",
+    "desc": "Back to Work Bonus"
+  },
+  {
+    "abbr": "BU",
+    "desc": "Business Unit"
+  },
+  {
+    "abbr": "BUC",
+    "desc": "Business Use Case"
+  },
+  {
+    "abbr": "BUM",
+    "desc": "Business Unit Manager"
+  },
+  {
+    "abbr": "BW",
+    "desc": "Benefit Week"
+  },
+  {
+    "abbr": "BWC",
+    "desc": "Benefit Week Commencing"
+  },
+  {
+    "abbr": "BWE",
+    "desc": "Benefit Week Ending"
+  },
+  {
+    "abbr": "BY",
+    "desc": "Benefit Year"
+  },
+  {
+    "abbr": "C",
+    "desc": "Chapter"
+  },
+  {
+    "abbr": "C of E",
+    "desc": "Church of England"
+  },
+  {
+    "abbr": "C&P",
+    "desc": "Claims and Payments"
+  },
+  {
+    "abbr": "C/B",
+    "desc": "Call back"
+  },
+  {
+    "abbr": "C/H",
+    "desc": "Care Home"
+  },
+  {
+    "abbr": "C/o",
+    "desc": "Care of"
+  },
+  {
+    "abbr": "C/P",
+    "desc": "Case Paper"
+  },
+  {
+    "abbr": "CA",
+    "desc": "Court of Appeal"
+  },
+  {
+    "abbr": "CA CRM)",
+    "desc": "Carers Allowance Complaint Resolution Manager"
+  },
+  {
+    "abbr": "CAA",
+    "desc": "Constant Attendance Allowance"
+  },
+  {
+    "abbr": "CAB",
+    "desc": "Corporate Acting Body"
+  },
+  {
+    "abbr": "CACS",
+    "desc": "Carer’s Allowance Computer System"
+  },
+  {
+    "abbr": "CADS",
+    "desc": "Carers Allowance Digital Service"
+  },
+  {
+    "abbr": "CAF",
+    "desc": "Call Assessment Framework"
+  },
+  {
+    "abbr": "CALC(S)",
+    "desc": "Calculation(s)"
+  },
+  {
+    "abbr": "CAM",
+    "desc": "Commercial Account Management"
+  },
+  {
+    "abbr": "CAMlite",
+    "desc": "Customer Account Management lite"
+  },
+  {
+    "abbr": "CAN",
+    "desc": "Cancel an action"
+  },
+  {
+    "abbr": "CAP",
+    "desc": "Customer Access Phone"
+  },
+  {
+    "abbr": "CAPS",
+    "desc": "Customer Accounting and Payment System"
+  },
+  {
+    "abbr": "CAR",
+    "desc": "Contract Assessment Report"
+  },
+  {
+    "abbr": "CAS",
+    "desc": "Carer’s Allowance Supplement"
+  },
+  {
+    "abbr": "CAT",
+    "desc": "Central Admin Team"
+  },
+  {
+    "abbr": "CATP",
+    "desc": "Cancellation of Authority to Pay"
+  },
+  {
+    "abbr": "CAU",
+    "desc": "Central Appeals Unit"
+  },
+  {
+    "abbr": "CB",
+    "desc": "Child Benefit"
+  },
+  {
+    "abbr": "CBA",
+    "desc": "Cost Benefit Analysis"
+  },
+  {
+    "abbr": "CBC",
+    "desc": "Child Benefit Centre"
+  },
+  {
+    "abbr": "CBG",
+    "desc": "Capability Building Group"
+  },
+  {
+    "abbr": "CBIX",
+    "desc": "Child Benefit Index"
+  },
+  {
+    "abbr": "CBOL",
+    "desc": "Child Benefit On Line"
+  },
+  {
+    "abbr": "CBS",
+    "desc": "Call Booking System"
+  },
+  {
+    "abbr": "CC",
+    "desc": "Contact Centre"
+  },
+  {
+    "abbr": "CCA",
+    "desc": "Carers Allowance"
+  },
+  {
+    "abbr": "CCB",
+    "desc": "Community Charge Benefit"
+  },
+  {
+    "abbr": "CCBC",
+    "desc": "County Court Bulk Centre"
+  },
+  {
+    "abbr": "CCD",
+    "desc": "Contact Centre Directorate"
+  },
+  {
+    "abbr": "CCDC",
+    "desc": "Consultant in Communicable Disease Control"
+  },
+  {
+    "abbr": "CCG",
+    "desc": "Community Care Grant"
+  },
+  {
+    "abbr": "CCH",
+    "desc": "Customer Care Helpline"
+  },
+  {
+    "abbr": "CCI",
+    "desc": "Central Criminal Investigator"
+  },
+  {
+    "abbr": "CCIIS",
+    "desc": "Central Criminal Investigation and Intelligence Service"
+  },
+  {
+    "abbr": "CCJ",
+    "desc": "County Court Judgment"
+  },
+  {
+    "abbr": "CCM",
+    "desc": "Customer Case Management"
+  },
+  {
+    "abbr": "CCMS",
+    "desc": "Customer Conversion Management Service"
+  },
+  {
+    "abbr": "CCO",
+    "desc": "Customer Care Officer"
+  },
+  {
+    "abbr": "CCP",
+    "desc": "Change Control Process"
+  },
+  {
+    "abbr": "CCRR",
+    "desc": "Case Checks Results Report"
+  },
+  {
+    "abbr": "CCS",
+    "desc": "Contact Centre Services"
+  },
+  {
+    "abbr": "CCT",
+    "desc": "Criminal Compliance Team"
+  },
+  {
+    "abbr": "CCU",
+    "desc": "Central Control Unit"
+  },
+  {
+    "abbr": "CD",
+    "desc": "Commercial Directorate"
+  },
+  {
+    "abbr": "CDA",
+    "desc": "Central Design Authority"
+  },
+  {
+    "abbr": "CDAP",
+    "desc": "Corporate Death Arrears Payee"
+  },
+  {
+    "abbr": "CDI",
+    "desc": "Child Dependency Increase"
+  },
+  {
+    "abbr": "CDP",
+    "desc": "Customer Databases Programme"
+  },
+  {
+    "abbr": "CDR",
+    "desc": "Critical Design Review"
+  },
+  {
+    "abbr": "CDS",
+    "desc": "Corporate Directory Service"
+  },
+  {
+    "abbr": "CE",
+    "desc": "Chief Executive"
+  },
+  {
+    "abbr": "CED",
+    "desc": "Claim Effective Date"
+  },
+  {
+    "abbr": "CEM",
+    "desc": "case event management"
+  },
+  {
+    "abbr": "CEO",
+    "desc": "Chief Executive Officer"
+  },
+  {
+    "abbr": "CEP",
+    "desc": "Contracted Employment Provision"
+  },
+  {
+    "abbr": "CEPD",
+    "desc": "Contracted Employment Provision Directorate"
+  },
+  {
+    "abbr": "CERT",
+    "desc": "Complaint Enquiries and Review Team"
+  },
+  {
+    "abbr": "CES",
+    "desc": "Customer Enquiry Service"
+  },
+  {
+    "abbr": "CET",
+    "desc": "Client Engagement Team"
+  },
+  {
+    "abbr": "CFAT",
+    "desc": "Client Fund Account Team"
+  },
+  {
+    "abbr": "CFCD",
+    "desc": "Counter Fraud and Compliance Directorate"
+  },
+  {
+    "abbr": "CFIS",
+    "desc": "Counter Fraud Investigation Services"
+  },
+  {
+    "abbr": "CFS",
+    "desc": "Contract and Funding System"
+  },
+  {
+    "abbr": "CG",
+    "desc": "Client Group"
+  },
+  {
+    "abbr": "CH",
+    "desc": "Care Home"
+  },
+  {
+    "abbr": "CHAPS",
+    "desc": "Children, Health and Pensions Services"
+  },
+  {
+    "abbr": "CHB",
+    "desc": "Child Benefit"
+  },
+  {
+    "abbr": "ChB",
+    "desc": "Child Benefit"
+  },
+  {
+    "abbr": "CHB (LP)",
+    "desc": "Child Benefit (Lone Parent)"
+  },
+  {
+    "abbr": "CHB EP",
+    "desc": "Child Benefit Extension Period"
+  },
+  {
+    "abbr": "CHDA",
+    "desc": "Centre for Health and Disability Assessments"
+  },
+  {
+    "abbr": "CHES",
+    "desc": "Contracted Health and Employment Services"
+  },
+  {
+    "abbr": "Ches",
+    "desc": "Cheshire"
+  },
+  {
+    "abbr": "CHIS",
+    "desc": "Covert Human Intelligence Source"
+  },
+  {
+    "abbr": "CHS",
+    "desc": "Court Hearing"
+  },
+  {
+    "abbr": "CI",
+    "desc": "Criminal Investigator"
+  },
+  {
+    "abbr": "CIA",
+    "desc": "Criminal Investigator AssistantAssistant"
+  },
+  {
+    "abbr": "CIC",
+    "desc": "Customer Initiated Change"
+  },
+  {
+    "abbr": "CIL",
+    "desc": "Customer Information Leaflet"
+  },
+  {
+    "abbr": "CIO",
+    "desc": "Criminal Intelligence Officer"
+  },
+  {
+    "abbr": "CIS",
+    "desc": "Customer Information System"
+  },
+  {
+    "abbr": "CIS FLS",
+    "desc": "CIS Frontline Services"
+  },
+  {
+    "abbr": "CIT",
+    "desc": "Corporate Information Technology"
+  },
+  {
+    "abbr": "CIU",
+    "desc": "Central Intelligence Unit"
+  },
+  {
+    "abbr": "Civ Pen",
+    "desc": "Civil Penalty"
+  },
+  {
+    "abbr": "CIV PROC",
+    "desc": "Civil Proceedings"
+  },
+  {
+    "abbr": "CJA",
+    "desc": "Criminal Justice Act"
+  },
+  {
+    "abbr": "CL",
+    "desc": "Cumbria and Lancashire"
+  },
+  {
+    "abbr": "CL LE",
+    "desc": "Crisis Loan (for) Living Expenses"
+  },
+  {
+    "abbr": "CLBF",
+    "desc": "Clerical BF (Prompt Set)"
+  },
+  {
+    "abbr": "CLCA",
+    "desc": "Criminal Law Consolidation Act"
+  },
+  {
+    "abbr": "CLD",
+    "desc": "Change and Learning Delivery"
+  },
+  {
+    "abbr": "CLM",
+    "desc": "Customer Liaison Manager"
+  },
+  {
+    "abbr": "CLMT",
+    "desc": "Claimant"
+  },
+  {
+    "abbr": "CLN",
+    "desc": "caseload reference number"
+  },
+  {
+    "abbr": "CLO",
+    "desc": "Court Liaison Officer"
+  },
+  {
+    "abbr": "CLUES",
+    "desc": "Contact Centre Local User Enquiry System"
+  },
+  {
+    "abbr": "CM",
+    "desc": "Case Manager"
+  },
+  {
+    "abbr": "CMA",
+    "desc": "Clerical Maintenance Assessment"
+  },
+  {
+    "abbr": "CMB",
+    "desc": "Child Maintenance Bonus"
+  },
+  {
+    "abbr": "CMC",
+    "desc": "clerical maintenance calculation"
+  },
+  {
+    "abbr": "CMCP",
+    "desc": "Contract Management Capability Programme"
+  },
+  {
+    "abbr": "CMD",
+    "desc": "Child Maintenance Deduction"
+  },
+  {
+    "abbr": "CMDB",
+    "desc": "Configuration Management Database"
+  },
+  {
+    "abbr": "CMEC",
+    "desc": "Child Maintenance and Enforcement Commission"
+  },
+  {
+    "abbr": "CMED",
+    "desc": "Child Maintenance Enforcement Division (NI)"
+  },
+  {
+    "abbr": "CMGDW",
+    "desc": "Child Maintenance Group Data Warehouse"
+  },
+  {
+    "abbr": "CMO",
+    "desc": "Change Maintenance officer"
+  },
+  {
+    "abbr": "CMP",
+    "desc": "Contractual Maternity Pay"
+  },
+  {
+    "abbr": "CMPAT",
+    "desc": "Customer Materials, Procedures and Advice Team"
+  },
+  {
+    "abbr": "CMS",
+    "desc": "Child Maintenance Scheme"
+  },
+  {
+    "abbr": "CMSO",
+    "desc": "Case Manager Support Officers"
+  },
+  {
+    "abbr": "CMT",
+    "desc": "Customer Management Team"
+  },
+  {
+    "abbr": "CN",
+    "desc": "Clerical Notification"
+  },
+  {
+    "abbr": "CNI",
+    "desc": "Critical National Infrastructure"
+  },
+  {
+    "abbr": "CNP",
+    "desc": "Customer Notification Process"
+  },
+  {
+    "abbr": "CO",
+    "desc": "Court Order"
+  },
+  {
+    "abbr": "COA",
+    "desc": "Change of Address"
+  },
+  {
+    "abbr": "COBAP",
+    "desc": "Corporate Banking and Methods of Payment Group"
+  },
+  {
+    "abbr": "COBU",
+    "desc": "Central Office Business Unit"
+  },
+  {
+    "abbr": "CoC",
+    "desc": "Change of Circumstances"
+  },
+  {
+    "abbr": "CoE",
+    "desc": "Certificate of Entitlement"
+  },
+  {
+    "abbr": "COF",
+    "desc": "Child of the family"
+  },
+  {
+    "abbr": "CofC",
+    "desc": "Change of Circumstances"
+  },
+  {
+    "abbr": "Comms",
+    "desc": "Communications"
+  },
+  {
+    "abbr": "CON",
+    "desc": "Outgoing Telephone Contact"
+  },
+  {
+    "abbr": "Cont",
+    "desc": "Continuous"
+  },
+  {
+    "abbr": "CONTS/ IR",
+    "desc": "Contribution Based or Income Related"
+  },
+  {
+    "abbr": "Cont’d",
+    "desc": "Continued"
+  },
+  {
+    "abbr": "COO",
+    "desc": "Chief Operating Officer"
+  },
+  {
+    "abbr": "COP",
+    "desc": "Corporate Acting Payee"
+  },
+  {
+    "abbr": "CoP",
+    "desc": "Court of Protection"
+  },
+  {
+    "abbr": "Corre",
+    "desc": "Correspondence"
+  },
+  {
+    "abbr": "COS",
+    "desc": "Continuation and Sists"
+  },
+  {
+    "abbr": "COTS",
+    "desc": "Commercial Off The Shelf"
+  },
+  {
+    "abbr": "CP",
+    "desc": "Claim Pack"
+  },
+  {
+    "abbr": "CPA",
+    "desc": "Contract Package Area"
+  },
+  {
+    "abbr": "CPAB",
+    "desc": "Corporate Personal Acting Body"
+  },
+  {
+    "abbr": "CPB",
+    "desc": "Central Pensions Branch"
+  },
+  {
+    "abbr": "CPCS",
+    "desc": "Customer Payment Computer System"
+  },
+  {
+    "abbr": "CPD",
+    "desc": "Continuous Professional Development"
+  },
+  {
+    "abbr": "CPen",
+    "desc": "Civil Penalty"
+  },
+  {
+    "abbr": "CPI",
+    "desc": "Consumer Pricing Index"
+  },
+  {
+    "abbr": "CPIA",
+    "desc": "Criminal Procedure and Investigations Act"
+  },
+  {
+    "abbr": "CPMO",
+    "desc": "Change Portfolio Management Office"
+  },
+  {
+    "abbr": "CPMS",
+    "desc": "Change Programme Management System"
+  },
+  {
+    "abbr": "CPMT",
+    "desc": "Central Performance Management Team"
+  },
+  {
+    "abbr": "CPN",
+    "desc": "Community Psychiatric Nurse"
+  },
+  {
+    "abbr": "CPO",
+    "desc": "Court Presenting Officer"
+  },
+  {
+    "abbr": "CPP",
+    "desc": "Common Payments Package"
+  },
+  {
+    "abbr": "CPR",
+    "desc": "Court Presenting Officer Referral"
+  },
+  {
+    "abbr": "CPRO",
+    "desc": "Civilian Pay Record Office"
+  },
+  {
+    "abbr": "CPS",
+    "desc": "Crown Prosecution Service - no longer used as a term."
+  },
+  {
+    "abbr": "CPS DP",
+    "desc": "CPS Direct Payments"
+  },
+  {
+    "abbr": "CPS FP",
+    "desc": "CPS Faster Payments"
+  },
+  {
+    "abbr": "CPS LP",
+    "desc": "Central Payment System Local Payment"
+  },
+  {
+    "abbr": "CPT",
+    "desc": "Central Prosecution Team (Scotland)"
+  },
+  {
+    "abbr": "CPTMS",
+    "desc": "Central Processing Team Management Service"
+  },
+  {
+    "abbr": "CR",
+    "desc": "Compensation Recovery"
+  },
+  {
+    "abbr": "CRA",
+    "desc": "Credit Reference Agency"
+  },
+  {
+    "abbr": "CRC",
+    "desc": "Cyber Resilience Centre"
+  },
+  {
+    "abbr": "CRG",
+    "desc": "Customer Representative Group"
+  },
+  {
+    "abbr": "CRI",
+    "desc": "Centre of Research and Intelligence"
+  },
+  {
+    "abbr": "CRL",
+    "desc": "Computer Record Location"
+  },
+  {
+    "abbr": "CRM",
+    "desc": "Clerical Record Maker"
+  },
+  {
+    "abbr": "CRN",
+    "desc": "Customer Reference Number"
+  },
+  {
+    "abbr": "CRP",
+    "desc": "Contractual Redundancy Pay"
+  },
+  {
+    "abbr": "CRS",
+    "desc": "Child Support Reform"
+  },
+  {
+    "abbr": "CRT",
+    "desc": "Customer Relations Team"
+  },
+  {
+    "abbr": "CRU",
+    "desc": "Compensation Recovery Unit"
+  },
+  {
+    "abbr": "CS",
+    "desc": "Court of Session"
+  },
+  {
+    "abbr": "CS Act",
+    "desc": "Child Support Act"
+  },
+  {
+    "abbr": "CS Agent",
+    "desc": "Customer Service Agent"
+  },
+  {
+    "abbr": "CS2",
+    "desc": "Child Support 2"
+  },
+  {
+    "abbr": "CSA",
+    "desc": "Customer Service Agent"
+  },
+  {
+    "abbr": "CSAC",
+    "desc": "Child Support Agency Centre"
+  },
+  {
+    "abbr": "CSCF",
+    "desc": "Civil Service Competency Framework"
+  },
+  {
+    "abbr": "CSCS",
+    "desc": "Child Support Computer System"
+  },
+  {
+    "abbr": "CSD",
+    "desc": "Customer Services Directorate"
+  },
+  {
+    "abbr": "CSE",
+    "desc": "Customer Service Excellence"
+  },
+  {
+    "abbr": "CSHR",
+    "desc": "Civil Service Human Resources"
+  },
+  {
+    "abbr": "CSI",
+    "desc": "Continual Service Improvement"
+  },
+  {
+    "abbr": "CSIVA",
+    "desc": "Common Standards for Identity Verification and Authentication"
+  },
+  {
+    "abbr": "CSL",
+    "desc": "Civil Service Learning"
+  },
+  {
+    "abbr": "CSM",
+    "desc": "Customer Service Manager"
+  },
+  {
+    "abbr": "CSO",
+    "desc": "Customer Service Officer"
+  },
+  {
+    "abbr": "CSO A",
+    "desc": "Customer Support Officer (Appointments)"
+  },
+  {
+    "abbr": "CSO I",
+    "desc": "Customer Support Officer (Interviews)"
+  },
+  {
+    "abbr": "CSP",
+    "desc": "Contractual Sick Pay"
+  },
+  {
+    "abbr": "CSPSSA",
+    "desc": "Child Support Pensions and Social Security Act"
+  },
+  {
+    "abbr": "CSR",
+    "desc": "Consultancy Service Request"
+  },
+  {
+    "abbr": "CSS",
+    "desc": "Charter Standard Statement"
+  },
+  {
+    "abbr": "CST",
+    "desc": "Customer Services Team"
+  },
+  {
+    "abbr": "CSUS",
+    "desc": "Central Support Unit Scotland"
+  },
+  {
+    "abbr": "CT",
+    "desc": "Correspondence Team"
+  },
+  {
+    "abbr": "CTA",
+    "desc": "Common Travel Area"
+  },
+  {
+    "abbr": "CTB",
+    "desc": "Council Tax Benefit"
+  },
+  {
+    "abbr": "CTC",
+    "desc": "Countdown To Change"
+  },
+  {
+    "abbr": "CTF",
+    "desc": "Child Trust Fund"
+  },
+  {
+    "abbr": "CTI",
+    "desc": "Computer Telephony Integration"
+  },
+  {
+    "abbr": "CTM",
+    "desc": "Contribution to Maintenance"
+  },
+  {
+    "abbr": "CTMR",
+    "desc": "Customer"
+  },
+  {
+    "abbr": "CTO",
+    "desc": "Compulsory Treatment Order"
+  },
+  {
+    "abbr": "CTR",
+    "desc": "Council Tax Reduction"
+  },
+  {
+    "abbr": "CU",
+    "desc": "Case Update"
+  },
+  {
+    "abbr": "CUED",
+    "desc": "Common Update and Enquiry Dialogue"
+  },
+  {
+    "abbr": "CUST",
+    "desc": "Customer"
+  },
+  {
+    "abbr": "CV",
+    "desc": "Contract Variations"
+  },
+  {
+    "abbr": "CVA",
+    "desc": "Cerebro-vascular Accident"
+  },
+  {
+    "abbr": "CW",
+    "desc": "Case Worker"
+  },
+  {
+    "abbr": "CWP",
+    "desc": "Cold Weather Payment"
+  },
+  {
+    "abbr": "CY",
+    "desc": "Current Year"
+  },
+  {
+    "abbr": "CySP",
+    "desc": "Check Your State Pension"
+  },
+  {
+    "abbr": "D&E",
+    "desc": "Diversity and Equality"
+  },
+  {
+    "abbr": "D/CERT",
+    "desc": "Death Certificate"
+  },
+  {
+    "abbr": "DAAT",
+    "desc": "Decision Appeals and Assurance Team"
+  },
+  {
+    "abbr": "DAC",
+    "desc": "Decision Assurance Call"
+  },
+  {
+    "abbr": "DACS (NI)",
+    "desc": "Disability and Carers System (Northern Ireland)"
+  },
+  {
+    "abbr": "DAGC",
+    "desc": "Design Approvals and Governance Council"
+  },
+  {
+    "abbr": "DAP",
+    "desc": "Death Arrears Payee"
+  },
+  {
+    "abbr": "DAR",
+    "desc": "Decision Arrestment"
+  },
+  {
+    "abbr": "DAS",
+    "desc": "Debt Arrangement Scheme"
+  },
+  {
+    "abbr": "DASO",
+    "desc": "Diary Support Administration Officer"
+  },
+  {
+    "abbr": "DAT",
+    "desc": "Decision Attachment"
+  },
+  {
+    "abbr": "DAU",
+    "desc": "Unavailable Users"
+  },
+  {
+    "abbr": "DBC",
+    "desc": "Disability Benefits Centre"
+  },
+  {
+    "abbr": "DBCs",
+    "desc": "Disability Benefit Centres"
+  },
+  {
+    "abbr": "DBPAT",
+    "desc": "Disability Business Products and Advice Team"
+  },
+  {
+    "abbr": "DBR",
+    "desc": "Detailed Business Requirement"
+  },
+  {
+    "abbr": "DBS",
+    "desc": "Disclosure and Barring Service"
+  },
+  {
+    "abbr": "DBU",
+    "desc": "Disability Benefits Unit"
+  },
+  {
+    "abbr": "DC",
+    "desc": "Devon & Cornwall"
+  },
+  {
+    "abbr": "DCA",
+    "desc": "Department for Constitutional Affairs"
+  },
+  {
+    "abbr": "DCC",
+    "desc": "Diminishing Capital Calculation"
+  },
+  {
+    "abbr": "DCD",
+    "desc": "Disability and Carers Directorate"
+  },
+  {
+    "abbr": "DCF",
+    "desc": "Discounted Cash Flow"
+  },
+  {
+    "abbr": "DCI",
+    "desc": "Departmental Central Index"
+  },
+  {
+    "abbr": "DCM",
+    "desc": "District Comms Manager"
+  },
+  {
+    "abbr": "DCMU",
+    "desc": "Digital Case Management Unit"
+  },
+  {
+    "abbr": "DCO",
+    "desc": "Debt Co-ordination Officer"
+  },
+  {
+    "abbr": "DCP",
+    "desc": "District Control Point"
+  },
+  {
+    "abbr": "DCPU",
+    "desc": "Disability Contact and Processing Unit"
+  },
+  {
+    "abbr": "DCS",
+    "desc": "Disability and Carers Service"
+  },
+  {
+    "abbr": "DCSBCSCG",
+    "desc": "DCS Business Controls System Checking Guide"
+  },
+  {
+    "abbr": "DCSGRT",
+    "desc": "Director of Client Services and Government Relations Team"
+  },
+  {
+    "abbr": "DCT",
+    "desc": "Disability and Carers Team"
+  },
+  {
+    "abbr": "DD",
+    "desc": "Direct Debit"
+  },
+  {
+    "abbr": "DDA",
+    "desc": "Disability Discrimination Act"
+  },
+  {
+    "abbr": "DDaT",
+    "desc": "Digital, Data and Technology"
+  },
+  {
+    "abbr": "DDBP",
+    "desc": "Digital Delivery and Business Planning"
+  },
+  {
+    "abbr": "DDH",
+    "desc": "Display Detailed History"
+  },
+  {
+    "abbr": "DDI",
+    "desc": "Direct Debit Indemnity"
+  },
+  {
+    "abbr": "DDL",
+    "desc": "Dynamic Distribution List"
+  },
+  {
+    "abbr": "DDM",
+    "desc": "Direct Debit Mandate"
+  },
+  {
+    "abbr": "DDMG",
+    "desc": "Departure Decision Maker's Guide"
+  },
+  {
+    "abbr": "DDMS",
+    "desc": "Document and Data Management Service"
+  },
+  {
+    "abbr": "DDN",
+    "desc": "District Delivery Network"
+  },
+  {
+    "abbr": "DDPU",
+    "desc": " Departmental Data Protection Unit"
+  },
+  {
+    "abbr": "DDR",
+    "desc": "Document and Data Retention"
+  },
+  {
+    "abbr": "DDSP",
+    "desc": "Digital Delivery for Shared Platforms"
+  },
+  {
+    "abbr": "DE",
+    "desc": "Debt Enforcement"
+  },
+  {
+    "abbr": "DEA",
+    "desc": "Disability Employment Adviser"
+  },
+  {
+    "abbr": "DEC",
+    "desc": "Decision"
+  },
+  {
+    "abbr": "DECs",
+    "desc": "Display Energy Certificates"
+  },
+  {
+    "abbr": "DEC’D",
+    "desc": "Deceased"
+  },
+  {
+    "abbr": "DEDS",
+    "desc": "Deductions"
+  },
+  {
+    "abbr": "DEF",
+    "desc": "Deficient (Record)"
+  },
+  {
+    "abbr": "DEL",
+    "desc": "District Expenditure Limit"
+  },
+  {
+    "abbr": "DEM",
+    "desc": "Digital Engagement Manager"
+  },
+  {
+    "abbr": "DEO",
+    "desc": "Deductions from Earnings Order"
+  },
+  {
+    "abbr": "DER",
+    "desc": "Deductions from Earnings Request"
+  },
+  {
+    "abbr": "DERM",
+    "desc": "District External Relations Manager"
+  },
+  {
+    "abbr": "DET",
+    "desc": "Document Examination Team"
+  },
+  {
+    "abbr": "DEX",
+    "desc": "Dialogue Expert(s)"
+  },
+  {
+    "abbr": "DFA",
+    "desc": "Defered Financial Authority"
+  },
+  {
+    "abbr": "DFB",
+    "desc": "Deduction from Benefit"
+  },
+  {
+    "abbr": "DfE",
+    "desc": "Department for Education"
+  },
+  {
+    "abbr": "DFO",
+    "desc": "Date First Order in an order book"
+  },
+  {
+    "abbr": "DFU",
+    "desc": "Decision Furthcoming"
+  },
+  {
+    "abbr": "DG",
+    "desc": "Director General"
+  },
+  {
+    "abbr": "DH",
+    "desc": "Department of Health"
+  },
+  {
+    "abbr": "DHB",
+    "desc": "Disability Handbook"
+  },
+  {
+    "abbr": "DHP",
+    "desc": "Discretionary Housing Payment"
+  },
+  {
+    "abbr": "DI",
+    "desc": "disposable income"
+  },
+  {
+    "abbr": "DIA",
+    "desc": "Diversity Impact Assessment"
+  },
+  {
+    "abbr": "DIN",
+    "desc": "Decision Inhibition"
+  },
+  {
+    "abbr": "DIR ENQ",
+    "desc": "Directory Enquiries"
+  },
+  {
+    "abbr": "DIS",
+    "desc": "Disallowed / Disregard"
+  },
+  {
+    "abbr": "DIS BEN",
+    "desc": "Disability Benefit"
+  },
+  {
+    "abbr": "Dis Ben",
+    "desc": "Disablement Benefit"
+  },
+  {
+    "abbr": "DisBen",
+    "desc": " Industrial Injuries Disablement Benefit"
+  },
+  {
+    "abbr": "DiSC",
+    "desc": "Disability Services Client System"
+  },
+  {
+    "abbr": "DIU",
+    "desc": "Disclosure of Information Unit"
+  },
+  {
+    "abbr": "DL",
+    "desc": "Draft Letter"
+  },
+  {
+    "abbr": "DLA",
+    "desc": "Disability Living Allowance"
+  },
+  {
+    "abbr": "DLA (NI)",
+    "desc": "Disability Living Allowance (Northern Ireland)"
+  },
+  {
+    "abbr": "DLA HRCC",
+    "desc": "DLA Highest Rate Care Component"
+  },
+  {
+    "abbr": "DLACS",
+    "desc": "Disability Living Allowance Computer System"
+  },
+  {
+    "abbr": "DLACS (AA)",
+    "desc": "Disability Living Allowance (Attendance Allowance)"
+  },
+  {
+    "abbr": "DLO",
+    "desc": "Date Last Order in an order book"
+  },
+  {
+    "abbr": "DLT",
+    "desc": "Display Letter"
+  },
+  {
+    "abbr": "DM",
+    "desc": "Decision Maker"
+  },
+  {
+    "abbr": "DMA",
+    "desc": "Decision Making and Appeals"
+  },
+  {
+    "abbr": "DMA (Leeds)",
+    "desc": "Decision Making and Appeals (Leeds)"
+  },
+  {
+    "abbr": "DMA(HQ)",
+    "desc": "Decision Making and Appeals (HQ)"
+  },
+  {
+    "abbr": "DMACR",
+    "desc": "Decision Making and Appeals case recorder"
+  },
+  {
+    "abbr": "DMAPT",
+    "desc": "Decision Making, Appeals and Procedures Team"
+  },
+  {
+    "abbr": "DMAS",
+    "desc": "Decision Making and Appeals Service"
+  },
+  {
+    "abbr": "DMC",
+    "desc": "Document Management Centre"
+  },
+  {
+    "abbr": "DMCS",
+    "desc": "Debt Management Computer System"
+  },
+  {
+    "abbr": "DMD",
+    "desc": "Default Maintenance Decision"
+  },
+  {
+    "abbr": "DMG",
+    "desc": "Decision Makers Guide"
+  },
+  {
+    "abbr": "DML",
+    "desc": "Detailed Message Left"
+  },
+  {
+    "abbr": "DMPG",
+    "desc": "Decision Makers Procedural Guide"
+  },
+  {
+    "abbr": "DMR",
+    "desc": "Decision Makers Reasoning"
+  },
+  {
+    "abbr": "DMRFE",
+    "desc": "Debt Management Recovery from Estates"
+  },
+  {
+    "abbr": "DMS",
+    "desc": "Debt Management System"
+  },
+  {
+    "abbr": "DMS Tallyman",
+    "desc": "Debt Management System Tallyman"
+  },
+  {
+    "abbr": "DMU",
+    "desc": "Decision Making Unit"
+  },
+  {
+    "abbr": "DMVO",
+    "desc": "Decision Maker Visiting Officers"
+  },
+  {
+    "abbr": "DN",
+    "desc": "Draft Note"
+  },
+  {
+    "abbr": "DNA",
+    "desc": "Did Not Attend"
+  },
+  {
+    "abbr": "DO",
+    "desc": "District Office"
+  },
+  {
+    "abbr": "DoB",
+    "desc": "Date of Birth"
+  },
+  {
+    "abbr": "DOC",
+    "desc": "Date of Claim"
+  },
+  {
+    "abbr": "DOCS",
+    "desc": "Documents"
+  },
+  {
+    "abbr": "DoD",
+    "desc": "Date of Death"
+  },
+  {
+    "abbr": "DOH",
+    "desc": "Department of Health"
+  },
+  {
+    "abbr": "DOI",
+    "desc": "Digital Office Infrastructure"
+  },
+  {
+    "abbr": "DoJo",
+    "desc": "Innovation Team"
+  },
+  {
+    "abbr": "DORMANT",
+    "desc": "Put Away (Closed Claims)"
+  },
+  {
+    "abbr": "DOSN",
+    "desc": "District One Service Network"
+  },
+  {
+    "abbr": "DOT",
+    "desc": "Date of Transfer"
+  },
+  {
+    "abbr": "DP",
+    "desc": "Disabled People"
+  },
+  {
+    "abbr": "DP/FOI",
+    "desc": "Data Protection/Freedom of Information"
+  },
+  {
+    "abbr": "DPA",
+    "desc": "Deemed Pension Age"
+  },
+  {
+    "abbr": "DPAD",
+    "desc": "Direct Payment After Death"
+  },
+  {
+    "abbr": "DPF",
+    "desc": "Digital Planning Forum"
+  },
+  {
+    "abbr": "DPG",
+    "desc": "Departmental Planning Group. Below ET, chaired by a Director General"
+  },
+  {
+    "abbr": "DPLO",
+    "desc": "Data Protection Liaison Officer"
+  },
+  {
+    "abbr": "DPM",
+    "desc": "Data Protection Manual"
+  },
+  {
+    "abbr": "DPO",
+    "desc": "Data Protection Officer"
+  },
+  {
+    "abbr": "DPPD",
+    "desc": "Digital Planning, Performance and Delivery"
+  },
+  {
+    "abbr": "DPRS",
+    "desc": "Direct Payments Regeneration System"
+  },
+  {
+    "abbr": "DPRT",
+    "desc": "Digital People Resource Team"
+  },
+  {
+    "abbr": "DPS",
+    "desc": "Disabled Passenger Scheme"
+  },
+  {
+    "abbr": "DPTC",
+    "desc": "Disabled Persons Tax Credit"
+  },
+  {
+    "abbr": "DPU",
+    "desc": "Data Protection Unit"
+  },
+  {
+    "abbr": "DQ",
+    "desc": "Draft Question"
+  },
+  {
+    "abbr": "DR",
+    "desc": "Document Retention"
+  },
+  {
+    "abbr": "DRG",
+    "desc": "Data Retention Guide"
+  },
+  {
+    "abbr": "DRO",
+    "desc": "Departmental Records Office"
+  },
+  {
+    "abbr": "DRS",
+    "desc": "Document Repository System"
+  },
+  {
+    "abbr": "DRT",
+    "desc": "Disputes Resolution Team"
+  },
+  {
+    "abbr": "DSD (NI)",
+    "desc": "Department for Social Development (Northern Ireland)"
+  },
+  {
+    "abbr": "DSDM",
+    "desc": "Dynamic Systems Development Method"
+  },
+  {
+    "abbr": "DSDR",
+    "desc": "Disability Services & Dispute Resolution"
+  },
+  {
+    "abbr": "DSE",
+    "desc": "Display Screen Equipment"
+  },
+  {
+    "abbr": "DSG",
+    "desc": "Departmental Security Group"
+  },
+  {
+    "abbr": "DSH",
+    "desc": "Decision for Show Cause"
+  },
+  {
+    "abbr": "DSS",
+    "desc": "Department of Social Security"
+  },
+  {
+    "abbr": "DST",
+    "desc": "Disability Services Team"
+  },
+  {
+    "abbr": "DSU",
+    "desc": "Departure Standards Unit"
+  },
+  {
+    "abbr": "DTC",
+    "desc": "Disabled Tax Credit"
+  },
+  {
+    "abbr": "DTR",
+    "desc": "Desktop Review"
+  },
+  {
+    "abbr": "DTS",
+    "desc": "Details"
+  },
+  {
+    "abbr": "DTV",
+    "desc": "Durham and Tees Valley"
+  },
+  {
+    "abbr": "DUM",
+    "desc": "Define Users"
+  },
+  {
+    "abbr": "DUP",
+    "desc": "Duplicate"
+  },
+  {
+    "abbr": "DV",
+    "desc": "Domiciliary Visit"
+  },
+  {
+    "abbr": "DVLA",
+    "desc": "Driver and Vehicle Licensing Agency"
+  },
+  {
+    "abbr": "DVR",
+    "desc": "Departmental Verification Requirement"
+  },
+  {
+    "abbr": "DWA",
+    "desc": "Disability Working Allowance"
+  },
+  {
+    "abbr": "DWHI",
+    "desc": "Dorset, Wiltshire, Hampshire and Isle of Wight"
+  },
+  {
+    "abbr": "DWP",
+    "desc": "Department for Work and Pensions"
+  },
+  {
+    "abbr": "DWPSS",
+    "desc": "Department for Work and Pensions Shared Services"
+  },
+  {
+    "abbr": "DWTP",
+    "desc": "Digital Workplace Transformation Project"
+  },
+  {
+    "abbr": "E",
+    "desc": "Ephemeral"
+  },
+  {
+    "abbr": "E&D",
+    "desc": "Equality and Diversity"
+  },
+  {
+    "abbr": "EA",
+    "desc": "Enquiry Adviser"
+  },
+  {
+    "abbr": "EAGA",
+    "desc": "Energy Actions Grants Agency"
+  },
+  {
+    "abbr": "EAP",
+    "desc": "Employee Assistance Programme"
+  },
+  {
+    "abbr": "EAR",
+    "desc": "Exceptional Activity Report"
+  },
+  {
+    "abbr": "EASD",
+    "desc": "Extra Amount for Severe Disability"
+  },
+  {
+    "abbr": "EBS",
+    "desc": "Employment Benefit Surgeries"
+  },
+  {
+    "abbr": "EBU",
+    "desc": "Eastern Business Unit"
+  },
+  {
+    "abbr": "EC",
+    "desc": "European Community"
+  },
+  {
+    "abbr": "ECHR",
+    "desc": "European Court of Human Rights"
+  },
+  {
+    "abbr": "ECJ",
+    "desc": "European Court of Justice"
+  },
+  {
+    "abbr": "ECO",
+    "desc": "Error Control Office"
+  },
+  {
+    "abbr": "ECSMA",
+    "desc": "European Convention Social and Media Assistance"
+  },
+  {
+    "abbr": "ED",
+    "desc": "Employee Deal"
+  },
+  {
+    "abbr": "EDC",
+    "desc": "Expected Date of Confinement"
+  },
+  {
+    "abbr": "EDD",
+    "desc": "Estimated Delivery Date"
+  },
+  {
+    "abbr": "EDM",
+    "desc": "Early Day Motion"
+  },
+  {
+    "abbr": "EDon",
+    "desc": "Employer Direct on line"
+  },
+  {
+    "abbr": "EDP",
+    "desc": "Enhanced Disability Premium"
+  },
+  {
+    "abbr": "EDS",
+    "desc": "Electronic Data Services"
+  },
+  {
+    "abbr": "EE",
+    "desc": "Employer Engagement"
+  },
+  {
+    "abbr": "EEA",
+    "desc": "European Economic Area"
+  },
+  {
+    "abbr": "EEC",
+    "desc": "European Economic Community"
+  },
+  {
+    "abbr": "EF",
+    "desc": "Earnings Factor"
+  },
+  {
+    "abbr": "EFF",
+    "desc": "Effective"
+  },
+  {
+    "abbr": "EFTA",
+    "desc": "European Free Trade Agreement"
+  },
+  {
+    "abbr": "EG",
+    "desc": "Employment Group"
+  },
+  {
+    "abbr": "EHL",
+    "desc": "Employer Helpline"
+  },
+  {
+    "abbr": "EI",
+    "desc": "exempt income"
+  },
+  {
+    "abbr": "EIA",
+    "desc": "Equality Impact Analysis"
+  },
+  {
+    "abbr": "EIMP",
+    "desc": "Enhanced Incident Management Process"
+  },
+  {
+    "abbr": "EIS",
+    "desc": "Enterprise Investment Scheme"
+  },
+  {
+    "abbr": "EJO",
+    "desc": "Enforcement of Judgements Office (Northern Ireland only)"
+  },
+  {
+    "abbr": "EL",
+    "desc": "East London"
+  },
+  {
+    "abbr": "ELP",
+    "desc": "Effective Licence Position"
+  },
+  {
+    "abbr": "ELUS",
+    "desc": "ESA Legasuite Update System"
+  },
+  {
+    "abbr": "EMA",
+    "desc": "Educational Maintenance Allowance"
+  },
+  {
+    "abbr": "EMEIC",
+    "desc": "Establish Maintenance Entitlement and Initiate Compliance"
+  },
+  {
+    "abbr": "EMP",
+    "desc": "Electronic Media Policy"
+  },
+  {
+    "abbr": "EMPL",
+    "desc": "Employer"
+  },
+  {
+    "abbr": "EMSE",
+    "desc": "Employed/Self Employed"
+  },
+  {
+    "abbr": "EN",
+    "desc": "Entitlement Notice"
+  },
+  {
+    "abbr": "eNIRS",
+    "desc": "eNational Insurance Recording System"
+  },
+  {
+    "abbr": "eNIRS / OLE",
+    "desc": "electronic National insurance Recording System and Online"
+  },
+  {
+    "abbr": "eNIRS2",
+    "desc": "electronic National Insurance Recording System 2"
+  },
+  {
+    "abbr": "ENQ",
+    "desc": "Enquiry"
+  },
+  {
+    "abbr": "ENT",
+    "desc": "Entitlement"
+  },
+  {
+    "abbr": "EO",
+    "desc": "Executive Officer"
+  },
+  {
+    "abbr": "EOI",
+    "desc": "Evidence of Identity"
+  },
+  {
+    "abbr": "EoI",
+    "desc": "Expressions of Interest"
+  },
+  {
+    "abbr": "EOTY",
+    "desc": "End of Tax Year"
+  },
+  {
+    "abbr": "EPCs",
+    "desc": "energy performance certificates"
+  },
+  {
+    "abbr": "EPH",
+    "desc": "Ephemeral Post"
+  },
+  {
+    "abbr": "EPoA",
+    "desc": "Enduring Power of Attorney"
+  },
+  {
+    "abbr": "EPP",
+    "desc": "Enhanced Pensioner Premium"
+  },
+  {
+    "abbr": "EPR",
+    "desc": "Enhanced Performance Regime"
+  },
+  {
+    "abbr": "EPS",
+    "desc": "extended period of sickness"
+  },
+  {
+    "abbr": "EPT",
+    "desc": "Employer Payment Team"
+  },
+  {
+    "abbr": "ER",
+    "desc": "Evidence Requirements"
+  },
+  {
+    "abbr": "ERM",
+    "desc": "Employer Relationship Management"
+  },
+  {
+    "abbr": "ERNGS",
+    "desc": "Earnings"
+  },
+  {
+    "abbr": "ES",
+    "desc": "Employment Services"
+  },
+  {
+    "abbr": "ESA",
+    "desc": "Employment and Support Allowance"
+  },
+  {
+    "abbr": "ESA (C)",
+    "desc": "Employment and Support Allowance (Contribution Based)"
+  },
+  {
+    "abbr": "ESA (CNS)",
+    "desc": "new style contribution-based Employment Support Allowance"
+  },
+  {
+    "abbr": "ESA (IR)",
+    "desc": "Employment and Support Allowance (Income Related)"
+  },
+  {
+    "abbr": "ESA (Y)",
+    "desc": "Employment and Support Allowance in Youth."
+  },
+  {
+    "abbr": "ESA CAM",
+    "desc": "Employment Support Allowance Customer Account Management"
+  },
+  {
+    "abbr": "ESA PA",
+    "desc": "ESA Personal Adviser"
+  },
+  {
+    "abbr": "ESDA",
+    "desc": "Exceptionally Severe Disablement Allowance"
+  },
+  {
+    "abbr": "ESES",
+    "desc": "East and South East Scotland"
+  },
+  {
+    "abbr": "ESF",
+    "desc": "European Social Fund"
+  },
+  {
+    "abbr": "ESJ",
+    "desc": "Employment Services Jobcentre"
+  },
+  {
+    "abbr": "ESM",
+    "desc": "Enhanced Support Model"
+  },
+  {
+    "abbr": "eSP",
+    "desc": "extra State Pension"
+  },
+  {
+    "abbr": "ET",
+    "desc": "Employment Tribunal"
+  },
+  {
+    "abbr": "ETC",
+    "desc": "Employment Tax Credit"
+  },
+  {
+    "abbr": "ETR",
+    "desc": "Early Termination"
+  },
+  {
+    "abbr": "ETU",
+    "desc": "earnings top up"
+  },
+  {
+    "abbr": "EU",
+    "desc": "European Union"
+  },
+  {
+    "abbr": "EUC",
+    "desc": "End User Computing"
+  },
+  {
+    "abbr": "EUP",
+    "desc": "End-User Policy"
+  },
+  {
+    "abbr": "EUSS",
+    "desc": "EU Settlement Scheme"
+  },
+  {
+    "abbr": "EVI",
+    "desc": "Evidence"
+  },
+  {
+    "abbr": "EVL",
+    "desc": "Electronic Vehicle Licensing"
+  },
+  {
+    "abbr": "EWC",
+    "desc": "Expected Week of Childbirth"
+  },
+  {
+    "abbr": "EWW",
+    "desc": "equivalent weekly value"
+  },
+  {
+    "abbr": "Ex",
+    "desc": "Essex"
+  },
+  {
+    "abbr": "EXEC",
+    "desc": "Executrix"
+  },
+  {
+    "abbr": "EXPS",
+    "desc": "expenses"
+  },
+  {
+    "abbr": "EXT",
+    "desc": "Extension"
+  },
+  {
+    "abbr": "EZMI",
+    "desc": "Employment Zones Management Information"
+  },
+  {
+    "abbr": "F&S",
+    "desc": "Forecasting and Scheduling Officer"
+  },
+  {
+    "abbr": "F/T",
+    "desc": "Full-time"
+  },
+  {
+    "abbr": "F2F",
+    "desc": "Face to Face First Contact Officer"
+  },
+  {
+    "abbr": "FA",
+    "desc": "Fraud Act"
+  },
+  {
+    "abbr": "FAM",
+    "desc": "Financial Appraisal and Monitoring"
+  },
+  {
+    "abbr": "FAMIS",
+    "desc": "Fraud and Management Information Service"
+  },
+  {
+    "abbr": "FAO",
+    "desc": "For attention of"
+  },
+  {
+    "abbr": "FAQ",
+    "desc": "Frequently Asked Questions"
+  },
+  {
+    "abbr": "FAR",
+    "desc": "Fixed Asset Register"
+  },
+  {
+    "abbr": "FARIO",
+    "desc": "File and Retrieval Information Online"
+  },
+  {
+    "abbr": "FAS",
+    "desc": "Financial Assistance Scheme"
+  },
+  {
+    "abbr": "FAT",
+    "desc": "Field Assurance Testing"
+  },
+  {
+    "abbr": "FBA",
+    "desc": "Family Based Arrangement"
+  },
+  {
+    "abbr": "FBP",
+    "desc": "Financial Business Partner"
+  },
+  {
+    "abbr": "FBS",
+    "desc": "Feeder Benefit Systems"
+  },
+  {
+    "abbr": "FC",
+    "desc": "Family Credit (now Working Families Tax Credit/WFTC)"
+  },
+  {
+    "abbr": "FCA",
+    "desc": "Forgery and Counterfeiting Act"
+  },
+  {
+    "abbr": "FCC",
+    "desc": "First Contribution Condition"
+  },
+  {
+    "abbr": "FCO",
+    "desc": "Foreign and Commonwealth Officer"
+  },
+  {
+    "abbr": "FCR",
+    "desc": "First Call Resolution"
+  },
+  {
+    "abbr": "FD",
+    "desc": "Finance Directorate"
+  },
+  {
+    "abbr": "FDMP",
+    "desc": "First Day of Maintenance Period"
+  },
+  {
+    "abbr": "FEBE",
+    "desc": "Family Element Baby Element"
+  },
+  {
+    "abbr": "FED",
+    "desc": "First Effective Date"
+  },
+  {
+    "abbr": "FEDP",
+    "desc": "Fraud Error and Debt Programme"
+  },
+  {
+    "abbr": "FEO",
+    "desc": "Finance Executive Officer"
+  },
+  {
+    "abbr": "FEP",
+    "desc": "Fast Electronic Payment (SDPB)"
+  },
+  {
+    "abbr": "FEPS",
+    "desc": "Fraud and Error Prevention Service (CFCD Interventions since 2017)"
+  },
+  {
+    "abbr": "FES",
+    "desc": "Fraud and Error Service"
+  },
+  {
+    "abbr": "FFU",
+    "desc": "Forest Functional Upgrade"
+  },
+  {
+    "abbr": "FGTP",
+    "desc": "Finance Group Transformation Programme"
+  },
+  {
+    "abbr": "FI",
+    "desc": "Fraud Investigator"
+  },
+  {
+    "abbr": "FIA",
+    "desc": "Financial Investigator Assistant"
+  },
+  {
+    "abbr": "FIF",
+    "desc": "further information form"
+  },
+  {
+    "abbr": "FIFO",
+    "desc": "First in, First out"
+  },
+  {
+    "abbr": "FIS",
+    "desc": "Fraud Investigation Service"
+  },
+  {
+    "abbr": "FIS-DCT",
+    "desc": "Fraud Investigation Service Disability and Carers Team"
+  },
+  {
+    "abbr": "FIT",
+    "desc": "Factual Information Template"
+  },
+  {
+    "abbr": "FIU",
+    "desc": "Financial Investigation Unit"
+  },
+  {
+    "abbr": "FJR",
+    "desc": "Fortnightly Jobsearch Reviews"
+  },
+  {
+    "abbr": "FLITS",
+    "desc": "First Line IT Support"
+  },
+  {
+    "abbr": "FLLS",
+    "desc": "First Line Local Support Officer"
+  },
+  {
+    "abbr": "FLLSO",
+    "desc": "First Line Local Support Officer"
+  },
+  {
+    "abbr": "FLO",
+    "desc": "Fraud Liaison Officer"
+  },
+  {
+    "abbr": "FLS",
+    "desc": "First Line Support"
+  },
+  {
+    "abbr": "FLSM",
+    "desc": "Frontline Line Service Management"
+  },
+  {
+    "abbr": "FM",
+    "desc": "Finance Manager"
+  },
+  {
+    "abbr": "FMA",
+    "desc": "Formal Maintenance Assessment"
+  },
+  {
+    "abbr": "FME",
+    "desc": "Further Medical Evidence"
+  },
+  {
+    "abbr": "FMS",
+    "desc": "Financial Management System"
+  },
+  {
+    "abbr": "FNA",
+    "desc": "Future Needs Assessment"
+  },
+  {
+    "abbr": "FNCS",
+    "desc": "Finance Newcastle Contribution System"
+  },
+  {
+    "abbr": "FND",
+    "desc": "Flexible New Deal"
+  },
+  {
+    "abbr": "FO",
+    "desc": "Freezing Order"
+  },
+  {
+    "abbr": "FOI",
+    "desc": "Freedom of Information Act"
+  },
+  {
+    "abbr": "FOIA",
+    "desc": "Freedom of Information Act"
+  },
+  {
+    "abbr": "FOS",
+    "desc": "Financial Outcome Screens"
+  },
+  {
+    "abbr": "FP",
+    "desc": "Funeral Payment"
+  },
+  {
+    "abbr": "FP (LP)",
+    "desc": "Family Premium (Lone Parent)"
+  },
+  {
+    "abbr": "FPA",
+    "desc": "Fraud Partnership Agreement"
+  },
+  {
+    "abbr": "FPMT",
+    "desc": "Finance and Performance Management Team"
+  },
+  {
+    "abbr": "FRAIMS",
+    "desc": "Fraud Referral and Intervention Management System"
+  },
+  {
+    "abbr": "FRF",
+    "desc": "Fraud Referral Form"
+  },
+  {
+    "abbr": "FRM",
+    "desc": "Flat Rate Maintenance"
+  },
+  {
+    "abbr": "FRP",
+    "desc": "Full Record Print"
+  },
+  {
+    "abbr": "FSC",
+    "desc": "Future Schedule of Change"
+  },
+  {
+    "abbr": "FSCM",
+    "desc": "Forensic Services Contract Management"
+  },
+  {
+    "abbr": "FSD",
+    "desc": "Financial Services Division"
+  },
+  {
+    "abbr": "FSF",
+    "desc": "Flexible Support Fund"
+  },
+  {
+    "abbr": "FSG",
+    "desc": "Finance Systems Gateway"
+  },
+  {
+    "abbr": "FSU",
+    "desc": "Fraud Support Unit"
+  },
+  {
+    "abbr": "FT",
+    "desc": "Freetext"
+  },
+  {
+    "abbr": "FTA",
+    "desc": "Failure to Attend"
+  },
+  {
+    "abbr": "FTC",
+    "desc": "Failure to Comply"
+  },
+  {
+    "abbr": "FTD",
+    "desc": "Failed to Declare"
+  },
+  {
+    "abbr": "FTE",
+    "desc": "Full Time Equivalent"
+  },
+  {
+    "abbr": "FTEd",
+    "desc": "full time education"
+  },
+  {
+    "abbr": "FTEm",
+    "desc": "full time employment"
+  },
+  {
+    "abbr": "FTET",
+    "desc": "Full Time Education & Training"
+  },
+  {
+    "abbr": "FTF",
+    "desc": "face to face"
+  },
+  {
+    "abbr": "FTFO",
+    "desc": "Face to Face Officer"
+  },
+  {
+    "abbr": "FTL",
+    "desc": "Fraud team leader"
+  },
+  {
+    "abbr": "FTP",
+    "desc": "Fixed term period"
+  },
+  {
+    "abbr": "FTRQ",
+    "desc": "Failed to Return Questionnaire"
+  },
+  {
+    "abbr": "FTS",
+    "desc": "Failed to Sign"
+  },
+  {
+    "abbr": "FtT",
+    "desc": "First tier Tribunal"
+  },
+  {
+    "abbr": "FTW",
+    "desc": "Full Time Work"
+  },
+  {
+    "abbr": "FVTD",
+    "desc": "Free Vehicle Tax Disc"
+  },
+  {
+    "abbr": "G7",
+    "desc": "Grade 7"
+  },
+  {
+    "abbr": "GA",
+    "desc": "Guardians Allowance"
+  },
+  {
+    "abbr": "GAD",
+    "desc": "Genesis Activation Device"
+  },
+  {
+    "abbr": "GAL",
+    "desc": "Global Address List"
+  },
+  {
+    "abbr": "GB",
+    "desc": "Great Britain"
+  },
+  {
+    "abbr": "GBR",
+    "desc": "GB resolved"
+  },
+  {
+    "abbr": "GBU",
+    "desc": "General Benefit Unit"
+  },
+  {
+    "abbr": "GC",
+    "desc": "Guarantee Credit"
+  },
+  {
+    "abbr": "GDN",
+    "desc": "Group Delivery Network"
+  },
+  {
+    "abbr": "GDS",
+    "desc": "Government Digital Service (DWP Digital Academy now part of this)"
+  },
+  {
+    "abbr": "GFE",
+    "desc": "general financial entries"
+  },
+  {
+    "abbr": "GG",
+    "desc": "Government Gateway"
+  },
+  {
+    "abbr": "GI",
+    "desc": "Gateway Intervention"
+  },
+  {
+    "abbr": "GIREC",
+    "desc": "Cheque Reconciliation"
+  },
+  {
+    "abbr": "GL",
+    "desc": "General Ledger"
+  },
+  {
+    "abbr": "GM",
+    "desc": "Greater Manchester"
+  },
+  {
+    "abbr": "GMC",
+    "desc": "General Medical Council"
+  },
+  {
+    "abbr": "GMP",
+    "desc": "Guaranteed Minimum Pension"
+  },
+  {
+    "abbr": "GMPP",
+    "desc": "Government Major Projects Portfolio"
+  },
+  {
+    "abbr": "GMS",
+    "desc": "Generalised Matching Service"
+  },
+  {
+    "abbr": "GOR",
+    "desc": "Government Office Region"
+  },
+  {
+    "abbr": "GP",
+    "desc": "General Practitioner"
+  },
+  {
+    "abbr": "GPC",
+    "desc": "Government Procurement Card"
+  },
+  {
+    "abbr": "GPFR",
+    "desc": "General Practitioners Factual Report"
+  },
+  {
+    "abbr": "GRA",
+    "desc": "Gender Recognition Act"
+  },
+  {
+    "abbr": "GRB",
+    "desc": "Graduated Retirement Benefit"
+  },
+  {
+    "abbr": "GRC",
+    "desc": "Gender Recognition Certificate"
+  },
+  {
+    "abbr": "GRO",
+    "desc": "General Registers Office"
+  },
+  {
+    "abbr": "GRP",
+    "desc": "Gender Recognition Panel"
+  },
+  {
+    "abbr": "GRS",
+    "desc": "Gender Recognition Secretariat"
+  },
+  {
+    "abbr": "GSO",
+    "desc": "Generic Service Obligations"
+  },
+  {
+    "abbr": "GTN",
+    "desc": "Government Telephony Network"
+  },
+  {
+    "abbr": "GySP",
+    "desc": "Get your State Pension"
+  },
+  {
+    "abbr": "H&S",
+    "desc": "Health and Safety"
+  },
+  {
+    "abbr": "H/O",
+    "desc": "Hand Over"
+  },
+  {
+    "abbr": "HA",
+    "desc": "Health Authority"
+  },
+  {
+    "abbr": "HAAS",
+    "desc": "Health Assessment Advisory Service"
+  },
+  {
+    "abbr": "HASSRA",
+    "desc": "Health and Social Security Recreational Association"
+  },
+  {
+    "abbr": "HB",
+    "desc": "Housing Benefit"
+  },
+  {
+    "abbr": "HB/ CTB",
+    "desc": "Housing Benefit / Council Tax Benefit"
+  },
+  {
+    "abbr": "HBAI",
+    "desc": "Households Below Average Income"
+  },
+  {
+    "abbr": "HBD",
+    "desc": "Health and Benefit Division"
+  },
+  {
+    "abbr": "HBRO",
+    "desc": "Housing Benefit Run On"
+  },
+  {
+    "abbr": "HBS",
+    "desc": "Heritage benefit System"
+  },
+  {
+    "abbr": "HC",
+    "desc": "housing costs"
+  },
+  {
+    "abbr": "HCC",
+    "desc": "Housing Costs Contribution"
+  },
+  {
+    "abbr": "HCE",
+    "desc": "Housing Costs Element"
+  },
+  {
+    "abbr": "HCP",
+    "desc": "Healthcare Professional"
+  },
+  {
+    "abbr": "HDA",
+    "desc": "Higher Duties Allowance"
+  },
+  {
+    "abbr": "HDAS",
+    "desc": "Health & Disability Assessment Service"
+  },
+  {
+    "abbr": "HDR",
+    "desc": "Hospital Downrating"
+  },
+  {
+    "abbr": "HEO",
+    "desc": "Higher Executive Officer"
+  },
+  {
+    "abbr": "HFR",
+    "desc": "Hospital Factual Report"
+  },
+  {
+    "abbr": "HGU",
+    "desc": "Higher Grade User"
+  },
+  {
+    "abbr": "HIA",
+    "desc": "Higher Income Adjustment"
+  },
+  {
+    "abbr": "HIL",
+    "desc": "Higher Investigations Leader"
+  },
+  {
+    "abbr": "HIV",
+    "desc": "Human Immunodeficiency Virus"
+  },
+  {
+    "abbr": "HL",
+    "desc": "House of Lords"
+  },
+  {
+    "abbr": "HLBR",
+    "desc": "High Level Business Requirement"
+  },
+  {
+    "abbr": "HLIA",
+    "desc": "High Level Impact Analysis"
+  },
+  {
+    "abbr": "HMCTS",
+    "desc": "Her Majesty’s Court & Tribunal Service"
+  },
+  {
+    "abbr": "HMF",
+    "desc": "Her Majesty's Forces"
+  },
+  {
+    "abbr": "HMGPES",
+    "desc": "HM Government Payment Exception Service"
+  },
+  {
+    "abbr": "HMP",
+    "desc": "Her Majesty’s Prison"
+  },
+  {
+    "abbr": "HMRC",
+    "desc": "Her Majesty’s Revenue and Customs"
+  },
+  {
+    "abbr": "HO",
+    "desc": "Home Office"
+  },
+  {
+    "abbr": "HOL PAY",
+    "desc": "Holiday Pay"
+  },
+  {
+    "abbr": "HoP",
+    "desc": "Head of Profession"
+  },
+  {
+    "abbr": "HoR",
+    "desc": "Head of Role"
+  },
+  {
+    "abbr": "HOSP",
+    "desc": "Hospital"
+  },
+  {
+    "abbr": "HotDocs",
+    "desc": "Specialist Programme available to CAU"
+  },
+  {
+    "abbr": "HOTT",
+    "desc": "Handover Telephony Tool"
+  },
+  {
+    "abbr": "HOW",
+    "desc": "Head of Work"
+  },
+  {
+    "abbr": "HOWPD",
+    "desc": "Head of Work Programmes Division"
+  },
+  {
+    "abbr": "HOWPP",
+    "desc": "Head of Work Programmes Performance"
+  },
+  {
+    "abbr": "HP",
+    "desc": "Humanitarian Protection"
+  },
+  {
+    "abbr": "HPC",
+    "desc": "High Profile Case"
+  },
+  {
+    "abbr": "HPES",
+    "desc": "Hewlett Packard Enterprises"
+  },
+  {
+    "abbr": "HPP",
+    "desc": "Higher Pension Premium"
+  },
+  {
+    "abbr": "HPWAR",
+    "desc": "High Priority Work Available Report"
+  },
+  {
+    "abbr": "HR",
+    "desc": "Human Resources"
+  },
+  {
+    "abbr": "HRA",
+    "desc": "Human Rights Act"
+  },
+  {
+    "abbr": "HRBP",
+    "desc": "Human Resources Business Partner"
+  },
+  {
+    "abbr": "HRCC",
+    "desc": "Highest Rate Care Component"
+  },
+  {
+    "abbr": "HRMC",
+    "desc": "Higher Rate Mobility Component"
+  },
+  {
+    "abbr": "HRP",
+    "desc": "Home Responsibilities Protection"
+  },
+  {
+    "abbr": "HRT",
+    "desc": "Habitual Residency Test"
+  },
+  {
+    "abbr": "HSC",
+    "desc": "Health Service Circular"
+  },
+  {
+    "abbr": "HSCP",
+    "desc": "Health or Social Care Professional"
+  },
+  {
+    "abbr": "HSO",
+    "desc": "Higher Scientific Officer. Specific to Operational Research grading system"
+  },
+  {
+    "abbr": "HST",
+    "desc": "High Suspicion Tracking"
+  },
+  {
+    "abbr": "HTD",
+    "desc": "Happy to Discuss"
+  },
+  {
+    "abbr": "HTH",
+    "desc": "Here to Help"
+  },
+  {
+    "abbr": "HTML",
+    "desc": "Hyper Text Mark up Language"
+  },
+  {
+    "abbr": "HVP",
+    "desc": "high value payment"
+  },
+  {
+    "abbr": "HWC",
+    "desc": "Health and Work Conversation"
+  },
+  {
+    "abbr": "HWWB",
+    "desc": "Health Work and Wellbeing"
+  },
+  {
+    "abbr": "HWWD",
+    "desc": "Health, Work and Wellbeing Directorate"
+  },
+  {
+    "abbr": "I&E",
+    "desc": "Income & Expenditure"
+  },
+  {
+    "abbr": "IA",
+    "desc": "Industrial Accident"
+  },
+  {
+    "abbr": "IAA",
+    "desc": "Invalidity Age Addition"
+  },
+  {
+    "abbr": "IAAA",
+    "desc": "Immigration and Asylum Act"
+  },
+  {
+    "abbr": "IAG",
+    "desc": "Intelligent Automation Garage"
+  },
+  {
+    "abbr": "IAR",
+    "desc": "Referral to HEO for Authorisation"
+  },
+  {
+    "abbr": "IAS",
+    "desc": "With HEO for Authorisation"
+  },
+  {
+    "abbr": "iAS",
+    "desc": "iAction Squad (2nd line support)"
+  },
+  {
+    "abbr": "IB",
+    "desc": "Incapacity Benefit"
+  },
+  {
+    "abbr": "IB(Y)",
+    "desc": "Incapacity Benefit in Youth"
+  },
+  {
+    "abbr": "IBIS",
+    "desc": "Integrated Benefit Information Systems"
+  },
+  {
+    "abbr": "IBLT",
+    "desc": "Incapacity Benefit Long Term"
+  },
+  {
+    "abbr": "IBPA",
+    "desc": "Incapacity Benefit Personal Adviser"
+  },
+  {
+    "abbr": "IBR LEAP",
+    "desc": "Incapacity Benefit Reassessment Legal Entitlements and Administrative Process"
+  },
+  {
+    "abbr": "IBST(H)",
+    "desc": "Incapacity Benefit Short Term (Higher)"
+  },
+  {
+    "abbr": "IBST(L)",
+    "desc": "Incapacity Benefit Short Term Lower"
+  },
+  {
+    "abbr": "IC",
+    "desc": "Investment Committee"
+  },
+  {
+    "abbr": "ICA",
+    "desc": "Invalid Care Allowance"
+  },
+  {
+    "abbr": "ICC",
+    "desc": "Integrated Child Credit"
+  },
+  {
+    "abbr": "ICD",
+    "desc": "Informed Choice Discussion"
+  },
+  {
+    "abbr": "ICE",
+    "desc": "Independent Case Examiner"
+  },
+  {
+    "abbr": "IcM",
+    "desc": "Incident Management"
+  },
+  {
+    "abbr": "ICP",
+    "desc": "Interim Charge for Payment"
+  },
+  {
+    "abbr": "ICT",
+    "desc": "Information Capture Tool"
+  },
+  {
+    "abbr": "ID",
+    "desc": "Interest Indicator"
+  },
+  {
+    "abbr": "ID&V",
+    "desc": "Identification and Verification"
+  },
+  {
+    "abbr": "IDA",
+    "desc": "Identity Documents Act"
+  },
+  {
+    "abbr": "IDB",
+    "desc": "Industrial Disablement Benefit"
+  },
+  {
+    "abbr": "IDE",
+    "desc": "Inclusion Diversity Equality"
+  },
+  {
+    "abbr": "IDMA",
+    "desc": "Interim Date Maintenance Assessment"
+  },
+  {
+    "abbr": "IDOC",
+    "desc": "Initial Date of Claim"
+  },
+  {
+    "abbr": "IDP",
+    "desc": "Industrial Disablement Pension"
+  },
+  {
+    "abbr": "IDV",
+    "desc": "Identity Verification"
+  },
+  {
+    "abbr": "IED",
+    "desc": "interim effective date"
+  },
+  {
+    "abbr": "IEDA",
+    "desc": "Interim Effective Date Assessment"
+  },
+  {
+    "abbr": "IEI",
+    "desc": "Initial Evidence Interview"
+  },
+  {
+    "abbr": "IEP",
+    "desc": "Individual Education Plan"
+  },
+  {
+    "abbr": "IF",
+    "desc": "Internal Finance"
+  },
+  {
+    "abbr": "IF1",
+    "desc": "Incident Reporting Form"
+  },
+  {
+    "abbr": "IFD",
+    "desc": "Information Directorate"
+  },
+  {
+    "abbr": "IFEP",
+    "desc": "Interim fast electronic payment"
+  },
+  {
+    "abbr": "IFM",
+    "desc": "Immediate FamilyMember"
+  },
+  {
+    "abbr": "IG",
+    "desc": "Information Govenance"
+  },
+  {
+    "abbr": "IG Tool",
+    "desc": "Information Governance Tool"
+  },
+  {
+    "abbr": "IGNSPC",
+    "desc": "International Group New State Pension Calc"
+  },
+  {
+    "abbr": "IGT",
+    "desc": "Information Gathering Template"
+  },
+  {
+    "abbr": "IHD",
+    "desc": "Ischemic Heart Disease"
+  },
+  {
+    "abbr": "II",
+    "desc": "industrial injuries"
+  },
+  {
+    "abbr": "IIB",
+    "desc": "Industrial Injuries Benefit"
+  },
+  {
+    "abbr": "IICS",
+    "desc": "Industrial Injuries Computer System"
+  },
+  {
+    "abbr": "IIDB",
+    "desc": "Industrial Injuries Disablement Benefit"
+  },
+  {
+    "abbr": "IISB",
+    "desc": "Industrial Injuries Schemes Benefits"
+  },
+  {
+    "abbr": "IL",
+    "desc": "Impact Level"
+  },
+  {
+    "abbr": "ILF",
+    "desc": "Independent Living Fund"
+  },
+  {
+    "abbr": "ILO",
+    "desc": "Initiate Liability Order"
+  },
+  {
+    "abbr": "ILT",
+    "desc": "Incoming Letter"
+  },
+  {
+    "abbr": "IM",
+    "desc": "Incident Management"
+  },
+  {
+    "abbr": "IMA",
+    "desc": "Interim Maintenance Assessment"
+  },
+  {
+    "abbr": "IMD",
+    "desc": "Interim Maintenance Decision"
+  },
+  {
+    "abbr": "IMG",
+    "desc": "Infrastructure Management Group"
+  },
+  {
+    "abbr": "IMPACT",
+    "desc": "improving processes and controlling them"
+  },
+  {
+    "abbr": "IMS",
+    "desc": "Input Management System"
+  },
+  {
+    "abbr": "IMT",
+    "desc": "Incident Management Team"
+  },
+  {
+    "abbr": "INCAP",
+    "desc": "Incapacity"
+  },
+  {
+    "abbr": "INCS",
+    "desc": "increments"
+  },
+  {
+    "abbr": "IND",
+    "desc": "Individual Router Account"
+  },
+  {
+    "abbr": "INEB",
+    "desc": "Immigration & Nationality Enquiry Bureau"
+  },
+  {
+    "abbr": "Info",
+    "desc": "Information"
+  },
+  {
+    "abbr": "INFORM",
+    "desc": "Integrated Forcasting Model"
+  },
+  {
+    "abbr": "INST",
+    "desc": "Instigated"
+  },
+  {
+    "abbr": "INT",
+    "desc": "Interview"
+  },
+  {
+    "abbr": "IO",
+    "desc": "Interviewing Officer"
+  },
+  {
+    "abbr": "IOA",
+    "desc": "Instrument of Authorisation and Nomination"
+  },
+  {
+    "abbr": "IOD",
+    "desc": "Indicator of Delay"
+  },
+  {
+    "abbr": "IOM",
+    "desc": "Isle of Man"
+  },
+  {
+    "abbr": "IOP",
+    "desc": "Instrument Of Payment"
+  },
+  {
+    "abbr": "IOW",
+    "desc": "In & Out of Work"
+  },
+  {
+    "abbr": "IP",
+    "desc": "initial payment"
+  },
+  {
+    "abbr": "IPA",
+    "desc": "Infrastructure and Projects Authority"
+  },
+  {
+    "abbr": "IPC",
+    "desc": "International Pension Centre"
+  },
+  {
+    "abbr": "IPC WAG",
+    "desc": "International Pension Centre's Working Age Group"
+  },
+  {
+    "abbr": "IPCC",
+    "desc": "Internet Protocol for Contact Centres"
+  },
+  {
+    "abbr": "IPP",
+    "desc": "initial payment period"
+  },
+  {
+    "abbr": "IR",
+    "desc": "Inland Revenue"
+  },
+  {
+    "abbr": "IRG",
+    "desc": "Incapacity Reference Guide"
+  },
+  {
+    "abbr": "IRIS",
+    "desc": "Integrated Risk and Intelligence Service"
+  },
+  {
+    "abbr": "IRO",
+    "desc": "In respect of"
+  },
+  {
+    "abbr": "IRP",
+    "desc": "Inhibited Retrospective Payment"
+  },
+  {
+    "abbr": "Irreg",
+    "desc": "irregular"
+  },
+  {
+    "abbr": "IRS",
+    "desc": "Investigator Referral to Solicitor"
+  },
+  {
+    "abbr": "IS",
+    "desc": "Income Support"
+  },
+  {
+    "abbr": "IS GAP",
+    "desc": "Income Support Guidance and Procedures"
+  },
+  {
+    "abbr": "ISA",
+    "desc": "Individual Savings Account"
+  },
+  {
+    "abbr": "ISCS",
+    "desc": "Income Support Computer System"
+  },
+  {
+    "abbr": "ISD",
+    "desc": "Information Systems Directorate"
+  },
+  {
+    "abbr": "ISERBS",
+    "desc": "Iron and Steel Re-adaptation Benefits Scheme"
+  },
+  {
+    "abbr": "ISL",
+    "desc": "Income Support Computer System"
+  },
+  {
+    "abbr": "ISS",
+    "desc": "Issued"
+  },
+  {
+    "abbr": "ISSS",
+    "desc": "Information System Security Standards"
+  },
+  {
+    "abbr": "IT",
+    "desc": "Information Technology"
+  },
+  {
+    "abbr": "ITB",
+    "desc": "Input the Balance"
+  },
+  {
+    "abbr": "ITC",
+    "desc": "Incoming Telephone Contact"
+  },
+  {
+    "abbr": "ITD",
+    "desc": "Information Technology Directorate"
+  },
+  {
+    "abbr": "ITDR",
+    "desc": "IT Disaster Recovery"
+  },
+  {
+    "abbr": "ITS",
+    "desc": "Independent Tribunal Service"
+  },
+  {
+    "abbr": "ITSM",
+    "desc": "Information Technology Service Manager"
+  },
+  {
+    "abbr": "ITW",
+    "desc": "Invalid Three Wheeler"
+  },
+  {
+    "abbr": "IUC",
+    "desc": "Invitation to Interview Under Caution"
+  },
+  {
+    "abbr": "IVA",
+    "desc": "Individual Voluntary Arrangement"
+  },
+  {
+    "abbr": "IVB",
+    "desc": "Invalidity Benefit"
+  },
+  {
+    "abbr": "IVR",
+    "desc": "Interactive Voice Response"
+  },
+  {
+    "abbr": "IVS",
+    "desc": "Invalid Vehicle Scheme"
+  },
+  {
+    "abbr": "IWB",
+    "desc": "In Work Benefits"
+  },
+  {
+    "abbr": "IWC",
+    "desc": "In Work Credit"
+  },
+  {
+    "abbr": "IWD",
+    "desc": "Intelligent Workload Distribution"
+  },
+  {
+    "abbr": "J&E",
+    "desc": "just and equitable"
+  },
+  {
+    "abbr": "J/C",
+    "desc": "Joint Claim"
+  },
+  {
+    "abbr": "JARI",
+    "desc": "Jobseeker’s Automated Recovery Interface"
+  },
+  {
+    "abbr": "JAWS",
+    "desc": "Job Access With Speech"
+  },
+  {
+    "abbr": "JBES",
+    "desc": "Jobseekers and Benefit Enhancement Section"
+  },
+  {
+    "abbr": "JBES2000",
+    "desc": "Joseekers Benefits Enhancement System 2000"
+  },
+  {
+    "abbr": "JC",
+    "desc": "Jobcentre"
+  },
+  {
+    "abbr": "JCP",
+    "desc": "Jobcentre Plus"
+  },
+  {
+    "abbr": "JESP",
+    "desc": "Job Evaluation for Senior Posts"
+  },
+  {
+    "abbr": "JG",
+    "desc": "jumbo girocheque"
+  },
+  {
+    "abbr": "JID",
+    "desc": "Joint Intelligence Desk"
+  },
+  {
+    "abbr": "JML",
+    "desc": "Joiners, Movers, Leavers"
+  },
+  {
+    "abbr": "JO",
+    "desc": "Job Outcome"
+  },
+  {
+    "abbr": "JOT",
+    "desc": "Job Outcome Target"
+  },
+  {
+    "abbr": "JR",
+    "desc": "Judicial Review"
+  },
+  {
+    "abbr": "JRFND",
+    "desc": "Jobseekers Regime and Flexible New Deal"
+  },
+  {
+    "abbr": "JS",
+    "desc": "Jobsearch"
+  },
+  {
+    "abbr": "JSA",
+    "desc": "Jobseeker’s Allowance"
+  },
+  {
+    "abbr": "JSA (C)",
+    "desc": "Jobseeker’s Allowance (contributory)"
+  },
+  {
+    "abbr": "JSA (CNS)",
+    "desc": "Jobseeker’s Allowance (contribution-based new style)"
+  },
+  {
+    "abbr": "JSA (IB)",
+    "desc": "Jobseeker’s Allowance (Income Based)"
+  },
+  {
+    "abbr": "JSA (SH)",
+    "desc": "Jobseeker’s Allowance (Severe Hardship)"
+  },
+  {
+    "abbr": "JSA(C)",
+    "desc": "Contribution-based Jobseekers' Allowance"
+  },
+  {
+    "abbr": "JSA(Cont)",
+    "desc": "Jobseeker’s Allowance Contributory Based"
+  },
+  {
+    "abbr": "JSA(IB)",
+    "desc": "Jobseeker’s Allowance Income Based"
+  },
+  {
+    "abbr": "JSAC",
+    "desc": "Jobseeker’s Allowance Contribution based"
+  },
+  {
+    "abbr": "JSAg",
+    "desc": "Jobseeker's Agreement"
+  },
+  {
+    "abbr": "JSAPS",
+    "desc": "Jobseekers' Allowance Plus System"
+  },
+  {
+    "abbr": "JSD",
+    "desc": "Jobseeker Direct"
+  },
+  {
+    "abbr": "JV",
+    "desc": "Journal Voucher"
+  },
+  {
+    "abbr": "KBI",
+    "desc": "Key Business Indicators"
+  },
+  {
+    "abbr": "KDB",
+    "desc": "Knowledge Database"
+  },
+  {
+    "abbr": "KHUB",
+    "desc": "Knowledge Hub"
+  },
+  {
+    "abbr": "KIDS",
+    "desc": "Key IT to Deliver Success"
+  },
+  {
+    "abbr": "KIT",
+    "desc": "Keeping In Touch"
+  },
+  {
+    "abbr": "KITS",
+    "desc": "Keep In Touch"
+  },
+  {
+    "abbr": "KIV",
+    "desc": "Keep In View"
+  },
+  {
+    "abbr": "KM",
+    "desc": "Knowledge Management"
+  },
+  {
+    "abbr": "KMI",
+    "desc": "Key Management Indicator"
+  },
+  {
+    "abbr": "KPG",
+    "desc": "Key Performance Groups"
+  },
+  {
+    "abbr": "KPI",
+    "desc": "Key Performance Indicator(s)"
+  },
+  {
+    "abbr": "Kt",
+    "desc": "Kent"
+  },
+  {
+    "abbr": "KWO",
+    "desc": "Key Work Objective"
+  },
+  {
+    "abbr": "L&D",
+    "desc": "Learning and Development"
+  },
+  {
+    "abbr": "LA",
+    "desc": "Local Authority"
+  },
+  {
+    "abbr": "LAD",
+    "desc": "Learning Appliance Device (Server)"
+  },
+  {
+    "abbr": "LAF",
+    "desc": "Learning Assessment Framework"
+  },
+  {
+    "abbr": "LAIEF",
+    "desc": "Local Authority Information Exchange Form"
+  },
+  {
+    "abbr": "LAN",
+    "desc": "Local Area Network"
+  },
+  {
+    "abbr": "LAS",
+    "desc": "Live Activity Schedule"
+  },
+  {
+    "abbr": "LAU",
+    "desc": "Local Authorised User"
+  },
+  {
+    "abbr": "LCC",
+    "desc": "Limited Case Check"
+  },
+  {
+    "abbr": "LCW",
+    "desc": "Limited capability for work"
+  },
+  {
+    "abbr": "LCWRA",
+    "desc": "Limited Capability for Work Related Activity"
+  },
+  {
+    "abbr": "LDO",
+    "desc": "Learning Development Officers"
+  },
+  {
+    "abbr": "LE",
+    "desc": "Legal Enforcement"
+  },
+  {
+    "abbr": "LEA",
+    "desc": "Local Education Authority"
+  },
+  {
+    "abbr": "LEAP",
+    "desc": "Legal Entitlement and Administrative Practices"
+  },
+  {
+    "abbr": "LEC",
+    "desc": "Local Enterprise Company"
+  },
+  {
+    "abbr": "LED",
+    "desc": "Last Effective Day"
+  },
+  {
+    "abbr": "LEL",
+    "desc": "Lower Earnings Limit"
+  },
+  {
+    "abbr": "LEO",
+    "desc": "Local Emergency Officer"
+  },
+  {
+    "abbr": "LEP",
+    "desc": "Local Employer Partnership"
+  },
+  {
+    "abbr": "LET",
+    "desc": "Letters and Notification Production"
+  },
+  {
+    "abbr": "LFI",
+    "desc": "Learning Focused Interview"
+  },
+  {
+    "abbr": "LGC",
+    "desc": "Local Government Chemists"
+  },
+  {
+    "abbr": "LHS",
+    "desc": "Left Hand Side"
+  },
+  {
+    "abbr": "LIBOR",
+    "desc": "London interbank offered rate"
+  },
+  {
+    "abbr": "LIMP",
+    "desc": "Local Incident Management Plan"
+  },
+  {
+    "abbr": "LIR",
+    "desc": "Lenders Interest Rate"
+  },
+  {
+    "abbr": "LJ",
+    "desc": "Lord Justice of Appeal"
+  },
+  {
+    "abbr": "LJJ",
+    "desc": "Lords Justices of Appeal"
+  },
+  {
+    "abbr": "LM",
+    "desc": "Line Manager"
+  },
+  {
+    "abbr": "LM DM",
+    "desc": "Labour Market Decision Maker"
+  },
+  {
+    "abbr": "LMA",
+    "desc": "Line Managers Assurance"
+  },
+  {
+    "abbr": "LMD",
+    "desc": "Labour Market Decision"
+  },
+  {
+    "abbr": "LMDM",
+    "desc": "Labour Market Decision Maker"
+  },
+  {
+    "abbr": "LMDMA",
+    "desc": "Labour Market Decision Making & Appeals"
+  },
+  {
+    "abbr": "LMO",
+    "desc": "Live Model Office"
+  },
+  {
+    "abbr": "LMS",
+    "desc": "Labour Market System"
+  },
+  {
+    "abbr": "LMU",
+    "desc": "Labour Market Unit"
+  },
+  {
+    "abbr": "LN",
+    "desc": "Leicestershire, Northants"
+  },
+  {
+    "abbr": "LNA",
+    "desc": "Learning Needs Analysis"
+  },
+  {
+    "abbr": "LNE",
+    "desc": "London & Essex"
+  },
+  {
+    "abbr": "LNR",
+    "desc": "Lincolnshire, Nottinghamshire and Rutland"
+  },
+  {
+    "abbr": "LO",
+    "desc": "Local Office"
+  },
+  {
+    "abbr": "LoB",
+    "desc": "Line of Business"
+  },
+  {
+    "abbr": "LOBA",
+    "desc": "Liability Order Bailiff Action"
+  },
+  {
+    "abbr": "LOBP",
+    "desc": "Loss of Benefit Provision"
+  },
+  {
+    "abbr": "LOE",
+    "desc": "Letter of Entitlement"
+  },
+  {
+    "abbr": "LOMP",
+    "desc": "Local Office Micro Project"
+  },
+  {
+    "abbr": "LONO",
+    "desc": "Local Officer Number"
+  },
+  {
+    "abbr": "LP",
+    "desc": "Lone Parent"
+  },
+  {
+    "abbr": "LPA",
+    "desc": "Lasting Power of Attorney"
+  },
+  {
+    "abbr": "LPP",
+    "desc": "Lone Parent Premium"
+  },
+  {
+    "abbr": "LPR",
+    "desc": "Legal Personal Representative"
+  },
+  {
+    "abbr": "LPRO",
+    "desc": "Lone Parent Run On"
+  },
+  {
+    "abbr": "LPs",
+    "desc": "Lone Parents"
+  },
+  {
+    "abbr": "LPS",
+    "desc": "Local Payment System"
+  },
+  {
+    "abbr": "LPWC",
+    "desc": "lead parent or person with care"
+  },
+  {
+    "abbr": "LQC",
+    "desc": "last qualifying child"
+  },
+  {
+    "abbr": "LQPM",
+    "desc": "Legally Qualified Panel Member"
+  },
+  {
+    "abbr": "LR",
+    "desc": "Liable Relative"
+  },
+  {
+    "abbr": "LRC",
+    "desc": "Lower rate care"
+  },
+  {
+    "abbr": "LRCC",
+    "desc": "Lowest Rate Care Component"
+  },
+  {
+    "abbr": "LRMC",
+    "desc": "Lower Rate Mobility Component"
+  },
+  {
+    "abbr": "LSA",
+    "desc": "Local Supplier Arrangements"
+  },
+  {
+    "abbr": "LSAO",
+    "desc": "Local Service Administrative Officer"
+  },
+  {
+    "abbr": "LSC",
+    "desc": "Local Service Compliance"
+  },
+  {
+    "abbr": "LSCO",
+    "desc": "Local Service Compliance Officer"
+  },
+  {
+    "abbr": "LSCT",
+    "desc": "Lump Sum Contingency Tool"
+  },
+  {
+    "abbr": "LSCTL",
+    "desc": "Local Service Compliance Team Leader"
+  },
+  {
+    "abbr": "LSDM",
+    "desc": "Local Service Delivery Manager"
+  },
+  {
+    "abbr": "LSDO",
+    "desc": "Lump Sum Deduction Order"
+  },
+  {
+    "abbr": "LSI",
+    "desc": "Local Service Investigations"
+  },
+  {
+    "abbr": "LSIO",
+    "desc": "Local Service Investigations Officer"
+  },
+  {
+    "abbr": "LSITL",
+    "desc": "Local Service Investigations Team Leader"
+  },
+  {
+    "abbr": "LSMD",
+    "desc": "Live Service Management Division"
+  },
+  {
+    "abbr": "LSMT",
+    "desc": "Live Service Management Team"
+  },
+  {
+    "abbr": "LSS",
+    "desc": "Live Service Support"
+  },
+  {
+    "abbr": "LSSIL",
+    "desc": "Local Service Senior Investigations Leader"
+  },
+  {
+    "abbr": "LST",
+    "desc": "Land Securities Trillium"
+  },
+  {
+    "abbr": "LT",
+    "desc": "Living Together"
+  },
+  {
+    "abbr": "LTA",
+    "desc": "liberty to apply"
+  },
+  {
+    "abbr": "LTACP",
+    "desc": "Living Together as Civil Partners"
+  },
+  {
+    "abbr": "LTAHAW",
+    "desc": "Living Together as Husband and Wife"
+  },
+  {
+    "abbr": "LTAHAW/ CP",
+    "desc": "Living Together As Husband And Wife or as Civil Partners"
+  },
+  {
+    "abbr": "LTAHW",
+    "desc": "Living Together as Husband and Wife"
+  },
+  {
+    "abbr": "LTAMC",
+    "desc": "Living Together As a Married Couple"
+  },
+  {
+    "abbr": "LTB",
+    "desc": "Long Term Benefit"
+  },
+  {
+    "abbr": "LTE",
+    "desc": "Leave to enter"
+  },
+  {
+    "abbr": "LTM",
+    "desc": "Leadership Team Meeting"
+  },
+  {
+    "abbr": "LTR",
+    "desc": "Letter"
+  },
+  {
+    "abbr": "LTS",
+    "desc": "Licence To Support"
+  },
+  {
+    "abbr": "LWF",
+    "desc": "Local Workflow"
+  },
+  {
+    "abbr": "LWI",
+    "desc": "Local Working Instruction"
+  },
+  {
+    "abbr": "LWP",
+    "desc": "Living with partner"
+  },
+  {
+    "abbr": "M",
+    "desc": "Manual"
+  },
+  {
+    "abbr": "M/Cert",
+    "desc": "Marriage Certificate"
+  },
+  {
+    "abbr": "MA",
+    "desc": "Medical Advisor"
+  },
+  {
+    "abbr": "MAC",
+    "desc": "Mixed Age Couples"
+  },
+  {
+    "abbr": "MACMAD",
+    "desc": "Make a Call make a difference"
+  },
+  {
+    "abbr": "MAEQ",
+    "desc": "Maintenance Assessment Enquiry"
+  },
+  {
+    "abbr": "MAF",
+    "desc": "Maintenance Application Form"
+  },
+  {
+    "abbr": "MAGU",
+    "desc": "Monitoring and Guidance Unit (now Advice and guidance Team)"
+  },
+  {
+    "abbr": "MAL",
+    "desc": "Manual Account Load"
+  },
+  {
+    "abbr": "MAP",
+    "desc": "Maternity Allowance Period"
+  },
+  {
+    "abbr": "MAPS",
+    "desc": "Medical Assessment Portal Service"
+  },
+  {
+    "abbr": "MASC",
+    "desc": "Maintenance Assessment Special Cases Regulations"
+  },
+  {
+    "abbr": "MaSH",
+    "desc": "Management and Safety of Health (MaSH) Toolkit"
+  },
+  {
+    "abbr": "MAT",
+    "desc": "Maternity Allowance Threshold"
+  },
+  {
+    "abbr": "MATBEN",
+    "desc": "Maternity Benefit"
+  },
+  {
+    "abbr": "MAU",
+    "desc": "Multiple Assessment Unit"
+  },
+  {
+    "abbr": "MAX",
+    "desc": "Maximum"
+  },
+  {
+    "abbr": "MBU",
+    "desc": "Midlands Business Unit"
+  },
+  {
+    "abbr": "MC",
+    "desc": "Maintenance Calculation"
+  },
+  {
+    "abbr": "MCF",
+    "desc": "Multi-Client Forum"
+  },
+  {
+    "abbr": "MCR",
+    "desc": "Maximum Credit Rating"
+  },
+  {
+    "abbr": "MCU",
+    "desc": "Multiple Calculation Unit"
+  },
+  {
+    "abbr": "MD",
+    "desc": "Mesothelioma Database"
+  },
+  {
+    "abbr": "MDDUS",
+    "desc": "Medical & Dental Defence Union of Scotland"
+  },
+  {
+    "abbr": "MDM",
+    "desc": "Mobile Device Management"
+  },
+  {
+    "abbr": "ME",
+    "desc": "Medical Evidence"
+  },
+  {
+    "abbr": "MEC",
+    "desc": "Medical Examination Centre"
+  },
+  {
+    "abbr": "MED CERT",
+    "desc": "Medical Certificate"
+  },
+  {
+    "abbr": "MEF",
+    "desc": "Maintenance Enquiry Form"
+  },
+  {
+    "abbr": "MEM",
+    "desc": "Memo"
+  },
+  {
+    "abbr": "Mers",
+    "desc": "Merseyside"
+  },
+  {
+    "abbr": "MESI",
+    "desc": "HPES Messaging Team"
+  },
+  {
+    "abbr": "MFA",
+    "desc": "More Frequent Attendance"
+  },
+  {
+    "abbr": "MFT",
+    "desc": "Manual Financial Transactions"
+  },
+  {
+    "abbr": "MFTT",
+    "desc": "Manual Financial Transition Template"
+  },
+  {
+    "abbr": "MGSD",
+    "desc": "Ministers, Governance & Strategy Directorate"
+  },
+  {
+    "abbr": "MH",
+    "desc": "Mental Health"
+  },
+  {
+    "abbr": "MI",
+    "desc": "Management Information"
+  },
+  {
+    "abbr": "MI 12",
+    "desc": "Initial mortgage form"
+  },
+  {
+    "abbr": "MI 12R",
+    "desc": "Annual mortgage review form"
+  },
+  {
+    "abbr": "MIB",
+    "desc": "Manage Inbound"
+  },
+  {
+    "abbr": "MID",
+    "desc": "Mortgage Interest Direct"
+  },
+  {
+    "abbr": "MIDAS",
+    "desc": "Matching Intelligence and Data Analysis"
+  },
+  {
+    "abbr": "MIG",
+    "desc": "Minimum Income Guarantee"
+  },
+  {
+    "abbr": "MIM",
+    "desc": "Major Incident Management"
+  },
+  {
+    "abbr": "MIN",
+    "desc": "Minimum"
+  },
+  {
+    "abbr": "MIRAS",
+    "desc": "mortgage interest relief at source"
+  },
+  {
+    "abbr": "MIRO",
+    "desc": "Mortgage Interest Run-On"
+  },
+  {
+    "abbr": "MIS",
+    "desc": "Management Information System"
+  },
+  {
+    "abbr": "MISP",
+    "desc": "Management Information System Programme"
+  },
+  {
+    "abbr": "MISREP",
+    "desc": "Misrepresentation"
+  },
+  {
+    "abbr": "ML",
+    "desc": "Maintenance Liability"
+  },
+  {
+    "abbr": "MM",
+    "desc": "Managed Moves"
+  },
+  {
+    "abbr": "MML",
+    "desc": "Minimum Maintenance Liability"
+  },
+  {
+    "abbr": "MMU",
+    "desc": "Multiple Maintenance Unit"
+  },
+  {
+    "abbr": "MOB",
+    "desc": "Mobility"
+  },
+  {
+    "abbr": "Mob A",
+    "desc": "Mobility Allowance"
+  },
+  {
+    "abbr": "MOC",
+    "desc": "method of collection"
+  },
+  {
+    "abbr": "MOD",
+    "desc": "Ministry of Defence"
+  },
+  {
+    "abbr": "MoJ",
+    "desc": "Ministry of Justice"
+  },
+  {
+    "abbr": "MOP",
+    "desc": "Method of Payment"
+  },
+  {
+    "abbr": "MOps",
+    "desc": "Motability Operations"
+  },
+  {
+    "abbr": "MORT",
+    "desc": "Mortgage"
+  },
+  {
+    "abbr": "MOSAIC",
+    "desc": "Mail Opening Scanning and Image Circulation"
+  },
+  {
+    "abbr": "MOTA",
+    "desc": "Motability"
+  },
+  {
+    "abbr": "MOU",
+    "desc": "Memorandum of Understanding"
+  },
+  {
+    "abbr": "MP",
+    "desc": "Member of Parliament"
+  },
+  {
+    "abbr": "MPG",
+    "desc": "Measured Payment Groups"
+  },
+  {
+    "abbr": "MPL",
+    "desc": "Minimum Performance Level"
+  },
+  {
+    "abbr": "MPP",
+    "desc": "Maternity Pay Period"
+  },
+  {
+    "abbr": "MPPI",
+    "desc": "Mortgage Payment Protection Insurance"
+  },
+  {
+    "abbr": "MPT",
+    "desc": "Manual Payment Tool"
+  },
+  {
+    "abbr": "MR",
+    "desc": "Mandatory Reconsideration"
+  },
+  {
+    "abbr": "MRCC",
+    "desc": "Middle Rate Care Component"
+  },
+  {
+    "abbr": "MRN",
+    "desc": "Mandatory Reconsideration Notice"
+  },
+  {
+    "abbr": "MS",
+    "desc": "Mobility Support"
+  },
+  {
+    "abbr": "MSC",
+    "desc": "Medical Services Centre"
+  },
+  {
+    "abbr": "MSCRT",
+    "desc": "Medical Services Customer Relations Team"
+  },
+  {
+    "abbr": "MSL",
+    "desc": "Minimum Service Level"
+  },
+  {
+    "abbr": "MSLM",
+    "desc": "Medical Services Liaison Manager"
+  },
+  {
+    "abbr": "MSP",
+    "desc": "Member of Scottish Parliament"
+  },
+  {
+    "abbr": "MSQA",
+    "desc": "Medical Services Quality Audit"
+  },
+  {
+    "abbr": "MSRS",
+    "desc": "Medical Services Referral System"
+  },
+  {
+    "abbr": "MSS",
+    "desc": "Market Share Shift"
+  },
+  {
+    "abbr": "MTTR",
+    "desc": "Mean Time To Resolution"
+  },
+  {
+    "abbr": "MU",
+    "desc": "Management Unit"
+  },
+  {
+    "abbr": "MVA",
+    "desc": "Monetary Value of Adjustment"
+  },
+  {
+    "abbr": "MVE",
+    "desc": "Monetary Value of Error"
+  },
+  {
+    "abbr": "MVFE",
+    "desc": "Monetary Value of Fraud and Error"
+  },
+  {
+    "abbr": "MW/NP",
+    "desc": "Married Woman Non Paying Election"
+  },
+  {
+    "abbr": "MWA",
+    "desc": "Mandatory Work Activity"
+  },
+  {
+    "abbr": "MWP",
+    "desc": "Married Woman Paying"
+  },
+  {
+    "abbr": "N/A",
+    "desc": "not applicable"
+  },
+  {
+    "abbr": "N/H",
+    "desc": "Nursing Home"
+  },
+  {
+    "abbr": "NAFD",
+    "desc": "National Association of Funeral Directors"
+  },
+  {
+    "abbr": "NAFN",
+    "desc": "National Anti Fraud Network"
+  },
+  {
+    "abbr": "NAO",
+    "desc": "National Audit Office"
+  },
+  {
+    "abbr": "NAP",
+    "desc": "Non Associated Post"
+  },
+  {
+    "abbr": "NASS",
+    "desc": "National Asylum Support Service"
+  },
+  {
+    "abbr": "NBA",
+    "desc": "NRP Bank Account"
+  },
+  {
+    "abbr": "NBFH",
+    "desc": "National Benefit Fraud Hotline"
+  },
+  {
+    "abbr": "NC",
+    "desc": "North Central"
+  },
+  {
+    "abbr": "NCA",
+    "desc": "National Crime Agency"
+  },
+  {
+    "abbr": "NCB",
+    "desc": "National Coal Board"
+  },
+  {
+    "abbr": "NCO",
+    "desc": "New Claims Officer"
+  },
+  {
+    "abbr": "NCSC",
+    "desc": "National Cyber Security Centre"
+  },
+  {
+    "abbr": "NCT",
+    "desc": "New Client Team"
+  },
+  {
+    "abbr": "ND",
+    "desc": "Notified Date"
+  },
+  {
+    "abbr": "ND50 plus EC",
+    "desc": "New Deal 50 plus Employment Credit"
+  },
+  {
+    "abbr": "NDDP",
+    "desc": "New Deal for Disabled People"
+  },
+  {
+    "abbr": "NDLP",
+    "desc": "New Deal for Lone Parents"
+  },
+  {
+    "abbr": "NDM",
+    "desc": "not duly made"
+  },
+  {
+    "abbr": "NDP",
+    "desc": "New Deal for Partners"
+  },
+  {
+    "abbr": "NDPB",
+    "desc": "Non-departmental Public Body"
+  },
+  {
+    "abbr": "NDU",
+    "desc": "National Disclosure Unit"
+  },
+  {
+    "abbr": "NE",
+    "desc": "North East"
+  },
+  {
+    "abbr": "NEET",
+    "desc": "Not in Employment, Education or Training"
+  },
+  {
+    "abbr": "NEG ADJ",
+    "desc": "Negative Adjustment"
+  },
+  {
+    "abbr": "NEM",
+    "desc": "North & East Midlands & East Anglia"
+  },
+  {
+    "abbr": "NES",
+    "desc": "North East Scoland"
+  },
+  {
+    "abbr": "NEYH",
+    "desc": "North East Yorkshire and Humberside"
+  },
+  {
+    "abbr": "NF",
+    "desc": "Not found"
+  },
+  {
+    "abbr": "NFA",
+    "desc": "No Further Action"
+  },
+  {
+    "abbr": "NFD",
+    "desc": "Not for Destruction"
+  },
+  {
+    "abbr": "NFS",
+    "desc": "National File Standard"
+  },
+  {
+    "abbr": "NGCC",
+    "desc": "Next Generation Contact Centres"
+  },
+  {
+    "abbr": "NGS",
+    "desc": "Notification Generating Service"
+  },
+  {
+    "abbr": "NHB",
+    "desc": "Notification to Housing Benefit"
+  },
+  {
+    "abbr": "NHL",
+    "desc": "National Help Line"
+  },
+  {
+    "abbr": "NHS",
+    "desc": "National Health Service"
+  },
+  {
+    "abbr": "NHSTH",
+    "desc": "National Health Service Trust Hospital"
+  },
+  {
+    "abbr": "NI",
+    "desc": "Northern Ireland"
+  },
+  {
+    "abbr": "NIC",
+    "desc": "National Insurance Contribution"
+  },
+  {
+    "abbr": "NIC&EO",
+    "desc": "National Insurance Contribution and Employer Office"
+  },
+  {
+    "abbr": "NICO",
+    "desc": "National Insurance Contribution Office"
+  },
+  {
+    "abbr": "NIFU",
+    "desc": "National Identity Fraud Unit"
+  },
+  {
+    "abbr": "NIHE",
+    "desc": "Northern Ireland Housing Executive"
+  },
+  {
+    "abbr": "NINO",
+    "desc": "National Insurance Number"
+  },
+  {
+    "abbr": "NIO",
+    "desc": "Northern Ireland Office"
+  },
+  {
+    "abbr": "NIP",
+    "desc": "National Implementation Plan"
+  },
+  {
+    "abbr": "NIR",
+    "desc": "Northern Ireland Resolved"
+  },
+  {
+    "abbr": "NIRS",
+    "desc": "National Insurance Recording System"
+  },
+  {
+    "abbr": "NIRS2",
+    "desc": "National Insurance Records System 2"
+  },
+  {
+    "abbr": "NISSA",
+    "desc": "Northern Ireland Social Security Agency"
+  },
+  {
+    "abbr": "NIVLA",
+    "desc": "Northern Ireland Vehicle Licensing Agency"
+  },
+  {
+    "abbr": "NJI",
+    "desc": "New Jobseekers Interview"
+  },
+  {
+    "abbr": "NJWFI",
+    "desc": "New Joiners Work Focused Interview"
+  },
+  {
+    "abbr": "NL",
+    "desc": "Notional Liability"
+  },
+  {
+    "abbr": "NLW",
+    "desc": "National Living Wage"
+  },
+  {
+    "abbr": "NMT",
+    "desc": "Network Management Team"
+  },
+  {
+    "abbr": "NMW",
+    "desc": "National Minimum Wage"
+  },
+  {
+    "abbr": "NOA",
+    "desc": "NRP Other Assets"
+  },
+  {
+    "abbr": "NOC",
+    "desc": "Notification of Change"
+  },
+  {
+    "abbr": "NOK",
+    "desc": "Next of Kin"
+  },
+  {
+    "abbr": "NOL",
+    "desc": "Notification Online"
+  },
+  {
+    "abbr": "NOMIS",
+    "desc": "Official labour market statistics, part of ONS."
+  },
+  {
+    "abbr": "NON COMP",
+    "desc": "Non Compliance"
+  },
+  {
+    "abbr": "NOT",
+    "desc": "Section 15 Notification"
+  },
+  {
+    "abbr": "NP",
+    "desc": "New Person"
+  },
+  {
+    "abbr": "NPC",
+    "desc": "National Pension Centre"
+  },
+  {
+    "abbr": "NPIA",
+    "desc": "National Policing Improvement Agency"
+  },
+  {
+    "abbr": "NPM",
+    "desc": "No payment made"
+  },
+  {
+    "abbr": "NPR",
+    "desc": "NRP Property"
+  },
+  {
+    "abbr": "NPS",
+    "desc": "National Insurance Pay as You Earn System"
+  },
+  {
+    "abbr": "NQC",
+    "desc": "non-qualifying child"
+  },
+  {
+    "abbr": "NRP",
+    "desc": "Non-Resident Parent"
+  },
+  {
+    "abbr": "NRPE",
+    "desc": "NRP Employer"
+  },
+  {
+    "abbr": "NRPP",
+    "desc": "Non-resident Parent Partner"
+  },
+  {
+    "abbr": "NRPS",
+    "desc": "No Reasonable Prospect of Success"
+  },
+  {
+    "abbr": "NS",
+    "desc": "North of Scotland"
+  },
+  {
+    "abbr": "Ns",
+    "desc": "North Scotland"
+  },
+  {
+    "abbr": "NSB",
+    "desc": "National Savings Bank"
+  },
+  {
+    "abbr": "NSC",
+    "desc": "National Savings Certificate"
+  },
+  {
+    "abbr": "NSD",
+    "desc": "Network Services Directorate"
+  },
+  {
+    "abbr": "NSP",
+    "desc": "Non State Pension"
+  },
+  {
+    "abbr": "NT",
+    "desc": "No trace"
+  },
+  {
+    "abbr": "NTC",
+    "desc": "New Tax Credit"
+  },
+  {
+    "abbr": "NTW",
+    "desc": "Northumbria and Tyne and Wear"
+  },
+  {
+    "abbr": "NV",
+    "desc": "Not Verified"
+  },
+  {
+    "abbr": "NVH",
+    "desc": "NRP Vehicles"
+  },
+  {
+    "abbr": "NW",
+    "desc": "North West"
+  },
+  {
+    "abbr": "NWBU",
+    "desc": "North West Business Unit"
+  },
+  {
+    "abbr": "NWRR",
+    "desc": "No work–related requirements"
+  },
+  {
+    "abbr": "O/P",
+    "desc": "Overpayment"
+  },
+  {
+    "abbr": "O/S",
+    "desc": "Outstanding"
+  },
+  {
+    "abbr": "OA",
+    "desc": "operational accounting"
+  },
+  {
+    "abbr": "OAA",
+    "desc": "Office Administration Application"
+  },
+  {
+    "abbr": "OAG",
+    "desc": "Operational Assurance Group"
+  },
+  {
+    "abbr": "OAP",
+    "desc": "Overall Assessment Period"
+  },
+  {
+    "abbr": "OAR",
+    "desc": "Outcome Arrestment"
+  },
+  {
+    "abbr": "OAS",
+    "desc": "Overseas Awarding System"
+  },
+  {
+    "abbr": "OAT",
+    "desc": "Outcome Attachment"
+  },
+  {
+    "abbr": "OAU",
+    "desc": "Outcome Auction"
+  },
+  {
+    "abbr": "OB",
+    "desc": "Order Book"
+  },
+  {
+    "abbr": "OBR",
+    "desc": "Office for Budget Responsibility"
+  },
+  {
+    "abbr": "OCC",
+    "desc": "Outcome Category Code"
+  },
+  {
+    "abbr": "OCC PEN",
+    "desc": "Occupational Pension"
+  },
+  {
+    "abbr": "Occ/Pen",
+    "desc": "Occupational Pension"
+  },
+  {
+    "abbr": "OccPen",
+    "desc": "Occupational pension"
+  },
+  {
+    "abbr": "OCCR",
+    "desc": "Overdue Case Check Report"
+  },
+  {
+    "abbr": "OCD",
+    "desc": "Outcome of Commitment/Disqualification"
+  },
+  {
+    "abbr": "OCP",
+    "desc": "Outcome Charge for Payment"
+  },
+  {
+    "abbr": "OCR",
+    "desc": "Operational Change Request"
+  },
+  {
+    "abbr": "ODfB",
+    "desc": "One Drive for Business"
+  },
+  {
+    "abbr": "ODN",
+    "desc": "Operational Delivery Network"
+  },
+  {
+    "abbr": "OE",
+    "desc": "Official Error"
+  },
+  {
+    "abbr": "OED",
+    "desc": "Operational Excellence Directorate"
+  },
+  {
+    "abbr": "OET",
+    "desc": "Operational Executive Team"
+  },
+  {
+    "abbr": "OEX",
+    "desc": "Outcome Exceptional Attachment"
+  },
+  {
+    "abbr": "OFF",
+    "desc": "Record Alleged Offence (Legislation Change)"
+  },
+  {
+    "abbr": "OFSTED",
+    "desc": "Office for Standards in Education"
+  },
+  {
+    "abbr": "OFU",
+    "desc": "Outcome Furthcoming"
+  },
+  {
+    "abbr": "OGD",
+    "desc": "Other Government Department"
+  },
+  {
+    "abbr": "OGDs",
+    "desc": "Other Government Departments"
+  },
+  {
+    "abbr": "OGLAs",
+    "desc": "Operational Go Live Assurance"
+  },
+  {
+    "abbr": "OHS",
+    "desc": "Occupational Health Service"
+  },
+  {
+    "abbr": "OHSD",
+    "desc": "Occupational Health and Safety Division"
+  },
+  {
+    "abbr": "OIAS",
+    "desc": "Operational Impact and Assurance Service"
+  },
+  {
+    "abbr": "OIN",
+    "desc": "Outcome Inhibition"
+  },
+  {
+    "abbr": "OIP",
+    "desc": "Operational Improvement Plan"
+  },
+  {
+    "abbr": "OIU",
+    "desc": "Operational Intelligence Unit"
+  },
+  {
+    "abbr": "OL",
+    "desc": "Operational Lead"
+  },
+  {
+    "abbr": "OLBP",
+    "desc": "On Line Business Procedures"
+  },
+  {
+    "abbr": "OLE",
+    "desc": "On-Line Entitlement"
+  },
+  {
+    "abbr": "OLMU",
+    "desc": "Operational Line Managers Update"
+  },
+  {
+    "abbr": "OLO",
+    "desc": "Outcome Liability Order"
+  },
+  {
+    "abbr": "OMAT",
+    "desc": "Operational Management Assurance Team"
+  },
+  {
+    "abbr": "OMC",
+    "desc": "Operation Management Centre"
+  },
+  {
+    "abbr": "OMR",
+    "desc": "Overpayment of Maintenance Recovery"
+  },
+  {
+    "abbr": "OMS",
+    "desc": "Output Management System"
+  },
+  {
+    "abbr": "ONA",
+    "desc": "On next attendance"
+  },
+  {
+    "abbr": "ONS",
+    "desc": "Office for National Statistics"
+  },
+  {
+    "abbr": "OOHS",
+    "desc": "Out of Hours Service"
+  },
+  {
+    "abbr": "OOS",
+    "desc": "Out of Scope"
+  },
+  {
+    "abbr": "OOT",
+    "desc": "out of time"
+  },
+  {
+    "abbr": "OP",
+    "desc": "Overpayment"
+  },
+  {
+    "abbr": "OP (O)",
+    "desc": "Overpayment Other"
+  },
+  {
+    "abbr": "OP (OE)",
+    "desc": "Overpayment Official Error"
+  },
+  {
+    "abbr": "OPB",
+    "desc": "One Parent Benefit"
+  },
+  {
+    "abbr": "OPEB",
+    "desc": "Operational Prioritisation and Efficiency Board"
+  },
+  {
+    "abbr": "OPG",
+    "desc": "Office of the Public Guardian"
+  },
+  {
+    "abbr": "OPH",
+    "desc": "On Premis Hosting"
+  },
+  {
+    "abbr": "OPMIS",
+    "desc": "Operational Management Information System"
+  },
+  {
+    "abbr": "OPP",
+    "desc": "Operations Planning & Performance"
+  },
+  {
+    "abbr": "OPREC",
+    "desc": "Overpayment Recovery"
+  },
+  {
+    "abbr": "OPRT",
+    "desc": "Office Print Report Tool"
+  },
+  {
+    "abbr": "OPS",
+    "desc": "Operational Section"
+  },
+  {
+    "abbr": "Ops",
+    "desc": "Operations"
+  },
+  {
+    "abbr": "OPSTRAT",
+    "desc": "Operational Strategy System"
+  },
+  {
+    "abbr": "OR",
+    "desc": "Overall Requirements"
+  },
+  {
+    "abbr": "ORC",
+    "desc": "Outbound Reconsideration Call"
+  },
+  {
+    "abbr": "ORCE",
+    "desc": "Observe Record Classify Evaluate"
+  },
+  {
+    "abbr": "ORCS",
+    "desc": "Overpayment Recovery Computer System"
+  },
+  {
+    "abbr": "ORD",
+    "desc": "Other Reasons for Disposal"
+  },
+  {
+    "abbr": "Ord.",
+    "desc": "Order"
+  },
+  {
+    "abbr": "ORG",
+    "desc": "Overpayments Recovery Guide"
+  },
+  {
+    "abbr": "ORO",
+    "desc": "Overseas Registry Office"
+  },
+  {
+    "abbr": "ORR",
+    "desc": "Operational Readiness Review"
+  },
+  {
+    "abbr": "ORS",
+    "desc": "Overpayments Recovery System"
+  },
+  {
+    "abbr": "OSAGS",
+    "desc": "Office of the Solicitor to the Advocate General for Scotland"
+  },
+  {
+    "abbr": "OSCS",
+    "desc": "Office of Child Support and Social Security Commissioners"
+  },
+  {
+    "abbr": "OSD",
+    "desc": "Off System Debt"
+  },
+  {
+    "abbr": "OSH",
+    "desc": "Outcome of Show Cause"
+  },
+  {
+    "abbr": "OSI",
+    "desc": "Outcome Screen Inspection/Investigation"
+  },
+  {
+    "abbr": "OSM",
+    "desc": "Operations & Service Management"
+  },
+  {
+    "abbr": "OSMP",
+    "desc": "Opstrat Strategic Modernised Platform"
+  },
+  {
+    "abbr": "OSN",
+    "desc": "One Service Network"
+  },
+  {
+    "abbr": "OSP",
+    "desc": "Off System Payment"
+  },
+  {
+    "abbr": "OSS",
+    "desc": "On Site Support"
+  },
+  {
+    "abbr": "OSSC",
+    "desc": "The Office of the Social Security commissioners"
+  },
+  {
+    "abbr": "OSSCSC",
+    "desc": "Office of the Social Security and Child Support /Commissioners"
+  },
+  {
+    "abbr": "OT",
+    "desc": "Occupational Therapist"
+  },
+  {
+    "abbr": "OTC",
+    "desc": "Outgoing Telephone call"
+  },
+  {
+    "abbr": "OU",
+    "desc": "Owning Unit"
+  },
+  {
+    "abbr": "OV",
+    "desc": "Official Vehicle"
+  },
+  {
+    "abbr": "OVB",
+    "desc": "Overseas Branch"
+  },
+  {
+    "abbr": "OVBII",
+    "desc": "Overseas Branch Industrial Injuries"
+  },
+  {
+    "abbr": "OWARs",
+    "desc": "Overdue Work Available Reports"
+  },
+  {
+    "abbr": "OWR",
+    "desc": "Overdue Work Report"
+  },
+  {
+    "abbr": "P&L",
+    "desc": "profit and loss"
+  },
+  {
+    "abbr": "P&P",
+    "desc": "Periodicity and Payday"
+  },
+  {
+    "abbr": "P/CS",
+    "desc": "property/capital settlement"
+  },
+  {
+    "abbr": "P/CSA",
+    "desc": "Property/Capital Settlement Allowance"
+  },
+  {
+    "abbr": "P/HR",
+    "desc": "Per hour"
+  },
+  {
+    "abbr": "P/T",
+    "desc": "Part Time"
+  },
+  {
+    "abbr": "P/WK",
+    "desc": "Per week"
+  },
+  {
+    "abbr": "PA",
+    "desc": "Put Away"
+  },
+  {
+    "abbr": "PAB",
+    "desc": "Personal Acting Body"
+  },
+  {
+    "abbr": "PAC",
+    "desc": "Provider Agent Contact"
+  },
+  {
+    "abbr": "PACE",
+    "desc": "Police And Criminal Evidence Act"
+  },
+  {
+    "abbr": "PACS",
+    "desc": "Programme Accounting Computer System"
+  },
+  {
+    "abbr": "PACTS",
+    "desc": "Performance, Accuracy, Compliance, and Timeliness Service"
+  },
+  {
+    "abbr": "PAD",
+    "desc": "Post Office Authorisation Document"
+  },
+  {
+    "abbr": "PAF",
+    "desc": "Postal Office Address File"
+  },
+  {
+    "abbr": "PAG",
+    "desc": "Programme Accounting Group"
+  },
+  {
+    "abbr": "PAL",
+    "desc": "Performance Action and Learning"
+  },
+  {
+    "abbr": "PALS",
+    "desc": "Pension Assets Live Support"
+  },
+  {
+    "abbr": "para.",
+    "desc": "paragraph"
+  },
+  {
+    "abbr": "PAS",
+    "desc": "Personal Account Security"
+  },
+  {
+    "abbr": "PASA",
+    "desc": "Post Award System Activity"
+  },
+  {
+    "abbr": "PASTL",
+    "desc": "personal and account support team leader"
+  },
+  {
+    "abbr": "PAT",
+    "desc": "Provider Assurance Team"
+  },
+  {
+    "abbr": "PaWC",
+    "desc": "Parents With Care"
+  },
+  {
+    "abbr": "PAY",
+    "desc": "Receipt Allocation"
+  },
+  {
+    "abbr": "PAYE",
+    "desc": "Pay As You Earn"
+  },
+  {
+    "abbr": "PAYMT",
+    "desc": "Payment"
+  },
+  {
+    "abbr": "PB",
+    "desc": "Pneumoconiosis, Byssinosis and Miscellaneous Diseases Benefit Scheme"
+  },
+  {
+    "abbr": "PBS",
+    "desc": "Personal Budgeting Support"
+  },
+  {
+    "abbr": "PBU",
+    "desc": "Parliamentary Business Unit"
+  },
+  {
+    "abbr": "PC",
+    "desc": "Personal Computer"
+  },
+  {
+    "abbr": "PCA",
+    "desc": "Personal Capability Assessment for Incapacity Benefit"
+  },
+  {
+    "abbr": "PCC",
+    "desc": "Periodic Case Check"
+  },
+  {
+    "abbr": "PCD",
+    "desc": "Print Case Details"
+  },
+  {
+    "abbr": "PCL",
+    "desc": "Post Code Locator"
+  },
+  {
+    "abbr": "PCM",
+    "desc": "Performance and Culture Manager"
+  },
+  {
+    "abbr": "pcm",
+    "desc": "Per calendar month"
+  },
+  {
+    "abbr": "PCN",
+    "desc": "Project Critical Network"
+  },
+  {
+    "abbr": "PCP",
+    "desc": "Pensions Contact Point"
+  },
+  {
+    "abbr": "PCPG",
+    "desc": "Pension Credit Procedural Guide"
+  },
+  {
+    "abbr": "PCT",
+    "desc": "Primary Care Trust"
+  },
+  {
+    "abbr": "PCU",
+    "desc": "Parliamentary Correspondence Unit"
+  },
+  {
+    "abbr": "PD",
+    "desc": "Prescribed Disease"
+  },
+  {
+    "abbr": "PDA",
+    "desc": "Portfolio Delivery Assurance"
+  },
+  {
+    "abbr": "PDCS",
+    "desc": "Personal Details Computer System"
+  },
+  {
+    "abbr": "PDCS FSU",
+    "desc": "PDCS Fraud Support Unit"
+  },
+  {
+    "abbr": "PDD",
+    "desc": "Paperless Direct Debits"
+  },
+  {
+    "abbr": "PDF",
+    "desc": "Portable Document Format"
+  },
+  {
+    "abbr": "PDLSC",
+    "desc": "Pensions Deferral Lump Sum Calc"
+  },
+  {
+    "abbr": "PDN",
+    "desc": "Primary Delivery Number"
+  },
+  {
+    "abbr": "PDP",
+    "desc": "Personal Development Plan"
+  },
+  {
+    "abbr": "PDPT",
+    "desc": "Project Delivery Profession Team"
+  },
+  {
+    "abbr": "PDQ",
+    "desc": "Pre Defined Query"
+  },
+  {
+    "abbr": "PDS",
+    "desc": "Performance Development System"
+  },
+  {
+    "abbr": "PDU",
+    "desc": "Product Development Unit"
+  },
+  {
+    "abbr": "PE",
+    "desc": "Periodic Enquiry"
+  },
+  {
+    "abbr": "PEA",
+    "desc": "Person from Abroad"
+  },
+  {
+    "abbr": "PEG",
+    "desc": "People Engagement"
+  },
+  {
+    "abbr": "PEP",
+    "desc": "Personal Equity Plan"
+  },
+  {
+    "abbr": "PER",
+    "desc": "Payment Error Recovery"
+  },
+  {
+    "abbr": "Peregrine",
+    "desc": "EDS/HP Problem Management Tool"
+  },
+  {
+    "abbr": "Perm Sec",
+    "desc": "Permanent Secretary"
+  },
+  {
+    "abbr": "PESTLE",
+    "desc": "Political, Economic, Social, Technological, Legal, Environmental"
+  },
+  {
+    "abbr": "PeWC",
+    "desc": "Persons With Care"
+  },
+  {
+    "abbr": "PF",
+    "desc": "Procurator Fiscal"
+  },
+  {
+    "abbr": "PFA",
+    "desc": "Person From Abroad"
+  },
+  {
+    "abbr": "PFIT",
+    "desc": "Pension Forcasting IT system"
+  },
+  {
+    "abbr": "PFS",
+    "desc": "Pension Forcasting Systems (Same as PFIT)"
+  },
+  {
+    "abbr": "PFS MIS",
+    "desc": "Pensions Forecasting System MIS"
+  },
+  {
+    "abbr": "PG",
+    "desc": "Payment Group"
+  },
+  {
+    "abbr": "PGP",
+    "desc": "Pretty Good Privacy"
+  },
+  {
+    "abbr": "PHI",
+    "desc": "Permanent Health Insurance"
+  },
+  {
+    "abbr": "PHME",
+    "desc": "Potentially Harmful Medical Evidence"
+  },
+  {
+    "abbr": "PHSO",
+    "desc": "Parliamentary and Health Service Ombudsman"
+  },
+  {
+    "abbr": "PI",
+    "desc": "Pension Income"
+  },
+  {
+    "abbr": "PID",
+    "desc": "Personal Invitation Document"
+  },
+  {
+    "abbr": "PIE",
+    "desc": "Period of Interruption of Employment"
+  },
+  {
+    "abbr": "PIL",
+    "desc": "Pension-In-Lieu of a Disablement Benefit gratuity"
+  },
+  {
+    "abbr": "PIM",
+    "desc": "Pro-active Incident Management"
+  },
+  {
+    "abbr": "PIMA",
+    "desc": "Pre-Interim Maintenance Assessment"
+  },
+  {
+    "abbr": "PIMT",
+    "desc": "Proactive Incident Management Team"
+  },
+  {
+    "abbr": "PIN",
+    "desc": "Personal Identification Number"
+  },
+  {
+    "abbr": "PinS",
+    "desc": "Professionalism in Security"
+  },
+  {
+    "abbr": "PIP",
+    "desc": "Personal Independence Payment"
+  },
+  {
+    "abbr": "PIP AT",
+    "desc": "Personal Independence Payment Assessment Tool"
+  },
+  {
+    "abbr": "PIP CS",
+    "desc": "Personal Independence Payment Core System"
+  },
+  {
+    "abbr": "PIP EDL",
+    "desc": "PIP – Enhanced Daily Living"
+  },
+  {
+    "abbr": "PIP NGS",
+    "desc": "Personal Independence Payment instance of Notification Generation Service"
+  },
+  {
+    "abbr": "PIP SDL",
+    "desc": "PIP – Standard Daily Living"
+  },
+  {
+    "abbr": "PIPCS",
+    "desc": "Personal Information Payment Computer System"
+  },
+  {
+    "abbr": "PIPIS",
+    "desc": "Personal Information Payment Information System"
+  },
+  {
+    "abbr": "PIW",
+    "desc": "Period of Incapacity for Work"
+  },
+  {
+    "abbr": "PJA",
+    "desc": "Personal Job Account"
+  },
+  {
+    "abbr": "PL",
+    "desc": "Provider Led"
+  },
+  {
+    "abbr": "PLC",
+    "desc": "Process Learning Centre"
+  },
+  {
+    "abbr": "PLCW",
+    "desc": "Period of Limited Capability for Work"
+  },
+  {
+    "abbr": "PLMI",
+    "desc": "Provider Level Management Information"
+  },
+  {
+    "abbr": "PLS",
+    "desc": "Prisoner Location Service"
+  },
+  {
+    "abbr": "PM",
+    "desc": "Performance Measurement"
+  },
+  {
+    "abbr": "PMC",
+    "desc": "Preferred Method of Contact"
+  },
+  {
+    "abbr": "PMG",
+    "desc": "Programme Management Group"
+  },
+  {
+    "abbr": "PML",
+    "desc": "Potential Maximum Loan"
+  },
+  {
+    "abbr": "PMQ",
+    "desc": "Prime Ministers Question"
+  },
+  {
+    "abbr": "PMR",
+    "desc": "Performance Management Regime"
+  },
+  {
+    "abbr": "PMS",
+    "desc": "Print Management Service"
+  },
+  {
+    "abbr": "PMSPOC",
+    "desc": "Performance Measurement Single Point Of Contact"
+  },
+  {
+    "abbr": "PO",
+    "desc": "Purchase Order"
+  },
+  {
+    "abbr": "PoA",
+    "desc": "Power of Attorney"
+  },
+  {
+    "abbr": "POAOB",
+    "desc": "Payment on Account of Benefit"
+  },
+  {
+    "abbr": "POB",
+    "desc": "Proof of Benefit"
+  },
+  {
+    "abbr": "PoC",
+    "desc": "Proof of Concept"
+  },
+  {
+    "abbr": "POCA",
+    "desc": "Post Office Card Account"
+  },
+  {
+    "abbr": "PoCA",
+    "desc": "Proceeds of Crime Act"
+  },
+  {
+    "abbr": "POCL",
+    "desc": "Post Office Counters Limited"
+  },
+  {
+    "abbr": "POD",
+    "desc": "Pensions & Overseas Directorate"
+  },
+  {
+    "abbr": "PODOP",
+    "desc": "Prevention of Duplication of Payment"
+  },
+  {
+    "abbr": "POG",
+    "desc": "Printed Output Guide"
+  },
+  {
+    "abbr": "POL",
+    "desc": "Post Office Ltd"
+  },
+  {
+    "abbr": "POS ADJJ",
+    "desc": "Positive Adjustment"
+  },
+  {
+    "abbr": "POST",
+    "desc": "PRaP Operational Support Team"
+  },
+  {
+    "abbr": "PP",
+    "desc": "Pensioner Premium"
+  },
+  {
+    "abbr": "PPA",
+    "desc": "Prescription Pricing Authority"
+  },
+  {
+    "abbr": "PPC",
+    "desc": "Pre-payment Check"
+  },
+  {
+    "abbr": "PPCD",
+    "desc": "Provision Performance and Controls Division"
+  },
+  {
+    "abbr": "PPF",
+    "desc": "Pension Protection Fund"
+  },
+  {
+    "abbr": "PPIT",
+    "desc": "Payment Procedures & Intranet Team"
+  },
+  {
+    "abbr": "PPQ",
+    "desc": "Programme Protection Query"
+  },
+  {
+    "abbr": "PPVT",
+    "desc": "Provider Payment Validation Team"
+  },
+  {
+    "abbr": "PQ",
+    "desc": "Parliamentary Question(s)"
+  },
+  {
+    "abbr": "PR",
+    "desc": "Provisional Agreement"
+  },
+  {
+    "abbr": "PRaP",
+    "desc": "Provider Referrals and Payments System"
+  },
+  {
+    "abbr": "PRC",
+    "desc": "Payment Record Card"
+  },
+  {
+    "abbr": "PRCS",
+    "desc": "Payment Repository Computer System"
+  },
+  {
+    "abbr": "PRG",
+    "desc": "Programme Requirements Group"
+  },
+  {
+    "abbr": "PRISM",
+    "desc": "Post Release Implementation Support and Maintenance"
+  },
+  {
+    "abbr": "PRO",
+    "desc": "Prosecutions Interview Under Caution"
+  },
+  {
+    "abbr": "Progs",
+    "desc": "Programmes"
+  },
+  {
+    "abbr": "PRP",
+    "desc": "profit related pay"
+  },
+  {
+    "abbr": "PRS",
+    "desc": "Private Rented Sector"
+  },
+  {
+    "abbr": "PS",
+    "desc": "The Pension Service"
+  },
+  {
+    "abbr": "PSA",
+    "desc": "Public Service Agreement"
+  },
+  {
+    "abbr": "PSC",
+    "desc": "Payment Status Change"
+  },
+  {
+    "abbr": "PSCS",
+    "desc": "Pensions Strategy Computer System"
+  },
+  {
+    "abbr": "PSCS/Incap",
+    "desc": "Pensions Services & Incapacity Benefit Computer System"
+  },
+  {
+    "abbr": "PSG",
+    "desc": "Public Sector Gateway"
+  },
+  {
+    "abbr": "PSIC",
+    "desc": "Person subject to immigration control"
+  },
+  {
+    "abbr": "PSIT",
+    "desc": "Private Sector Interface Team"
+  },
+  {
+    "abbr": "PSLIPS",
+    "desc": "Payslips"
+  },
+  {
+    "abbr": "PSM",
+    "desc": "Policy Simulation Model"
+  },
+  {
+    "abbr": "PSMF",
+    "desc": "Professional Service Management Framework"
+  },
+  {
+    "abbr": "PSP",
+    "desc": "Private Sector Partner"
+  },
+  {
+    "abbr": "PT",
+    "desc": "Prospective Test"
+  },
+  {
+    "abbr": "PTE",
+    "desc": "Part Time Earnings"
+  },
+  {
+    "abbr": "PTI",
+    "desc": "Potentially Terminally Ill"
+  },
+  {
+    "abbr": "PTNR",
+    "desc": "Partner"
+  },
+  {
+    "abbr": "PTP",
+    "desc": "Pensions Transformation Programme"
+  },
+  {
+    "abbr": "PTW",
+    "desc": "Part Time Work"
+  },
+  {
+    "abbr": "PU",
+    "desc": "Personnel Unit"
+  },
+  {
+    "abbr": "PUN",
+    "desc": "Pick Up Notice"
+  },
+  {
+    "abbr": "PUS",
+    "desc": "Private User Scheme"
+  },
+  {
+    "abbr": "PUTD",
+    "desc": "Paid up to Date"
+  },
+  {
+    "abbr": "PV",
+    "desc": "Potentially Violent"
+  },
+  {
+    "abbr": "PVP",
+    "desc": "Potentially Violent Person"
+  },
+  {
+    "abbr": "PW",
+    "desc": "Permitted Work"
+  },
+  {
+    "abbr": "PWA",
+    "desc": "Person Without Address"
+  },
+  {
+    "abbr": "PWC",
+    "desc": "Parent With Care"
+  },
+  {
+    "abbr": "PWD",
+    "desc": "Person With Disability"
+  },
+  {
+    "abbr": "PWHL",
+    "desc": "Permitted Work Higher Limit"
+  },
+  {
+    "abbr": "PWK",
+    "desc": "Permitted work"
+  },
+  {
+    "abbr": "PWLL",
+    "desc": "Permitted Work Lower Limit"
+  },
+  {
+    "abbr": "PWP",
+    "desc": "Permitted work period"
+  },
+  {
+    "abbr": "PxP",
+    "desc": "Push and Pull"
+  },
+  {
+    "abbr": "PY",
+    "desc": "Previous Year"
+  },
+  {
+    "abbr": "PYT",
+    "desc": "Payment"
+  },
+  {
+    "abbr": "Q2K",
+    "desc": "Quick To Know"
+  },
+  {
+    "abbr": "QA",
+    "desc": "Quality Assurance"
+  },
+  {
+    "abbr": "QACS",
+    "desc": "Quality Assurance Checking Section"
+  },
+  {
+    "abbr": "QAF",
+    "desc": "Quality Assurance Framework"
+  },
+  {
+    "abbr": "QAM",
+    "desc": "Quality Assurance Manager"
+  },
+  {
+    "abbr": "QAS",
+    "desc": "Quick Address System"
+  },
+  {
+    "abbr": "QB",
+    "desc": "Qualifying Benefit"
+  },
+  {
+    "abbr": "QBD",
+    "desc": "Queen’s Bench Division"
+  },
+  {
+    "abbr": "QC",
+    "desc": "Queen’s Counsel"
+  },
+  {
+    "abbr": "QNINO",
+    "desc": "Qualified National Insurance Number"
+  },
+  {
+    "abbr": "QP",
+    "desc": "Qualifying Period"
+  },
+  {
+    "abbr": "QR",
+    "desc": "Quality Review"
+  },
+  {
+    "abbr": "QRG",
+    "desc": "Quick Reference Guide"
+  },
+  {
+    "abbr": "QRW",
+    "desc": "Qualifying Remunerative Work"
+  },
+  {
+    "abbr": "QSO",
+    "desc": "Quality Support Officer"
+  },
+  {
+    "abbr": "QW",
+    "desc": "Quick Wins"
+  },
+  {
+    "abbr": "QYP",
+    "desc": "Qualifying Young Person"
+  },
+  {
+    "abbr": "R & P",
+    "desc": "Residence and Presence"
+  },
+  {
+    "abbr": "R&R",
+    "desc": "Reward and Recognition"
+  },
+  {
+    "abbr": "RA",
+    "desc": "Risk Assessment"
+  },
+  {
+    "abbr": "RAAF",
+    "desc": "Residual Arrears Amendment Form"
+  },
+  {
+    "abbr": "RACI",
+    "desc": "Reasonable Accountable Consulted Informed"
+  },
+  {
+    "abbr": "RAD",
+    "desc": "Rapid Application Development"
+  },
+  {
+    "abbr": "RAD PM",
+    "desc": "Risk Assurance Division Performance Measurement"
+  },
+  {
+    "abbr": "RAF",
+    "desc": "Returned Assessment Functionality"
+  },
+  {
+    "abbr": "RAG",
+    "desc": "Red/Amber/Green"
+  },
+  {
+    "abbr": "RAM",
+    "desc": "Resource Account Manager"
+  },
+  {
+    "abbr": "RAR",
+    "desc": "Right of Access Request"
+  },
+  {
+    "abbr": "RATS",
+    "desc": "Reassessment Appeals Tracking System"
+  },
+  {
+    "abbr": "RAU",
+    "desc": "Referral for Auction"
+  },
+  {
+    "abbr": "RBD",
+    "desc": "Reduced Benefit Direction"
+  },
+  {
+    "abbr": "RC",
+    "desc": "Relevant child"
+  },
+  {
+    "abbr": "RCD",
+    "desc": "Referral for Commitment/Disqualification"
+  },
+  {
+    "abbr": "RCH",
+    "desc": "Residential Care Home"
+  },
+  {
+    "abbr": "RCT",
+    "desc": "Randomised Control Trial"
+  },
+  {
+    "abbr": "RCVD",
+    "desc": "Received"
+  },
+  {
+    "abbr": "RD",
+    "desc": "Recorded Delivery"
+  },
+  {
+    "abbr": "RDC",
+    "desc": "Regional Delivery Centre"
+  },
+  {
+    "abbr": "RDD",
+    "desc": "Relevant Departure Direction"
+  },
+  {
+    "abbr": "RDO",
+    "desc": "Regular Deduction Order"
+  },
+  {
+    "abbr": "RDT",
+    "desc": "Resource Demand Template"
+  },
+  {
+    "abbr": "RE",
+    "desc": "Refusal of Employment"
+  },
+  {
+    "abbr": "REA",
+    "desc": "Reduced earnings Allowance"
+  },
+  {
+    "abbr": "REC",
+    "desc": "Record"
+  },
+  {
+    "abbr": "REC'D",
+    "desc": "Received"
+  },
+  {
+    "abbr": "RECD",
+    "desc": "Received"
+  },
+  {
+    "abbr": "RECON",
+    "desc": "Reconsideration"
+  },
+  {
+    "abbr": "RED",
+    "desc": "Redial (Same Day)"
+  },
+  {
+    "abbr": "REF",
+    "desc": "Referred"
+  },
+  {
+    "abbr": "REFD",
+    "desc": "Referred"
+  },
+  {
+    "abbr": "REG",
+    "desc": "Regulation"
+  },
+  {
+    "abbr": "REG 10",
+    "desc": "Regulation 10 Adjustment"
+  },
+  {
+    "abbr": "Regs",
+    "desc": "Regulations"
+  },
+  {
+    "abbr": "REL WK",
+    "desc": "Relevant Week"
+  },
+  {
+    "abbr": "REP",
+    "desc": "Representative"
+  },
+  {
+    "abbr": "REQ",
+    "desc": "Requested"
+  },
+  {
+    "abbr": "RER",
+    "desc": "Referral Enhancement Routing (Case Preparation since 2017)"
+  },
+  {
+    "abbr": "ResA",
+    "desc": "Residential Allowance"
+  },
+  {
+    "abbr": "RET’D",
+    "desc": "Returned"
+  },
+  {
+    "abbr": "REV",
+    "desc": "Review"
+  },
+  {
+    "abbr": "REX",
+    "desc": "Referral for Exceptional Attachment"
+  },
+  {
+    "abbr": "RFA",
+    "desc": "Request for Assessment (i.e. reference number)"
+  },
+  {
+    "abbr": "RFD",
+    "desc": "Reasons for Decision"
+  },
+  {
+    "abbr": "RFE",
+    "desc": "Recovery from Estate(s)"
+  },
+  {
+    "abbr": "RFE(S)",
+    "desc": "Recovery from estate Scotland"
+  },
+  {
+    "abbr": "RFI",
+    "desc": "Request For Information"
+  },
+  {
+    "abbr": "RFR",
+    "desc": "Referral Action"
+  },
+  {
+    "abbr": "RGS",
+    "desc": "Recovery Group Scotland"
+  },
+  {
+    "abbr": "RHP",
+    "desc": "Recoverable Hardship Payment"
+  },
+  {
+    "abbr": "RHS",
+    "desc": "Right Hand Side"
+  },
+  {
+    "abbr": "RIA",
+    "desc": "Rent in Advance (Crisis Loan)"
+  },
+  {
+    "abbr": "RICS",
+    "desc": "Royal Institute of Chartered Surveyors"
+  },
+  {
+    "abbr": "RINA",
+    "desc": "Reference Implementation of a National Application"
+  },
+  {
+    "abbr": "RIPA",
+    "desc": "Regulation of Investigatory Powers Act"
+  },
+  {
+    "abbr": "RITY",
+    "desc": "Relevant Income Tax Year"
+  },
+  {
+    "abbr": "RITYs",
+    "desc": "Relevant Income Tax Years"
+  },
+  {
+    "abbr": "RJOF",
+    "desc": "Register of Judgments, Orders and Fines"
+  },
+  {
+    "abbr": "RLA",
+    "desc": "Resetting Locked Accounts"
+  },
+  {
+    "abbr": "RLE",
+    "desc": "Review Lists and Enquiries"
+  },
+  {
+    "abbr": "RLO",
+    "desc": "Referral for Liability Order"
+  },
+  {
+    "abbr": "RLT",
+    "desc": "Relationship Details"
+  },
+  {
+    "abbr": "RM",
+    "desc": "Risk Management"
+  },
+  {
+    "abbr": "RMPS",
+    "desc": "Redundant Mine Workers Pension Scheme"
+  },
+  {
+    "abbr": "RMS",
+    "desc": "Resource Management System"
+  },
+  {
+    "abbr": "RMS4D",
+    "desc": "Referral Management System For Districts"
+  },
+  {
+    "abbr": "RNIB",
+    "desc": "Royal National Institute for the Blind"
+  },
+  {
+    "abbr": "RNR",
+    "desc": "Reason not Required"
+  },
+  {
+    "abbr": "RNRC",
+    "desc": "relevant non resident child"
+  },
+  {
+    "abbr": "RO",
+    "desc": "Reviewing Officer"
+  },
+  {
+    "abbr": "ROBO",
+    "desc": "Remote Office Branch Office"
+  },
+  {
+    "abbr": "ROC",
+    "desc": "Record Of Call"
+  },
+  {
+    "abbr": "ROI",
+    "desc": "Republic of Ireland"
+  },
+  {
+    "abbr": "RoNA",
+    "desc": "Retrieved on no answer"
+  },
+  {
+    "abbr": "RP",
+    "desc": "Retirement Pension"
+  },
+  {
+    "abbr": "RPC",
+    "desc": "Retained Planned Collection"
+  },
+  {
+    "abbr": "RPF",
+    "desc": "Renewal Payment Failure"
+  },
+  {
+    "abbr": "RPI",
+    "desc": "Retail Price Index"
+  },
+  {
+    "abbr": "RPL",
+    "desc": "Risk Priority List"
+  },
+  {
+    "abbr": "RPP",
+    "desc": "Right Payment Programme"
+  },
+  {
+    "abbr": "RR",
+    "desc": "Rapid Review"
+  },
+  {
+    "abbr": "RRC",
+    "desc": "Reducing Regulation Committee"
+  },
+  {
+    "abbr": "RSH",
+    "desc": "Referral for Show Cause"
+  },
+  {
+    "abbr": "RTA",
+    "desc": "Real Time Analyst"
+  },
+  {
+    "abbr": "RTC",
+    "desc": "Ready to Calc"
+  },
+  {
+    "abbr": "RTE",
+    "desc": "Real Time Earnings"
+  },
+  {
+    "abbr": "RTI",
+    "desc": "Real Time Interface"
+  },
+  {
+    "abbr": "RTL",
+    "desc": "Registry Trust Ltd"
+  },
+  {
+    "abbr": "RTN",
+    "desc": "Returned No Authorisation Needed"
+  },
+  {
+    "abbr": "RTO",
+    "desc": "Real Time Officers"
+  },
+  {
+    "abbr": "RTPF",
+    "desc": "Real Time Pensions Forecasting"
+  },
+  {
+    "abbr": "RTPi",
+    "desc": "Request To Pay Integration"
+  },
+  {
+    "abbr": "RTR",
+    "desc": "Right to Reside"
+  },
+  {
+    "abbr": "RTW",
+    "desc": "Return to work"
+  },
+  {
+    "abbr": "RTWC",
+    "desc": "Return To Work Credit"
+  },
+  {
+    "abbr": "RUP",
+    "desc": "Resetting Locked Passwords"
+  },
+  {
+    "abbr": "RUPOP",
+    "desc": "Review Underpayment Overpayment"
+  },
+  {
+    "abbr": "RV",
+    "desc": "Requires Verification"
+  },
+  {
+    "abbr": "RVN",
+    "desc": "Resetting Locked Users"
+  },
+  {
+    "abbr": "RVU",
+    "desc": "Relationship Validation Unit"
+  },
+  {
+    "abbr": "RVW",
+    "desc": "Set Review Date"
+  },
+  {
+    "abbr": "S",
+    "desc": "Supporting"
+  },
+  {
+    "abbr": "S and P",
+    "desc": "Sift and Preparation"
+  },
+  {
+    "abbr": "S of S",
+    "desc": "Secretary of State"
+  },
+  {
+    "abbr": "S/C",
+    "desc": "Sort Code"
+  },
+  {
+    "abbr": "S/E",
+    "desc": "Self Employed"
+  },
+  {
+    "abbr": "S/light",
+    "desc": "Searchlight"
+  },
+  {
+    "abbr": "S/MIME",
+    "desc": "Secure/Multipurpose Internet Mail Extensions"
+  },
+  {
+    "abbr": "S/N",
+    "desc": "Serial Number"
+  },
+  {
+    "abbr": "S/W",
+    "desc": "Submission Writer"
+  },
+  {
+    "abbr": "S2P",
+    "desc": "State Second Pension"
+  },
+  {
+    "abbr": "SA",
+    "desc": "Special Amendment"
+  },
+  {
+    "abbr": "SAB",
+    "desc": "Stable Arrears Balance"
+  },
+  {
+    "abbr": "SACC",
+    "desc": "simple and compound calculator"
+  },
+  {
+    "abbr": "SADO",
+    "desc": "Set Aside Disposition Order"
+  },
+  {
+    "abbr": "SAIF",
+    "desc": "Society of Allied Independent Funeral Directors"
+  },
+  {
+    "abbr": "SALT",
+    "desc": "Senior Analytical Leadership Team"
+  },
+  {
+    "abbr": "SAM",
+    "desc": "Software Asset Management"
+  },
+  {
+    "abbr": "SAMGB",
+    "desc": "Software Asset Management Governance Board"
+  },
+  {
+    "abbr": "SAP",
+    "desc": "Statutory Adoption Pay"
+  },
+  {
+    "abbr": "SAR",
+    "desc": "Subject Access Request"
+  },
+  {
+    "abbr": "SARS",
+    "desc": "Severe Acute Respiratory Syndrome"
+  },
+  {
+    "abbr": "SAS",
+    "desc": "Statistical Analysis System"
+  },
+  {
+    "abbr": "SASI",
+    "desc": "Share and Support Interviews"
+  },
+  {
+    "abbr": "SAT",
+    "desc": "Strategic Assurance Team"
+  },
+  {
+    "abbr": "SATR",
+    "desc": "Self Assessment Tax Return"
+  },
+  {
+    "abbr": "SAYE",
+    "desc": "save as you earn"
+  },
+  {
+    "abbr": "SB",
+    "desc": "Sickness Benefit"
+  },
+  {
+    "abbr": "SBA",
+    "desc": "Search by Address"
+  },
+  {
+    "abbr": "SC",
+    "desc": "Supply Chain"
+  },
+  {
+    "abbr": "SCC",
+    "desc": "Second Contribution Condition"
+  },
+  {
+    "abbr": "SCCS",
+    "desc": "Secure Compliance and Checking System"
+  },
+  {
+    "abbr": "SCH",
+    "desc": "Debt Negotiation"
+  },
+  {
+    "abbr": "Sch",
+    "desc": "Schedule(s)"
+  },
+  {
+    "abbr": "SCR",
+    "desc": "Special Customer Record"
+  },
+  {
+    "abbr": "SCS",
+    "desc": "Senior Civil Service"
+  },
+  {
+    "abbr": "SDA",
+    "desc": "Severe Disablement/Disability Allowance"
+  },
+  {
+    "abbr": "SDBP",
+    "desc": "Same Day Banking Payment"
+  },
+  {
+    "abbr": "SDC",
+    "desc": "Service Delivery Co-ordinator"
+  },
+  {
+    "abbr": "SDC2",
+    "desc": "Service Distribution Centre"
+  },
+  {
+    "abbr": "SDLMU",
+    "desc": "Service Delivery Line Managers' Update"
+  },
+  {
+    "abbr": "SDM",
+    "desc": "Specialist Decision Maker"
+  },
+  {
+    "abbr": "SDN",
+    "desc": "Secondary Delivery Number"
+  },
+  {
+    "abbr": "SDOA",
+    "desc": "Severe Disablement Occupational Allowance"
+  },
+  {
+    "abbr": "SDP",
+    "desc": "Severe Disablement Premium"
+  },
+  {
+    "abbr": "SDT",
+    "desc": "Service Design & Transformation"
+  },
+  {
+    "abbr": "SE",
+    "desc": "South East"
+  },
+  {
+    "abbr": "SEBU",
+    "desc": "South Eastern Business Unit"
+  },
+  {
+    "abbr": "Sec",
+    "desc": "Section (i.e. in legislation)"
+  },
+  {
+    "abbr": "SED",
+    "desc": "Structured Electronic Document"
+  },
+  {
+    "abbr": "SEE",
+    "desc": "small earnings exception"
+  },
+  {
+    "abbr": "SEEC",
+    "desc": "Small Earnings Exception Certificate"
+  },
+  {
+    "abbr": "SEF",
+    "desc": "Statement of Evidence Form"
+  },
+  {
+    "abbr": "SEI",
+    "desc": "Strategic Email Ingestion"
+  },
+  {
+    "abbr": "SEM",
+    "desc": "Secure E Mail"
+  },
+  {
+    "abbr": "SEMP",
+    "desc": "Self Employed"
+  },
+  {
+    "abbr": "SENCO",
+    "desc": "Special Educational Needs Co-ordinator"
+  },
+  {
+    "abbr": "SEO",
+    "desc": "Senior Executive Officer"
+  },
+  {
+    "abbr": "SERPS",
+    "desc": "State Earnings Related Pensions Scheme"
+  },
+  {
+    "abbr": "SEW",
+    "desc": "South East Wales"
+  },
+  {
+    "abbr": "SF",
+    "desc": "Social Fund"
+  },
+  {
+    "abbr": "SFAS",
+    "desc": "Social Fund Accounting System"
+  },
+  {
+    "abbr": "SFAT",
+    "desc": "Social Fund Accounting Team"
+  },
+  {
+    "abbr": "SFBL",
+    "desc": "Social Fund Budgeting Loan"
+  },
+  {
+    "abbr": "SFCL",
+    "desc": "Social Fund Crisis Loan"
+  },
+  {
+    "abbr": "SFCS",
+    "desc": "Social Fund Computer System"
+  },
+  {
+    "abbr": "SFDM",
+    "desc": "Social Fund Decision Maker"
+  },
+  {
+    "abbr": "SFFP",
+    "desc": "Social Fund Funeral Payment"
+  },
+  {
+    "abbr": "SFG",
+    "desc": "Social Fund Guide"
+  },
+  {
+    "abbr": "SFI",
+    "desc": "Social Fund Inspector"
+  },
+  {
+    "abbr": "SFIS",
+    "desc": "Single Fraud Investigation Service"
+  },
+  {
+    "abbr": "SFPG",
+    "desc": "Social Fund Procedural Guidance"
+  },
+  {
+    "abbr": "SFRO",
+    "desc": "Social Fund Reviewing Officer"
+  },
+  {
+    "abbr": "SG",
+    "desc": "Support Group"
+  },
+  {
+    "abbr": "SHA",
+    "desc": "Special Hardship Allowance"
+  },
+  {
+    "abbr": "ShSVCS",
+    "desc": "Shared Services"
+  },
+  {
+    "abbr": "SI",
+    "desc": "Statutory Instruments"
+  },
+  {
+    "abbr": "SIAM",
+    "desc": "Service Integration and Management"
+  },
+  {
+    "abbr": "SIC",
+    "desc": "Standard Industrial Classification"
+  },
+  {
+    "abbr": "SID",
+    "desc": "Service Innovation Downloads"
+  },
+  {
+    "abbr": "SiL",
+    "desc": "Service in Lieu / Service Innovation Leads"
+  },
+  {
+    "abbr": "SIL",
+    "desc": "Service Innovation Lead"
+  },
+  {
+    "abbr": "SIM",
+    "desc": "Service Impact Matrix"
+  },
+  {
+    "abbr": "SimP",
+    "desc": "Simple Payment service"
+  },
+  {
+    "abbr": "SIR",
+    "desc": "Standard Interest Rate"
+  },
+  {
+    "abbr": "SIS",
+    "desc": "Staff Information System"
+  },
+  {
+    "abbr": "SL",
+    "desc": "South London"
+  },
+  {
+    "abbr": "SL2",
+    "desc": "Starter/Leaver form"
+  },
+  {
+    "abbr": "SLA",
+    "desc": "Service Level Agreement"
+  },
+  {
+    "abbr": "SLIMS",
+    "desc": "Site Local Implementation Managers"
+  },
+  {
+    "abbr": "SLOC",
+    "desc": "Site Location Code"
+  },
+  {
+    "abbr": "SLSPOC",
+    "desc": "Service Line Single Point Of Contact"
+  },
+  {
+    "abbr": "SLT",
+    "desc": "Senior Leadership Team"
+  },
+  {
+    "abbr": "SM",
+    "desc": "Supplier Manager"
+  },
+  {
+    "abbr": "SMART",
+    "desc": "Specific; Measurable; Achievable; Realistic; Time bound"
+  },
+  {
+    "abbr": "SMC",
+    "desc": "Special Mobility Component"
+  },
+  {
+    "abbr": "SMI",
+    "desc": "Severely Mentally Impaired"
+  },
+  {
+    "abbr": "SMOP",
+    "desc": "Small Overpayment"
+  },
+  {
+    "abbr": "SMP",
+    "desc": "Statutory Maternity Pay"
+  },
+  {
+    "abbr": "SMS",
+    "desc": "Small Message Service"
+  },
+  {
+    "abbr": "SMT",
+    "desc": "Service Management Team"
+  },
+  {
+    "abbr": "SNAP",
+    "desc": "Secure NINO Allocation Process"
+  },
+  {
+    "abbr": "SNEBU",
+    "desc": "Scottish North East Business Unit"
+  },
+  {
+    "abbr": "SNM",
+    "desc": "Special Needs Memo"
+  },
+  {
+    "abbr": "SO",
+    "desc": "Standing Order"
+  },
+  {
+    "abbr": "SO-ARS",
+    "desc": "Safety Online Accident Reporting System"
+  },
+  {
+    "abbr": "SOC",
+    "desc": "Standard Occupational Classification"
+  },
+  {
+    "abbr": "Soc Invesigator Assistant",
+    "desc": "Criminal Serious Organised Crime Investigator Assistant"
+  },
+  {
+    "abbr": "SOC Investigator",
+    "desc": "Serious and Organised Crime Investigator"
+  },
+  {
+    "abbr": "SOCA",
+    "desc": "Serious Organised Crime Agency"
+  },
+  {
+    "abbr": "SOCC",
+    "desc": "Strategic Operational and Campaign Centre"
+  },
+  {
+    "abbr": "SoFFW",
+    "desc": "Statement of Fitness for Work"
+  },
+  {
+    "abbr": "SofS",
+    "desc": "Secretary of State"
+  },
+  {
+    "abbr": "SOL",
+    "desc": "Solicitors Office"
+  },
+  {
+    "abbr": "SolA",
+    "desc": "Solicitors A Branch"
+  },
+  {
+    "abbr": "SolB",
+    "desc": "Solicitors B Branch"
+  },
+  {
+    "abbr": "SOLP",
+    "desc": "Solicitors Prosecutions"
+  },
+  {
+    "abbr": "SOLS",
+    "desc": "Solicitors Office Scotland"
+  },
+  {
+    "abbr": "SOM",
+    "desc": "Standard Operating Model"
+  },
+  {
+    "abbr": "SOP",
+    "desc": "Single Operating Platform"
+  },
+  {
+    "abbr": "SOR",
+    "desc": "Statement of Reasons"
+  },
+  {
+    "abbr": "SoS",
+    "desc": "Secretary of State"
+  },
+  {
+    "abbr": "SP",
+    "desc": "State Pension"
+  },
+  {
+    "abbr": "SP&SL",
+    "desc": "Secure Printing and Systems Limited"
+  },
+  {
+    "abbr": "SPa",
+    "desc": "State Pension age"
+  },
+  {
+    "abbr": "SPC",
+    "desc": "State Pension Credit"
+  },
+  {
+    "abbr": "SPD",
+    "desc": "State Pension Deferral"
+  },
+  {
+    "abbr": "SPD/LSCC",
+    "desc": "State Pension Deferral Lump sum Contingency Calculator"
+  },
+  {
+    "abbr": "SPM",
+    "desc": "Senior Performance Manager"
+  },
+  {
+    "abbr": "SPO",
+    "desc": "SharePoint Online"
+  },
+  {
+    "abbr": "SPOC",
+    "desc": "Single Point of Contact"
+  },
+  {
+    "abbr": "SPOL",
+    "desc": "State Pension Online"
+  },
+  {
+    "abbr": "SPP",
+    "desc": "Statutory Paternity Pay"
+  },
+  {
+    "abbr": "SPS",
+    "desc": "Simple Payment Service"
+  },
+  {
+    "abbr": "SPT",
+    "desc": "Special Payments Team"
+  },
+  {
+    "abbr": "SPVA",
+    "desc": "Service Personnel and Veterans Agency"
+  },
+  {
+    "abbr": "SPVACS",
+    "desc": "Service Personnel and Veterans Agency Computer System"
+  },
+  {
+    "abbr": "SPW",
+    "desc": "Supported permitted work"
+  },
+  {
+    "abbr": "SQA",
+    "desc": "System and Quality Assurance"
+  },
+  {
+    "abbr": "SQL",
+    "desc": "Structured Query Language"
+  },
+  {
+    "abbr": "SR",
+    "desc": "Special Rules"
+  },
+  {
+    "abbr": "SRG",
+    "desc": "System Reference Guide"
+  },
+  {
+    "abbr": "SRI",
+    "desc": "Summons Reissue"
+  },
+  {
+    "abbr": "SRM",
+    "desc": "Supplier Relationship Management"
+  },
+  {
+    "abbr": "SRO",
+    "desc": "Senior Responsible Officer"
+  },
+  {
+    "abbr": "SRP",
+    "desc": "Statutory Redundancy Pay"
+  },
+  {
+    "abbr": "SRS",
+    "desc": "Social Rented Sector"
+  },
+  {
+    "abbr": "SS",
+    "desc": "Surrey & Sussex"
+  },
+  {
+    "abbr": "SSA",
+    "desc": "Social Security Agreement (Northern Ireland)"
+  },
+  {
+    "abbr": "SSAA",
+    "desc": "Social Security Administration Act"
+  },
+  {
+    "abbr": "SSAFA",
+    "desc": "Social Security Administration (Fraud) Act"
+  },
+  {
+    "abbr": "SSAT",
+    "desc": "Social Security Appeal Tribunal"
+  },
+  {
+    "abbr": "SSB",
+    "desc": "Social Security Benefit"
+  },
+  {
+    "abbr": "SSC",
+    "desc": "Social Security Commissioner"
+  },
+  {
+    "abbr": "SSE",
+    "desc": "Sign Supported English"
+  },
+  {
+    "abbr": "SSEN",
+    "desc": "Statement of Special Educational Needs"
+  },
+  {
+    "abbr": "SSM",
+    "desc": "System Support Manager"
+  },
+  {
+    "abbr": "SSMART",
+    "desc": "Stretching Specific Measurable Achievable Realistic Time Bound"
+  },
+  {
+    "abbr": "SSMG",
+    "desc": "Sure Start Maternity Grant"
+  },
+  {
+    "abbr": "SSO",
+    "desc": "Single Sign On"
+  },
+  {
+    "abbr": "SSP",
+    "desc": "Statutory Sick Pay"
+  },
+  {
+    "abbr": "SSPB",
+    "desc": "Shared Services Programme Board"
+  },
+  {
+    "abbr": "STAP",
+    "desc": "Single Terminal Access Project"
+  },
+  {
+    "abbr": "STAR",
+    "desc": "Specialist Talent Acquisition and Recruitment"
+  },
+  {
+    "abbr": "STARS",
+    "desc": "Storage and Retrieval System"
+  },
+  {
+    "abbr": "STB",
+    "desc": "Short Term Benefit"
+  },
+  {
+    "abbr": "STBA",
+    "desc": "Short Term Benefit Advance"
+  },
+  {
+    "abbr": "STC",
+    "desc": "Successful Telephone Call"
+  },
+  {
+    "abbr": "STL",
+    "desc": "Service Team Leader"
+  },
+  {
+    "abbr": "STO",
+    "desc": "Specialist Trace Officer"
+  },
+  {
+    "abbr": "STR",
+    "desc": "Specialist Trace Register"
+  },
+  {
+    "abbr": "STS",
+    "desc": "Strategy Terminal System"
+  },
+  {
+    "abbr": "SUB",
+    "desc": "Submission"
+  },
+  {
+    "abbr": "SUO",
+    "desc": "System Update Officer"
+  },
+  {
+    "abbr": "SUP",
+    "desc": "Supplimentary Review"
+  },
+  {
+    "abbr": "SUSP",
+    "desc": "Suspension"
+  },
+  {
+    "abbr": "SW",
+    "desc": "South West"
+  },
+  {
+    "abbr": "SWOT",
+    "desc": "Strengths, Weaknesses, Opportunities and Threats"
+  },
+  {
+    "abbr": "SWW",
+    "desc": "South West Wales"
+  },
+  {
+    "abbr": "SY",
+    "desc": "South Yorkshire"
+  },
+  {
+    "abbr": "T Date",
+    "desc": "Transition Date"
+  },
+  {
+    "abbr": "T/C",
+    "desc": "Telephone Call"
+  },
+  {
+    "abbr": "T/In",
+    "desc": "Transfer In"
+  },
+  {
+    "abbr": "T/L",
+    "desc": "Team Leader"
+  },
+  {
+    "abbr": "T/Out",
+    "desc": "Transfer Out – wallet or docs."
+  },
+  {
+    "abbr": "T/W",
+    "desc": "Therapeutic Work"
+  },
+  {
+    "abbr": "TA",
+    "desc": "transitional addition"
+  },
+  {
+    "abbr": "TAG",
+    "desc": "Technical Architecture Group"
+  },
+  {
+    "abbr": "TAM",
+    "desc": "Talent Acquisition Manager"
+  },
+  {
+    "abbr": "TAO",
+    "desc": "Technical Assurance Officer"
+  },
+  {
+    "abbr": "TARAHS",
+    "desc": "Training And Risk Assessment for Health and Safety"
+  },
+  {
+    "abbr": "TAS",
+    "desc": "The Appeals Service"
+  },
+  {
+    "abbr": "TASSA",
+    "desc": "Technical and Site Support Assurance"
+  },
+  {
+    "abbr": "TB",
+    "desc": "Trial Balance"
+  },
+  {
+    "abbr": "TBC",
+    "desc": "To Be Confirmed"
+  },
+  {
+    "abbr": "TC",
+    "desc": "Test Check"
+  },
+  {
+    "abbr": "TCA",
+    "desc": "Tax Credit Act"
+  },
+  {
+    "abbr": "TCFC",
+    "desc": "Took Call From Customer"
+  },
+  {
+    "abbr": "TCO",
+    "desc": "Total Cost of Ownership"
+  },
+  {
+    "abbr": "TCTC",
+    "desc": "Telephone Call to Customer"
+  },
+  {
+    "abbr": "TCV",
+    "desc": "Total Corrective Value"
+  },
+  {
+    "abbr": "TDA",
+    "desc": "Technical Design Assurance"
+  },
+  {
+    "abbr": "TEC",
+    "desc": "Training and Enterprise Council"
+  },
+  {
+    "abbr": "TEED",
+    "desc": "Training Enterprise and Education Directorate"
+  },
+  {
+    "abbr": "TEL",
+    "desc": "Telephone Call"
+  },
+  {
+    "abbr": "TFEM",
+    "desc": "Troubled Families Employment Manager"
+  },
+  {
+    "abbr": "TfW",
+    "desc": "Training for Work"
+  },
+  {
+    "abbr": "TFW",
+    "desc": "Training For Work"
+  },
+  {
+    "abbr": "TI",
+    "desc": "Terminally Ill"
+  },
+  {
+    "abbr": "TIA",
+    "desc": "Taken Into Account"
+  },
+  {
+    "abbr": "TIC",
+    "desc": "Taken Into Consideration"
+  },
+  {
+    "abbr": "TIDO",
+    "desc": "Taxes Information Distribution Office"
+  },
+  {
+    "abbr": "TIDV",
+    "desc": "Telephony Identity Verification"
+  },
+  {
+    "abbr": "TL",
+    "desc": "Team Leader"
+  },
+  {
+    "abbr": "TM",
+    "desc": "Team Member"
+  },
+  {
+    "abbr": "TMG",
+    "desc": "Team Member Guide"
+  },
+  {
+    "abbr": "TMML",
+    "desc": "Technical Meet Me Line"
+  },
+  {
+    "abbr": "TNA",
+    "desc": "Training Needs Analysis"
+  },
+  {
+    "abbr": "TO",
+    "desc": "Treat Official"
+  },
+  {
+    "abbr": "TOC",
+    "desc": "Tribunal of Commissioners"
+  },
+  {
+    "abbr": "TOL",
+    "desc": "Tolerance"
+  },
+  {
+    "abbr": "TOM",
+    "desc": "Target Operating Model"
+  },
+  {
+    "abbr": "TOR",
+    "desc": "Terms Of Reference"
+  },
+  {
+    "abbr": "TORP",
+    "desc": "Total Outstanding Reduction Period"
+  },
+  {
+    "abbr": "TP",
+    "desc": "Transitional Protection"
+  },
+  {
+    "abbr": "TP / TPR",
+    "desc": "Third Party Representative"
+  },
+  {
+    "abbr": "TPD",
+    "desc": "Third Party Deductions"
+  },
+  {
+    "abbr": "TPDO",
+    "desc": "Third Party Debt Order"
+  },
+  {
+    "abbr": "TPM",
+    "desc": "Transformation and Products Manager"
+  },
+  {
+    "abbr": "TPMD",
+    "desc": "Transformation Products Management Directorate"
+  },
+  {
+    "abbr": "TPP",
+    "desc": "Third Party payments"
+  },
+  {
+    "abbr": "TPPM",
+    "desc": "Third Party Provision Manager"
+  },
+  {
+    "abbr": "TPS",
+    "desc": "The Pension Service"
+  },
+  {
+    "abbr": "TREDDS",
+    "desc": "Transformation of EDS Services"
+  },
+  {
+    "abbr": "TRM",
+    "desc": "Technical Recovery Plan"
+  },
+  {
+    "abbr": "TRN",
+    "desc": "Temporary Reference Number"
+  },
+  {
+    "abbr": "TRV",
+    "desc": "Telephone Review (Redial on another day)"
+  },
+  {
+    "abbr": "TS",
+    "desc": "Tribunal Service"
+  },
+  {
+    "abbr": "TSG",
+    "desc": "Technical Support Group"
+  },
+  {
+    "abbr": "TSM",
+    "desc": "Tech Support Managers"
+  },
+  {
+    "abbr": "TSMC",
+    "desc": "Temporary Special Mobility Component"
+  },
+  {
+    "abbr": "TSO",
+    "desc": "Terminal Sharing Option"
+  },
+  {
+    "abbr": "TTC",
+    "desc": "Transfer to Clerical"
+  },
+  {
+    "abbr": "TTP",
+    "desc": "Transferring Telephony Project"
+  },
+  {
+    "abbr": "TTW",
+    "desc": "travel to work"
+  },
+  {
+    "abbr": "TU",
+    "desc": "Trade Union"
+  },
+  {
+    "abbr": "TUPE",
+    "desc": "Transfer Under Protection of Employment"
+  },
+  {
+    "abbr": "TUS",
+    "desc": "Trade Union Side"
+  },
+  {
+    "abbr": "TV",
+    "desc": "Television"
+  },
+  {
+    "abbr": "U/ENT",
+    "desc": "Underlying Entitlement"
+  },
+  {
+    "abbr": "U/R",
+    "desc": "Uprating"
+  },
+  {
+    "abbr": "U18",
+    "desc": "Under 18"
+  },
+  {
+    "abbr": "UA",
+    "desc": "User Access"
+  },
+  {
+    "abbr": "UC",
+    "desc": "Universal Credit"
+  },
+  {
+    "abbr": "UCB",
+    "desc": "Unacceptable Customer Behaviour"
+  },
+  {
+    "abbr": "UCD",
+    "desc": "Update Case Details"
+  },
+  {
+    "abbr": "UCFS",
+    "desc": "Universal Credit Full Service"
+  },
+  {
+    "abbr": "UCLS",
+    "desc": "Universal Credit Live Service"
+  },
+  {
+    "abbr": "UCP",
+    "desc": "Urgent Case Payment"
+  },
+  {
+    "abbr": "UDL",
+    "desc": "University Diagnostics Limited"
+  },
+  {
+    "abbr": "UEL",
+    "desc": "upper earnings limit"
+  },
+  {
+    "abbr": "UFN",
+    "desc": "Until further notice"
+  },
+  {
+    "abbr": "UG7",
+    "desc": "Upper Grade 7"
+  },
+  {
+    "abbr": "UJ",
+    "desc": "Universal Jobmatch"
+  },
+  {
+    "abbr": "UK",
+    "desc": "United Kingdom"
+  },
+  {
+    "abbr": "UKCC PIN",
+    "desc": "United Kingdom Central Council Personal Identification Number"
+  },
+  {
+    "abbr": "UKVPP",
+    "desc": "UK Visa Postal Process"
+  },
+  {
+    "abbr": "UNHCR",
+    "desc": "United Nations High Commissioner for Refugees"
+  },
+  {
+    "abbr": "Uni",
+    "desc": "University"
+  },
+  {
+    "abbr": "UNSUPP",
+    "desc": "Unemployability Supplement"
+  },
+  {
+    "abbr": "UPR",
+    "desc": "Uprating"
+  },
+  {
+    "abbr": "UQ",
+    "desc": "Urgent Question"
+  },
+  {
+    "abbr": "URN",
+    "desc": "Unique Reference Number"
+  },
+  {
+    "abbr": "US",
+    "desc": "Unemployability Supplement"
+  },
+  {
+    "abbr": "USA",
+    "desc": "United States of America"
+  },
+  {
+    "abbr": "USC",
+    "desc": "Unlock Sensitive Cases"
+  },
+  {
+    "abbr": "USS",
+    "desc": "User Support Service"
+  },
+  {
+    "abbr": "UT",
+    "desc": "Upper Tribunal"
+  },
+  {
+    "abbr": "UTC",
+    "desc": "unsuccessful telephone call"
+  },
+  {
+    "abbr": "UTE",
+    "desc": "Uncleared telephone enquiry"
+  },
+  {
+    "abbr": "UTR",
+    "desc": "Unique Tax Reference"
+  },
+  {
+    "abbr": "UxCC",
+    "desc": "User Experience Command Centre"
+  },
+  {
+    "abbr": "V",
+    "desc": "Verified"
+  },
+  {
+    "abbr": "VA",
+    "desc": "Veterans Agency"
+  },
+  {
+    "abbr": "VAR",
+    "desc": "Variation Order"
+  },
+  {
+    "abbr": "VAT",
+    "desc": "Value Added Tax"
+  },
+  {
+    "abbr": "VBA",
+    "desc": "Visual Basics for Applications"
+  },
+  {
+    "abbr": "VC",
+    "desc": "Vulnerable Customer"
+  },
+  {
+    "abbr": "VCC",
+    "desc": "Virtual Contact Centres"
+  },
+  {
+    "abbr": "VCN",
+    "desc": "Virtual Card Number"
+  },
+  {
+    "abbr": "VDU",
+    "desc": "Visual Display Unit"
+  },
+  {
+    "abbr": "VE",
+    "desc": "Verbal Explanation"
+  },
+  {
+    "abbr": "VED",
+    "desc": "Voluntary Earnings Deduction (now DEO)"
+  },
+  {
+    "abbr": "VEP",
+    "desc": "Verify Earnings and Pensions"
+  },
+  {
+    "abbr": "VEX",
+    "desc": "Verbal Explanation"
+  },
+  {
+    "abbr": "VFM",
+    "desc": "Value For Money"
+  },
+  {
+    "abbr": "VH",
+    "desc": "Vacancy Holder"
+  },
+  {
+    "abbr": "VIC",
+    "desc": "Virtual Information Centre"
+  },
+  {
+    "abbr": "VIS",
+    "desc": "Arrange a Visit"
+  },
+  {
+    "abbr": "VME-R",
+    "desc": "Virtual Machine Environment - Replacement"
+  },
+  {
+    "abbr": "VMER",
+    "desc": "Virtual Machine Environment Replacement"
+  },
+  {
+    "abbr": "VMU",
+    "desc": "Validity of Marriage Unit"
+  },
+  {
+    "abbr": "VO",
+    "desc": "Visiting Officer"
+  },
+  {
+    "abbr": "VOA",
+    "desc": "Valuation Office Agency"
+  },
+  {
+    "abbr": "VOCA",
+    "desc": "Voice Output Communication Aid"
+  },
+  {
+    "abbr": "VOLE",
+    "desc": "Verification of Life Events"
+  },
+  {
+    "abbr": "VP",
+    "desc": "voluntary payment"
+  },
+  {
+    "abbr": "VPO",
+    "desc": "Video Presenting Officer"
+  },
+  {
+    "abbr": "VRA",
+    "desc": "Virtual Router Account"
+  },
+  {
+    "abbr": "VT",
+    "desc": "Virtual Team"
+  },
+  {
+    "abbr": "VUTW",
+    "desc": "Virtually Unable to Walk"
+  },
+  {
+    "abbr": "W",
+    "desc": "Welsh"
+  },
+  {
+    "abbr": "W/C",
+    "desc": "Week Commencing"
+  },
+  {
+    "abbr": "W/E",
+    "desc": "Week Ending"
+  },
+  {
+    "abbr": "W/EX",
+    "desc": "Written Explanation"
+  },
+  {
+    "abbr": "W/O",
+    "desc": "Written Off"
+  },
+  {
+    "abbr": "WA",
+    "desc": "Working Age"
+  },
+  {
+    "abbr": "WAD",
+    "desc": "Web Access Device"
+  },
+  {
+    "abbr": "WAG",
+    "desc": "Working Age Group"
+  },
+  {
+    "abbr": "WAN",
+    "desc": "Wide Area Network"
+  },
+  {
+    "abbr": "WAR",
+    "desc": "Work Available Report"
+  },
+  {
+    "abbr": "WARs",
+    "desc": "Work Available Reports"
+  },
+  {
+    "abbr": "WB",
+    "desc": "Widows Benefit"
+  },
+  {
+    "abbr": "WBLA",
+    "desc": "Work Based Learning for Adults"
+  },
+  {
+    "abbr": "WC",
+    "desc": "Workmens' Compensation"
+  },
+  {
+    "abbr": "WCA",
+    "desc": "Work Capability Assessment"
+  },
+  {
+    "abbr": "WCD",
+    "desc": "Authorisation for Commitment/Disqualification"
+  },
+  {
+    "abbr": "WCN",
+    "desc": "Wilful Refusal Culpable Neglect"
+  },
+  {
+    "abbr": "WCS",
+    "desc": "World Class Service"
+  },
+  {
+    "abbr": "WD",
+    "desc": "Waiting Days"
+  },
+  {
+    "abbr": "WDisP",
+    "desc": "War Disablement Pension"
+  },
+  {
+    "abbr": "WDP",
+    "desc": "War Disablement Pension"
+  },
+  {
+    "abbr": "WE",
+    "desc": "Week Ending"
+  },
+  {
+    "abbr": "WEX",
+    "desc": "Written Explanations Team"
+  },
+  {
+    "abbr": "WFES",
+    "desc": "Winter Fuel Enquirery Service"
+  },
+  {
+    "abbr": "WFES-r",
+    "desc": "Winter Fuels Enquiry Service - Replacement"
+  },
+  {
+    "abbr": "WFHRA",
+    "desc": "Work-focused health-related assessment"
+  },
+  {
+    "abbr": "WFI",
+    "desc": "Work-focused interview"
+  },
+  {
+    "abbr": "WFM",
+    "desc": "Workforce Management Tool"
+  },
+  {
+    "abbr": "WFMS",
+    "desc": "Winter Fuel Matching Service"
+  },
+  {
+    "abbr": "WFP",
+    "desc": "Work Force Planning"
+  },
+  {
+    "abbr": "WFPC",
+    "desc": "Winter Fuel Payment Centre"
+  },
+  {
+    "abbr": "WFPS",
+    "desc": "Winter Fuel Payment Service"
+  },
+  {
+    "abbr": "WFPS-r",
+    "desc": "Winter Fuel Payment System Replacement"
+  },
+  {
+    "abbr": "WfT",
+    "desc": "Workflow Team"
+  },
+  {
+    "abbr": "WFTC",
+    "desc": "Working Family Tax Credits"
+  },
+  {
+    "abbr": "WGM",
+    "desc": "Workgroup manager"
+  },
+  {
+    "abbr": "WHC",
+    "desc": "Welsh Health Circular"
+  },
+  {
+    "abbr": "WHP",
+    "desc": "Work and Health Programme"
+  },
+  {
+    "abbr": "WidP",
+    "desc": "Widows Pension/Payment"
+  },
+  {
+    "abbr": "Wks",
+    "desc": "Weeks"
+  },
+  {
+    "abbr": "WL",
+    "desc": "West London"
+  },
+  {
+    "abbr": "WLA",
+    "desc": "Welsh Language Act"
+  },
+  {
+    "abbr": "WLLO",
+    "desc": "Welsh Language Liaison Officer"
+  },
+  {
+    "abbr": "WLP",
+    "desc": "Welsh Large Print"
+  },
+  {
+    "abbr": "WLU",
+    "desc": "Welsh Language Unit"
+  },
+  {
+    "abbr": "WM",
+    "desc": "West Midlands"
+  },
+  {
+    "abbr": "WMA",
+    "desc": "Written Maintenance Agreement"
+  },
+  {
+    "abbr": "WO",
+    "desc": "Written Off"
+  },
+  {
+    "abbr": "WOR",
+    "desc": "Work Overdue Report"
+  },
+  {
+    "abbr": "WP",
+    "desc": "Work Programme"
+  },
+  {
+    "abbr": "WPA",
+    "desc": "Widowed Parents Allowance"
+  },
+  {
+    "abbr": "WPCS",
+    "desc": "War Pensions Computer System"
+  },
+  {
+    "abbr": "WPD",
+    "desc": "Work Programmes Division"
+  },
+  {
+    "abbr": "WPF",
+    "desc": "Work Programme Forum"
+  },
+  {
+    "abbr": "WPFG",
+    "desc": "War Pensioner’s Funeral Grant"
+  },
+  {
+    "abbr": "WPLS",
+    "desc": "Work and Pensions Longitudinal Study"
+  },
+  {
+    "abbr": "WPM",
+    "desc": "Working Practice Manual"
+  },
+  {
+    "abbr": "WPMS",
+    "desc": "War Pension Mobility Supplement"
+  },
+  {
+    "abbr": "WPP",
+    "desc": "Work Programmes Provider"
+  },
+  {
+    "abbr": "WPT",
+    "desc": "Work Place Transformation"
+  },
+  {
+    "abbr": "WQ",
+    "desc": "Workqueue"
+  },
+  {
+    "abbr": "WRA",
+    "desc": "Work-related activity"
+  },
+  {
+    "abbr": "WRAC",
+    "desc": "Work–related activity component"
+  },
+  {
+    "abbr": "WRAG",
+    "desc": "Work Releated Activity Group"
+  },
+  {
+    "abbr": "WRBIS",
+    "desc": "Welfare Reform Business Intelligence Service"
+  },
+  {
+    "abbr": "WRP",
+    "desc": "Welfare Reform Programme"
+  },
+  {
+    "abbr": "WS",
+    "desc": "West Scotland"
+  },
+  {
+    "abbr": "WSD",
+    "desc": "Work Services Directorate"
+  },
+  {
+    "abbr": "WSH",
+    "desc": "Warrant for Show Cause"
+  },
+  {
+    "abbr": "WSI",
+    "desc": "Work Search Interview"
+  },
+  {
+    "abbr": "WSOR",
+    "desc": "Written Statement of Reasons"
+  },
+  {
+    "abbr": "WSP",
+    "desc": "Work Services Platform"
+  },
+  {
+    "abbr": "WT",
+    "desc": "Work Trial"
+  },
+  {
+    "abbr": "WTC",
+    "desc": "Working Tax Credit"
+  },
+  {
+    "abbr": "WTE",
+    "desc": "Whole Time Equivalent"
+  },
+  {
+    "abbr": "WuRTI",
+    "desc": "Wider use of Real Time Information"
+  },
+  {
+    "abbr": "WW",
+    "desc": "Work and Welfare"
+  },
+  {
+    "abbr": "WWG",
+    "desc": "Welfare and Wellbeing Group"
+  },
+  {
+    "abbr": "WWP",
+    "desc": "War Widows Pension"
+  },
+  {
+    "abbr": "WY",
+    "desc": "West Yorkshire"
+  },
+  {
+    "abbr": "XGSG",
+    "desc": "Cross-Government Solutions Group"
+  },
+  {
+    "abbr": "Y/E",
+    "desc": "Year Ending"
+  },
+  {
+    "abbr": "YE",
+    "desc": "Year End"
+  },
+  {
+    "abbr": "YOI",
+    "desc": "Young Offender Institution"
+  },
+  {
+    "abbr": "YP",
+    "desc": "Young Person"
+  },
+  {
+    "abbr": "YR",
+    "desc": "Year"
+  },
+  {
+    "abbr": "Yrs",
+    "desc": "Years"
+  },
+  {
+    "abbr": "YTD",
+    "desc": "Year to Date"
+  },
+  {
+    "abbr": "YTS",
+    "desc": "Youth Training Scheme"
+  },
+  {
+    "abbr": "ZBOD",
+    "desc": "Zero Based Organisation Design"
+  }
+]
