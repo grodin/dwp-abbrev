@@ -26,7 +26,7 @@ jobs:
 
      - name: Build
        run: |
-         trunk build
+         trunk build --release --public-url ${{ github.event.repository.name }}
        working-directory: web-frontend
 
      - name: Deploy
