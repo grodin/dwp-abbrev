@@ -13,6 +13,7 @@ once_cell = "1.17.0"
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
 wasm-bindgen = "0.2"
+web-sys = { version = "0.3", features = ["window"] }
 
 [dev-dependencies]
 wasm-bindgen-test = "0.3"
