@@ -35,7 +35,7 @@ static APP: fn(Scope) -> Element = |ctx| {
                 value: "{filter_query}",
                 r#type: "text",
                 oninput: move |e| filter_query.set(e.value.as_str().into()),
-                autofocus: "true",
+                autofocus: true,
             }
         }
 
