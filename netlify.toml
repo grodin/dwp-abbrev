@@ -1,0 +1,3 @@
+[build]
+command = "cargo install --locked trunk && rustup show && trunk build --release"
+publish = "dist/"
