@@ -8,6 +8,12 @@ pub struct Entry {
 }
 
 impl Entry {
+    pub fn new(abbr: &str, desc: &str) -> Self {
+        Self {
+            abbr: abbr.to_string(),
+            desc: desc.to_string(),
+        }
+    }
     pub fn abbreviation(&self) -> &str {
         &self.abbr
     }
