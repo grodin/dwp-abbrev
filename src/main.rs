@@ -1,46 +1,41 @@
-use dioxus::prelude::*;
-
 use crate::abbreviation::{Entry, ABBREVIATIONS};
 use crate::filter::Filter;
+use dioxus::prelude::*;
 
 mod abbreviation;
 mod filter;
 
 fn main() {
     console_error_panic_hook::set_once();
-    dioxus_web::launch(APP);
+    launch(app);
 }
 
-static APP: fn(Scope) -> Element = |ctx| {
-    let filter_query = use_state(ctx, || Filter::from(""));
+fn app() -> Element {
+    let mut filter_query = use_signal(|| Filter::from(""));
 
     let entries: Vec<&Entry> = ABBREVIATIONS
         .iter()
-        .filter(|entry| filter_query.match_against(entry).is_some())
+        .filter(|entry| filter_query.read().match_against(entry).is_some())
         .take(70)
         .collect();
 
-    let entries_rendered = entries.into_iter().map(|entry| {
-        rsx!(
-            tr {
-                td {entry.abbreviation()}
-                td {entry.description()}
-            }
-        )
-    });
-
-    ctx.render(rsx! {
+    rsx! {
         div {
             input {
                 value: "{filter_query}",
                 r#type: "text",
-                oninput: move |e| filter_query.set(e.value.as_str().into()),
+                oninput: move |e| filter_query.set(e.value().as_str().into()),
                 autofocus: true,
             }
         }
 
         table {
-            entries_rendered
+            for entry in entries.iter() {
+                tr {
+                    td {"{entry.abbreviation()}"}
+                    td {"{entry.description()}"}
+                }
+            }
         }
-    })
-};
+    }
+}
