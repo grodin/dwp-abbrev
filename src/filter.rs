@@ -1,7 +1,7 @@
 use crate::abbreviation::Entry;
 use std::fmt::{Display, Formatter};
 
-#[derive(Debug, Eq, PartialEq)]
+#[derive(Debug, Eq, PartialEq, Clone)]
 pub struct Filter {
     query: String,
 }
