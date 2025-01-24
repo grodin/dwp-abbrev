@@ -49,3 +49,20 @@ impl Display for Filter {
 }
 
 const CONNECTIVES: [&str; 3] = [" and ", " to ", " or "];
+
+#[cfg(test)]
+mod tests {
+    use super::Filter;
+    use crate::abbreviation::Entry;
+
+    #[quickcheck_macros::quickcheck]
+    fn empty_filter_matches_everything(abbr: String, desc: String) -> bool {
+        let filter = Filter::from("");
+        let entry = Entry::new(&abbr, &desc);
+        if let Some(e) = filter.match_against(&entry) {
+            e == &entry
+        } else {
+            false
+        }
+    }
+}
