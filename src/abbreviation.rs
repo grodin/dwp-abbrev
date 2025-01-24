@@ -8,6 +8,7 @@ pub struct Entry {
 }
 
 impl Entry {
+    #[cfg(test)]
     pub fn new(abbr: &str, desc: &str) -> Self {
         Self {
             abbr: abbr.to_string(),
