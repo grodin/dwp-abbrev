@@ -8,10 +8,6 @@ pub struct Entry {
 }
 
 impl Entry {
-    pub fn new(abbr: String, desc: String) -> Self {
-        Self { abbr, desc }
-    }
-
     pub fn abbreviation(&self) -> &str {
         &self.abbr
     }
