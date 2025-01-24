@@ -10,27 +10,27 @@ jobs:
     concurrency: ci-${{ github.ref }} # Recommended if you intend to make multiple deployments in quick succession.
     runs-on: ubuntu-latest
     steps:
-     - name: Checkout
-       uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v3
 
-     - name: Ensure rust toolchain is what we need
-       run: rustup show
+      - name: Ensure rust toolchain is what we need
+        run: rustup show
 
-     - name: Cache rust stuff
-       uses: Swatinem/rust-cache@v2
+      - name: Cache rust stuff
+        uses: Swatinem/rust-cache@v2
 
-     - name: Install trunk
-       uses: jetli/trunk-action@v0.4.0
-       with:
-         version: 'latest'
+      - name: Install trunk
+        uses: jetli/trunk-action@v0.4.0
+        with:
+          version: 'latest'
 
-     - name: Build
-       run: |
-         trunk build --release --public-url ${{ github.event.repository.name }}
-       working-directory: web-frontend
+      - name: Build
+        run: |
+          trunk build --release --public-url ${{ github.event.repository.name }}
+        working-directory: .
 
-     - name: Deploy
-       uses: JamesIves/github-pages-deploy-action@v4.3.0
-       with:
-         branch: gh-pages # The branch the action should deploy to.
-         folder: web-frontend/dist # The folder the action should deploy.
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4.3.0
+        with:
+          branch: gh-pages # The branch the action should deploy to.
+          folder: ./dist # The folder the action should deploy.
