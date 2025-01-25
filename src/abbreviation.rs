@@ -1,5 +1,5 @@
-use once_cell::sync::Lazy;
 use serde::{Deserialize, Serialize};
+use std::sync::LazyLock;
 
 #[derive(Debug, Eq, PartialEq, Serialize, Deserialize)]
 pub struct Entry {
@@ -24,7 +24,7 @@ impl Entry {
     }
 }
 
-pub static ABBREVIATIONS: Lazy<Vec<Entry>> = Lazy::new(|| {
+pub static ABBREVIATIONS: LazyLock<Vec<Entry>> = LazyLock::new(|| {
     let json = include_str!("abbreviations.json");
     serde_json::from_str(json).expect("Failed to parse abbreviations from JSON")
 });

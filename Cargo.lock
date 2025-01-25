@@ -616,7 +616,6 @@ dependencies = [
  "console_error_panic_hook",
  "dioxus",
  "dioxus-web",
- "once_cell",
  "quickcheck",
  "quickcheck_macros",
  "serde",
