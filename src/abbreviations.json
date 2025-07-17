@@ -7464,6 +7464,10 @@
     "desc": "South West"
   },
   {
+    "abbr": "SWI",
+    "desc": "Single Work Instruction"
+  },
+  {
     "abbr": "SWOT",
     "desc": "Strengths, Weaknesses, Opportunities and Threats"
   },
