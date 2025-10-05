@@ -13,11 +13,15 @@ fn main() {
 fn app() -> Element {
     let mut filter_query = use_signal(|| Filter::from(""));
 
-    let entries: Vec<&Entry> = ABBREVIATIONS
+    let mut entries: Vec<&Entry> = ABBREVIATIONS
         .iter()
         .filter(|entry| filter_query.read().match_against(entry).is_some())
         .take(70)
         .collect();
+
+    entries.sort();
+
+    let entries = entries;
 
     const FILTER_INPUT_ID: &str = "filter_input";
 
@@ -41,15 +45,15 @@ fn app() -> Element {
                 value: "{filter_query}",
                 r#type: "text",
                 oninput: move |e| filter_query.set(e.value().as_str().into()),
-                autofocus: true,
+                autofocus: true
             }
         }
 
         table {
             for entry in entries.iter() {
                 tr {
-                    td {"{entry.abbreviation()}"}
-                    td {"{entry.description()}"}
+                    td { "{entry.abbreviation()}" }
+                    td { "{entry.description()}" }
                 }
             }
         }

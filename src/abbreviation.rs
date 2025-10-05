@@ -1,7 +1,7 @@
 use serde::{Deserialize, Serialize};
 use std::sync::LazyLock;
 
-#[derive(Debug, Eq, PartialEq, Serialize, Deserialize)]
+#[derive(Debug, Eq, PartialEq, Serialize, Deserialize, Ord, PartialOrd)]
 pub struct Entry {
     abbr: String,
     desc: String,
