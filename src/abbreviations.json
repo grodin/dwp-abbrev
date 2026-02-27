@@ -1332,6 +1332,10 @@
     "desc": "Communications"
   },
   {
+    "abbr": "COLP",
+    "desc": "Cost of Living Payment"
+  },
+  {
     "abbr": "CON",
     "desc": "Outgoing Telephone Contact"
   },
