@@ -6,72 +6,47 @@ on:
   workflow_dispatch:
 
 jobs:
-  build-with-trunk:
-    name: Build with trunk
+  build-with-bun:
+    name: Build with bun
     concurrency: ci-${{ github.ref }} # Recommended if you intend to make multiple deployments in quick succession.
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-        # This uses the rust-toolchain.toml file to make sure we have the targets/toolchains we need
-      - name: Ensure rust toolchain is what we need
-        run: rustup show
+      - name: Install bun
+        uses: oven-sh/setup-bun@v2
 
-      - name: Cache rust stuff
-        uses: Swatinem/rust-cache@v2
-
-      - name: Install trunk
-        uses: taiki-e/install-action@v2
-        with:
-          tool: trunk
+      - name: Install deps
+        run: bun install
 
       - name: Build
-        run: |
-          trunk build
+        run: bun run build
         working-directory: .
   test:
-    name: Run tests with nextest
+    name: Run tests with bun
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-        # This uses the rust-toolchain.toml file to make sure we have the targets/toolchains we need
-      - name: Ensure rust toolchain is what we need
-        run: rustup show
+      - name: Install bun
+        uses: oven-sh/setup-bun@v2
 
-      - name: Install nextest
-        uses: taiki-e/install-action@v2
-        with:
-          tool: cargo-nextest
+      - name: Install deps
+        run: bun install
 
-      - name: Run nextest
-        run: cargo nextest run
-  clippy:
-    name: Clippy
+      - name: Test with bun
+        run: bun test
+  biome:
+    name: Lint and check format with Biome
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-        # This uses the rust-toolchain.toml file to make sure we have the targets/toolchains we need
-      - name: Ensure rust toolchain is what we need
-        run: rustup show
+      - name: Install bun
+        uses: oven-sh/setup-bun@v2
 
-      - name: Run clippy
-        run: cargo clippy --all-targets -- --deny warnings
-  format:
-    name: Check format
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Install nightly and cargo fmt
-        run:
-          rustup install nightly --profile minimal &&
-          rustup component add rustfmt --toolchain nightly
-
-      - name: Run cargo fmt
-        run: cargo +nightly fmt --all --check
+      - name: Check format/lint with biome
+        run: bunx biome ci

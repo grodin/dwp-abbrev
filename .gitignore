@@ -2,3 +2,4 @@
 dist
 /scratch
 .idea
+node_modules

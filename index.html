@@ -1,12 +1,22 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8"/>
-        <meta name="viewport" content="width=device-width, initial-scale=1"/>
-        <title>DWP Abbreviations</title>
-
-    </head>
-    <body>
-        <div id="main" ></div>
-    </body>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>DWP Abbreviations</title>
+    <link href="styles.css" rel="stylesheet"/>
+    <script src="src/dwp-abbrev-app.ts" type="module"></script>
+</head>
+<body>
+<div id="main" tabindex="0">
+    <form id="input-form">
+        <input name="filter-query" id="filter-query" type="text"
+               placeholder="Abbreviation" autofocus/>
+        <label for="filter-query">Abbreviation search</label>
+    </form>
+    <table id="abbreviations-table">
+        <tbody></tbody>
+    </table>
+</div>
+</body>
 </html>
