@@ -7,7 +7,7 @@
     "build": "bunx tsc --noemit && bun build index.html --outdir ./dist --target browser"
   },
   "devDependencies": {
-    "@types/bun": "^1.3.9"
+    "@types/bun": "1.3.11"
   },
   "peerDependencies": {
     "typescript": "^5"
